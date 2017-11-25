@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ThreshingMachine.label>Threshing machine</ThreshingMachine.label>
+	<ThreshingMachine.description>【Role: Threshing】\nAgricultural tools to consume Inaho and convert it to Momi.\n    Efficiency in order to do by human power is bad.</ThreshingMachine.description>
+	<ThreshingMachine_Blueprint.label>Threshing machine (blueprint)</ThreshingMachine_Blueprint.label>
+	<ThreshingMachine_Blueprint_Install.label>Threshing machine (blueprint)</ThreshingMachine_Blueprint_Install.label>
+	<ThreshingMachine_Frame.label>Threshing machine (building)</ThreshingMachine_Frame.label>
+	<ThreshingMachine_Frame.description>【Role: Threshing】\nAgricultural tools to consume Inaho and convert it to Momi.\n    Efficiency in order to do by human power is bad.</ThreshingMachine_Frame.description>
+	<RiceStoneSlurry.label>Rice stone slurry</RiceStoneSlurry.label>
+	<RiceStoneSlurry.description>【Process: Separate】\nAgricultural tools for threshing rice to produce brown rice. Working efficiency is poor as it is working by hand. </RiceStoneSlurry.description>
+	<RiceStoneSlurry_Blueprint.label>Rice stone slurry (blueprint)</RiceStoneSlurry_Blueprint.label>
+	<RiceStoneSlurry_Blueprint_Install.label>Rice stone slurry (blueprint)</RiceStoneSlurry_Blueprint_Install.label>
+	<RiceStoneSlurry_Frame.label>Rice stone slurry (building)</RiceStoneSlurry_Frame.label>
+	<RiceStoneSlurry_Frame.description>【Role: Separate】\nAgricultural tools to consume Momi and convert it to Brown rice.\n    Efficiency in order to do by human power is bad.</RiceStoneSlurry_Frame.description>
+	<RiceMillingMachine.label>Rice　milling machine</RiceMillingMachine.label>
+	<RiceMillingMachine.description>【Role: Separate,Polish】\nAgricultural tools to consume Brown rice and convert it to White rice.\n    Machine which was born only for the desire to eat delicious white rice.</RiceMillingMachine.description>
+	<RiceMillingMachine_Blueprint.label>Rice　milling machine (blueprint)</RiceMillingMachine_Blueprint.label>
+	<RiceMillingMachine_Blueprint_Install.label>Rice　milling machine (blueprint)</RiceMillingMachine_Blueprint_Install.label>
+	<RiceMillingMachine_Frame.label>Rice　milling machine (building)</RiceMillingMachine_Frame.label>
+	<RiceMillingMachine_Frame.description>【Role: Separate,Polished rice】\nAgricultural tools to consume Brown rice and convert it to White rice.\n    Machine which was born only for the desire to eat delicious white rice.</RiceMillingMachine_Frame.description>
+	<ThreshingRiceMillingMachine.label>All-purpose rice processing machine</ThreshingRiceMillingMachine.label>
+	<ThreshingRiceMillingMachine.description>【Role: Threshing,Separate,Polish】\nAgricultural tools to consume Inaho and convert it to White rice.</ThreshingRiceMillingMachine.description>
+	<ThreshingRiceMillingMachine_Blueprint.label>All-purpose rice processing machine (blueprint)</ThreshingRiceMillingMachine_Blueprint.label>
+	<ThreshingRiceMillingMachine_Blueprint_Install.label>All-purpose rice processing machine (blueprint)</ThreshingRiceMillingMachine_Blueprint_Install.label>
+	<ThreshingRiceMillingMachine_Frame.label>All-purpose rice processing machine (building)</ThreshingRiceMillingMachine_Frame.label>
+	<ThreshingRiceMillingMachine_Frame.description>【Role: Threshing,Separate,Polish】\nAgricultural tools to consume Inaho and convert it to White rice.</ThreshingRiceMillingMachine_Frame.description>
+</LanguageData>

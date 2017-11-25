@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Messtin.label>Messtin</Messtin.label>
+  <Messtin.description>It is used for cooking rice and simple cooking. Cooking speed is reduced by 30%, because there is only a minimum of equipment.</Messtin.description>
+  <Messtin_Blueprint.label>Messtin (blueprint)</Messtin_Blueprint.label>
+  <Messtin_Blueprint_Install.label>Messtin (blueprint)</Messtin_Blueprint_Install.label>
+  <Messtin_Frame.label>Messtin (building)</Messtin_Frame.label>
+  <Messtin_Frame.description>It is used for cooking rice and simple cooking. Cooking speed is reduced by 30%, because there is only a minimum of equipment.</Messtin_Frame.description>
+
+  <IronPot.label>Iron pot</IronPot.label>
+  <IronPot.description>A convenient cooking table when cooking rice or making soup.</IronPot.description>
+  <IronPot_Blueprint.label>Iron pot (blueprint)</IronPot_Blueprint.label>
+  <IronPot_Blueprint_Install.label>Iron pot (blueprint)</IronPot_Blueprint_Install.label>
+  <IronPot_Frame.label>Iron pot (building)</IronPot_Frame.label>
+  <IronPot_Frame.description>A convenient cooking table when cooking rice or making soup.</IronPot_Frame.description>
+
+  <RiceCooker.label>Rice cooker</RiceCooker.label>
+  <RiceCooker.description>A convenient cooking table when cooking rice or making soup. Because it already has the latest cookware cooking speed is increased 30%.</RiceCooker.description>
+  <RiceCooker_Blueprint.label>Rice cooker (blueprint)</RiceCooker_Blueprint.label>
+  <RiceCooker_Blueprint_Install.label>Rice cooker (blueprint)</RiceCooker_Blueprint_Install.label>
+  <RiceCooker_Frame.label>Rice cooker (building)</RiceCooker_Frame.label>
+  <RiceCooker_Frame.description>A convenient cooking table when cooking rice or making soup. Because it already has the latest cookware cooking speed is increased 30%.</RiceCooker_Frame.description>
+
+  <CookingTable.label>仕込み台</CookingTable.label>
+  <CookingTable.description>下準備用の調理台。\n調味料作成や食材加工などが専門。</CookingTable.description>
+  <CookingTable_Blueprint.label>仕込み台 (blueprint)</CookingTable_Blueprint.label>
+  <CookingTable_Blueprint_Install.label>仕込み台 (blueprint)</CookingTable_Blueprint_Install.label>
+  <CookingTable_Frame.label>仕込み台 (building)</CookingTable_Frame.label>
+  <CookingTable_Frame.description>下準備用の調理台。\n調味料作成や食材加工などが専門。</CookingTable_Frame.description>
+
+  <PestleAndMortar.label>杵臼</PestleAndMortar.label>
+  <PestleAndMortar.description>餅つき用の杵と臼。餅を大量に作れる。</PestleAndMortar.description>
+  <PestleAndMortar_Blueprint.label>杵臼 (blueprint)</PestleAndMortar_Blueprint.label>
+  <PestleAndMortar_Blueprint_Install.label>杵臼 (blueprint)</PestleAndMortar_Blueprint_Install.label>
+  <PestleAndMortar_Frame.label>杵臼 (building)</PestleAndMortar_Frame.label>
+  <PestleAndMortar_Frame.description>餅つき用の杵と臼。餅を大量に作れる。</PestleAndMortar_Frame.description>
+
+  <Nukadoko.label>ぬか床</Nukadoko.label>
+  <Nukadoko.description>保存食であるぬか漬けを大量につくれる大きな瓶。</Nukadoko.description>
+  <Nukadoko_Blueprint.label>ぬか床 (blueprint)</Nukadoko_Blueprint.label>
+  <Nukadoko_Blueprint_Install.label>ぬか床 (blueprint)</Nukadoko_Blueprint_Install.label>
+  <Nukadoko_Frame.label>ぬか床 (building)</Nukadoko_Frame.label>
+  <Nukadoko_Frame.description>保存食であるぬか漬けを大量につくれる大きな瓶。</Nukadoko_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単+0 イナゴの佃煮+1 -->
+
+  <R_AteTukudani.stages.0.label>イナゴの佃煮を食べた</R_AteTukudani.stages.0.label>
+  <R_AteTukudani.stages.0.description>目をつぶって食べれば意外といける・・・？</R_AteTukudani.stages.0.description>
+
+
+  <!-- 簡単+0 白米+3 -->
+
+  <R_AteMealSimple.stages.0.label>I ate delicious white rice !!</R_AteMealSimple.stages.0.label>
+  <R_AteMealSimple.stages.0.description>I am happy by eating homemade white rice</R_AteMealSimple.stages.0.description>
+
+
+  <!-- 手の込んだ+5 白米+5 -->
+
+  <R_AteMealFine.stages.0.label>I ate delicious white rice !!</R_AteMealFine.stages.0.label>
+  <R_AteMealFine.stages.0.description>I am happy by eating homemade white rice</R_AteMealFine.stages.0.description>
+
+
+  <!-- 豪華+10 白米+10 -->
+
+  <R_MealLavish.stages.0.label>I ate delicious white rice !!</R_MealLavish.stages.0.label>
+  <R_MealLavish.stages.0.description>I am happy by eating lavish meal made of very tasty homemade white rice</R_MealLavish.stages.0.description>
+
+  <R_CurryRice.stages.0.label>Curry and rice is the best !!</R_CurryRice.stages.0.label>
+  <R_CurryRice.stages.0.description>It is too luxurious to enjoy different tastes every day if we change the ingredients or how to eat</R_CurryRice.stages.0.description>
+
+
+  <!-- 調味料 -->
+
+  <R_SeasoningDebuff.stages.0.label>Let me eat meal... please...</R_SeasoningDebuff.stages.0.label>
+  <R_SeasoningDebuff.stages.0.description>Meals are seasonings only, it is too sadness...</R_SeasoningDebuff.stages.0.description>
+
+  <R_Syrupbuff.stages.0.label>What you steal and eat tastes of rice syrup</R_Syrupbuff.stages.0.label>
+  <R_Syrupbuff.stages.0.description>Rice syrup which licked not to be found by everyone is thrilling sweetness!!</R_Syrupbuff.stages.0.description>
+
+
+</LanguageData>

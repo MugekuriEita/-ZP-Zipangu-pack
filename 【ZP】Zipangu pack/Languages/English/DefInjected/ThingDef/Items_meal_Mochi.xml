@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_RoastedMochi.label>Grilled mochi</R_RoastedMochi.label>
+  <R_RoastedMochi.description>It's baked mochi simply with nothing.</R_RoastedMochi.description>
+
+  <R_ThreeColoredDumplings.label>Three colored dumpling</R_ThreeColoredDumplings.label>
+  <R_ThreeColoredDumplings.description>A slightly sweet dumpling. Although there are various theories, red represents spring which is a symbol of cherry blossoms, white represents winter which is a symbol of snow, and green represents summer which is a symbol of lush greenstuff.
+The reason why there is no dumpling representing autumn comes from japanese pun that Not being Autumn(Akinai) makes Never get bored(Akinai) to eat ,so Business(Akinai) will be thriving.</R_ThreeColoredDumplings.description>
+
+  <R_VinegarMochi.label>Vinegar mochi</R_VinegarMochi.label>
+  <R_VinegarMochi.description>Mochi with vinegar and grated japanese radish.Local cuisine in Kyushu area.</R_VinegarMochi.description>
+
+  <R_IsobeMochi.label>Isobe mochi</R_IsobeMochi.label>
+  <R_IsobeMochi.description>Mochi baked, soaked with soy sauce, wrapped seaweed.</R_IsobeMochi.description>
+
+  <R_GoheiMochi.label>Gohei mochi</R_GoheiMochi.label>
+  <R_GoheiMochi.description>Mochi baked with iron plate and added miso.</R_GoheiMochi.description>
+
+  <R_ZundaMochi.label>Zunda mochi</R_ZundaMochi.label>
+  <R_ZundaMochi.description>Sweet mochi added with crushed edamame. Local cuisine in Touhoku area. \nZun!!Zun!!Zunda! There is an anecdote that a certain girl in a certain country became lunatic because she has loved Zunda mochi too much.</R_ZundaMochi.description>
+
+
+</LanguageData>

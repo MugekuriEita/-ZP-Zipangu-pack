@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rise_Prant.label>Japonica rice</Rise_Prant.label>
+  <Rise_Prant.description>It is japonica rice which can be grown in the field.\nEffort cultivation, threshing husks to brown rice and polished brown rice and made white rice, put them on a dish and eat, It takes a lot of time and effort to do so.\nHowever, rice brought up by producers with affection can be utilized for various things such as food, clothing, and house. Japonica rice is an excellent grain that allows you to improve breeds if you do research. </Rise_Prant.description>
+
+  <UplandRice.label>Upland rice</UplandRice.label>
+  <UplandRice.description>Upland rice is grown in dry fields, harvest and seeded when dry-season.\nThis breed rice are made with a focus on shortening from seeding to harvesting and at the same time can increase the harvest volume slightly.</UplandRice.description>
+
+  <WetlandRice.label>Semiaquatic rice</WetlandRice.label>
+  <WetlandRice.description>Semiaquatic rice that can be grown in paddy fields. A paddy field is a flooded parcel of arable land used for growing semiaquatic rice.\nThis breed rice can make bumper rice harvest, but instead the growth rate was sacrificed.</WetlandRice.description>
+
+
+</LanguageData>

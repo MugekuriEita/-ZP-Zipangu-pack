@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RoundHandFan.label>Round hand fan</RoundHandFan.label>
+  <RoundHandFan.description>A traditional Japanese cooling tool.\n Fans are indispensable items to overcome hot days.\nWhen one season is over, the fans will disappear.</RoundHandFan.description>
+  <RoundHandFan_Blueprint.label>Round hand fan (blueprint)</RoundHandFan_Blueprint.label>
+  <RoundHandFan_Blueprint_Install.label>Round hand fan (blueprint)</RoundHandFan_Blueprint_Install.label>
+  <RoundHandFan_Frame.label>Round hand fan (building)</RoundHandFan_Frame.label>
+  <RoundHandFan_Frame.description>A traditional Japanese cooling tool.\n Fans are indispensable items to overcome hot days.\nWhen one season is over, the fans will disappear.</RoundHandFan_Frame.description>
+
+  <ZP_Brazier.label>Brazier</ZP_Brazier.label>
+  <ZP_Brazier.description>Traditional Japanese heating equipment. It is also possible to cook the Mochi in the brazier.</ZP_Brazier.description>
+  <ZP_Brazier_Blueprint.label>Brazier (blueprint)</ZP_Brazier_Blueprint.label>
+  <ZP_Brazier_Blueprint_Install.label>Brazier (blueprint)</ZP_Brazier_Blueprint_Install.label>
+  <ZP_Brazier_Frame.label>Brazier (building)</ZP_Brazier_Frame.label>
+  <ZP_Brazier_Frame.description>Traditional Japanese heating equipment. It is also possible to cook the Mochi in the brazier.</ZP_Brazier_Frame.description>
+
+
+</LanguageData>

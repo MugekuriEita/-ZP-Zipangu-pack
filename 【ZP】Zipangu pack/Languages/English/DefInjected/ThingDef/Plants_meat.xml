@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ZP_AquacultureFish.label>養殖魚</ZP_AquacultureFish.label>
+	<ZP_AquacultureFish.description>生育期間は長いが非常に栄養価の高い魚を収穫することができる。</ZP_AquacultureFish.description>
+	<ZP_PlantSoy.label>大豆</ZP_PlantSoy.label>
+	<ZP_PlantSoy.description>畑のお肉である大豆を育成できる。成長は遅いが痩せた土地でも育つので重宝する。</ZP_PlantSoy.description>
+	<ZP_PlantEdamame.label>枝豆</ZP_PlantEdamame.label>
+	<ZP_PlantEdamame.description>畑のお肉である枝豆を育成できる。成長は早いが栄養価が低い。痩せた土地でも育つので重宝する。</ZP_PlantEdamame.description>
+</LanguageData>

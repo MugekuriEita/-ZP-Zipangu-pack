@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 十手 Base クラブ -->
+
+  <MeleeWeapon_Jitte.label>十手</MeleeWeapon_Jitte.label>
+  <MeleeWeapon_Jitte.description>日本に古くから伝わる捕物道具。敵の攻撃を防ぐことができる。</MeleeWeapon_Jitte.description>
+  <MeleeWeapon_Jitte.tools.0.label>handle</MeleeWeapon_Jitte.tools.0.label>
+  <MeleeWeapon_Jitte.tools.1.label>head</MeleeWeapon_Jitte.tools.1.label>
+
+  <MeleeWeapon_Marohoshi.label>まろほし</MeleeWeapon_Marohoshi.label>
+  <MeleeWeapon_Marohoshi.description>十手を改造することで敵の攻撃を更に防ぎやすくなった捕物道具。</MeleeWeapon_Marohoshi.description>
+  <MeleeWeapon_Marohoshi.tools.0.label>handle</MeleeWeapon_Marohoshi.tools.0.label>
+  <MeleeWeapon_Marohoshi.tools.1.label>head</MeleeWeapon_Marohoshi.tools.1.label>
+
+  <MeleeWeapon_Sasumata.label>刺叉</MeleeWeapon_Sasumata.label>
+  <MeleeWeapon_Sasumata.description>相手の動きを封じ込むための捕物道具。近接相手は牽制できるが飛び道具相手には対応できない。</MeleeWeapon_Sasumata.description>
+  <MeleeWeapon_Sasumata.tools.0.label>handle</MeleeWeapon_Sasumata.tools.0.label>
+  <MeleeWeapon_Sasumata.tools.1.label>head</MeleeWeapon_Sasumata.tools.1.label>
+
+
+  <!-- 脇差 Base グラディウス -->
+
+  <MeleeWeapon_Wakizasi.label>脇差</MeleeWeapon_Wakizasi.label>
+  <MeleeWeapon_Wakizasi.description>It is a short sword handed down in the East.It is used as a spare weapon for when the main weapon is broken.</MeleeWeapon_Wakizasi.description>
+  <MeleeWeapon_Wakizasi.tools.0.label>突き</MeleeWeapon_Wakizasi.tools.0.label>
+  <MeleeWeapon_Wakizasi.tools.1.label>薙ぎ払い</MeleeWeapon_Wakizasi.tools.1.label>
+  <MeleeWeapon_Wakizasi.tools.2.label>振り下ろし</MeleeWeapon_Wakizasi.tools.2.label>
+
+
+  <!-- 刀 Base ロングソード -->
+
+  <MeleeWeapon_KATANA.label>Katana Blade</MeleeWeapon_KATANA.label>
+  <MeleeWeapon_KATANA.description>It is a sword handed down in the East. Compared with Longsword, it takes many time and effort to make it, but it has high power.</MeleeWeapon_KATANA.description>
+  <MeleeWeapon_KATANA.tools.0.label>突き</MeleeWeapon_KATANA.tools.0.label>
+  <MeleeWeapon_KATANA.tools.1.label>薙ぎ払い</MeleeWeapon_KATANA.tools.1.label>
+  <MeleeWeapon_KATANA.tools.2.label>振り下ろし</MeleeWeapon_KATANA.tools.2.label>
+
+
+  <!-- 大太刀 Base 刀 -->
+
+  <ZP_Odachi.label>Odachi Blade</ZP_Odachi.label>
+  <ZP_Odachi.description>A large sword made for further improvement of power.</ZP_Odachi.description>
+  <ZP_Odachi.tools.0.label>突き</ZP_Odachi.tools.0.label>
+  <ZP_Odachi.tools.1.label>薙ぎ払い</ZP_Odachi.tools.1.label>
+  <ZP_Odachi.tools.2.label>振り下ろし</ZP_Odachi.tools.2.label>
+
+
+  <!-- 長槍 Base スピア -->
+
+  <ZP_LongSpear.label>Nagayari Spear</ZP_LongSpear.label>
+  <ZP_LongSpear.description>A weapon with a long reach. Because the reach is long, you can attack from the outside of the opponent's confrontation in the case of proximity battle.</ZP_LongSpear.description>
+  <ZP_LongSpear.tools.0.label>殴打</ZP_LongSpear.tools.0.label>
+  <ZP_LongSpear.tools.1.label>突き</ZP_LongSpear.tools.1.label>
+
+
+  <!-- 十文字槍 Base スピア -->
+
+  <ZP_JumonjiSpear.label>Jumonji Spear</ZP_JumonjiSpear.label>
+  <ZP_JumonjiSpear.description>A weapon with a long reach.It makes the spear tip cross and makes it hard to avoid when piercing. It also has applications such as hooking and scraping.</ZP_JumonjiSpear.description>
+  <ZP_JumonjiSpear.tools.0.label>斬り裂き</ZP_JumonjiSpear.tools.0.label>
+  <ZP_JumonjiSpear.tools.1.label>殴打</ZP_JumonjiSpear.tools.1.label>
+  <ZP_JumonjiSpear.tools.2.label>突き</ZP_JumonjiSpear.tools.2.label>
+
+
+  <!-- 長槍 Base スピア -->
+
+  <ZP_Naginata.label>Naginata</ZP_Naginata.label>
+  <ZP_Naginata.description>A long stick attached to a sword and improved. It looks like a glaive and has a very long reach</ZP_Naginata.description>
+  <ZP_Naginata.tools.0.label>突き</ZP_Naginata.tools.0.label>
+  <ZP_Naginata.tools.1.label>薙ぎ払い</ZP_Naginata.tools.1.label>
+  <ZP_Naginata.tools.2.label>振り下ろし</ZP_Naginata.tools.2.label>
+
+
+</LanguageData>

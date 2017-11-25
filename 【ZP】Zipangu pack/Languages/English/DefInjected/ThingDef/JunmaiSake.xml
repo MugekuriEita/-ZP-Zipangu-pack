@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZPJunmaiSake.label>純米酒</ZPJunmaiSake.label>
+  <ZPJunmaiSake.description>白米のみで製造した清酒。\nお米本来の味わいが特徴のお酒。</ZPJunmaiSake.description>
+  <ZPJunmaiSake.ingestible.ingestCommandString>Drink {0}</ZPJunmaiSake.ingestible.ingestCommandString>
+  <ZPJunmaiSake.ingestible.ingestReportString>Drinking {0}.</ZPJunmaiSake.ingestible.ingestReportString>
+  <ZPJunmaiSake.tools.1.label>neck</ZPJunmaiSake.tools.1.label>
+
+  <R_JunmaiSakeBarrel.label>純米酒樽</R_JunmaiSakeBarrel.label>
+  <R_JunmaiSakeBarrel.description>純米酒の原料になる。</R_JunmaiSakeBarrel.description>
+
+
+</LanguageData>

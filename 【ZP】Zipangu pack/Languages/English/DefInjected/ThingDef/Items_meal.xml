@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BR_Gohan.label>Gohan(BR)</BR_Gohan.label>
+	<BR_Gohan.description>Let's enjoy the taste of rice as it is without saying that I want side dishes!!</BR_Gohan.description>
+	<WR_Gohan.label>Gohan</WR_Gohan.label>
+	<WR_Gohan.description>The best cup brought out by the bowl to enjoy the white rice very much.</WR_Gohan.description>
+	<BR_TKG.label>TKG(BR)</BR_TKG.label>
+	<BR_TKG.description>The Devil wisp. Put "safer" raw eggs and make delicious rice more delicious.</BR_TKG.description>
+	<WR_TKG.label>TKG</WR_TKG.label>
+	<WR_TKG.description>The Devil wisp. Put "safer" raw eggs and make delicious rice more delicious.</WR_TKG.description>
+	<BR_Onigiri.label>Onigiri(BR)</BR_Onigiri.label>
+	<BR_Onigiri.description>Brown rice balls with salty taste to be eaten anywhere.</BR_Onigiri.description>
+	<WR_Onigiri.label>Onigiri</WR_Onigiri.label>
+	<WR_Onigiri.description>White rice balls with salty taste to be eaten anywhere.</WR_Onigiri.description>
+	<BR_Bento.label>Bento(BR)</BR_Bento.label>
+	<BR_Bento.description>Bento of brown rice that can be eaten anywhere.</BR_Bento.description>
+	<WR_Bento.label>Bento</WR_Bento.label>
+	<WR_Bento.description>Bento of white rice that can be eaten anywhere.</WR_Bento.description>
+	<BR_Jubako.label>Jubako(BR)</BR_Jubako.label>
+	<BR_Jubako.description>Lavish Bento of brown rice that can be eaten anywhere.</BR_Jubako.description>
+	<WR_Jubako.label>Jubako</WR_Jubako.label>
+	<WR_Jubako.description>Lavish Bento of white rice that can be eaten anywhere.</WR_Jubako.description>
+	<BR_Gyudon.label>Gyudon(BR)</BR_Gyudon.label>
+	<BR_Gyudon.description>A bowl of plenty of meat on brown rice.</BR_Gyudon.description>
+	<WR_Gyudon.label>Gyudon</WR_Gyudon.label>
+	<WR_Gyudon.description>A bowl of plenty of meat on white rice.</WR_Gyudon.description>
+	<WR_JPCurryRice.label>JP CurryRice</WR_JPCurryRice.label>
+	<WR_JPCurryRice.description>In some countries, everyone loves enchanting curry rice, so it will make meaningless battles with how to eat and what is ingredients.</WR_JPCurryRice.description>
+	<Tukudani.label>イナゴの佃煮</Tukudani.label>
+	<Tukudani.description>普段は捨てられるはずの虫の肉を砂糖と醤油で甘辛く煮付けた食べ物。</Tukudani.description>
+	<ZP_WRSushi.label>握り寿司</ZP_WRSushi.label>
+	<ZP_WRSushi.description>酢飯の上に新鮮な魚の切り身をのせ握った伝統的な日本料理。</ZP_WRSushi.description>
+	<ZP_Sasimi.label>刺身</ZP_Sasimi.label>
+	<ZP_Sasimi.description>新鮮な生魚を食べやすい大きさに切りお皿に盛り合わせたもの。</ZP_Sasimi.description>
+	<ZP_SaltGrilledFish.label>魚の塩焼き</ZP_SaltGrilledFish.label>
+	<ZP_SaltGrilledFish.description>塩をまぶした魚を串にさし直火で焼いたもの。焼いた魚の旨味を堪能できる一品。</ZP_SaltGrilledFish.description>
+	<ZP_SteamedFish.label>魚の煮付け</ZP_SteamedFish.label>
+	<ZP_SteamedFish.description>魚を軽く茹でた後に調味料で味をつけ煮付けた食べ物。</ZP_SteamedFish.description>
+</LanguageData>

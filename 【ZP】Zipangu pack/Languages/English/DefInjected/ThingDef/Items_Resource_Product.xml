@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 燃料 -->
+	<Momigalite.label>Momigalite</Momigalite.label>
+	<Momigalite.description>Can be used as fuel.</Momigalite.description>
+	<FuelStraw.label>Fuel straw</FuelStraw.label>
+	<FuelStraw.description>Can be used as fuel.</FuelStraw.description>
+	<!-- 米俵 -->
+	<StrawRiceBag_RawRice.label>StrawRiceBag(Rice)</StrawRiceBag_RawRice.label>
+	<StrawRiceBag_RawRice.description>This is a collection of much Rice in one. Also, it can be sold as a special product.</StrawRiceBag_RawRice.description>
+	<StrawRiceBag_RiceMomi.label>StrawRiceBag(Momi)</StrawRiceBag_RiceMomi.label>
+	<StrawRiceBag_RiceMomi.description>This is a collection of much Momi in one. Also, it can be sold as a special product.</StrawRiceBag_RiceMomi.description>
+	<StrawRiceBag_BrownRice.label>StrawRiceBag(Brown Rice)</StrawRiceBag_BrownRice.label>
+	<StrawRiceBag_BrownRice.description>This is a collection of much Brown Rice in one. Also, it can be sold at higher price as a special product.</StrawRiceBag_BrownRice.description>
+	<StrawRiceBag_WhiteRice.label>StrawRiceBag(White rice)</StrawRiceBag_WhiteRice.label>
+	<StrawRiceBag_WhiteRice.description>This is a collection of much White Rice in one.Also, it can be sold at much higher price as a special product.</StrawRiceBag_WhiteRice.description>
+	<!-- 肥料 -->
+	<R_Compost.label>Compost</R_Compost.label>
+	<R_Compost.description>Fertilizer to use when paddy field construction.</R_Compost.description>
+	<ZP_Earthworm.label>ミミズ</ZP_Earthworm.label>
+	<ZP_Earthworm.description>魚の餌や土壌改良の際に必要。</ZP_Earthworm.description>
+	<ZP_Mud.label>泥</ZP_Mud.label>
+	<ZP_Mud.description>土壌改良の際に必要。</ZP_Mud.description>
+	<!-- 飼料 -->
+	<Manger.label>Manger</Manger.label>
+	<Manger.description>Livestock feed (high nutrient)</Manger.description>
+	<PetFood.label>Pet Food</PetFood.label>
+	<PetFood.description>Pet food perfect for livestock feed.</PetFood.description>
+	<ZP_FishFood.label>魚の餌</ZP_FishFood.label>
+	<ZP_FishFood.description>米ぬかとジャガイモを水で練り合わせて作った魚の練り餌。\n 動物も食べることが出来る。</ZP_FishFood.description>
+	<TatamiStraw.label>建材用藁</TatamiStraw.label>
+	<TatamiStraw.description>藁を建材用に加工したもの。</TatamiStraw.description>
+</LanguageData>

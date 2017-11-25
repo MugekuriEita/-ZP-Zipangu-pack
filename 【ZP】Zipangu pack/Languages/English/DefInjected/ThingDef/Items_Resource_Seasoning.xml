@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_Syrup.label>Rice Syrup</R_Syrup.label>
+  <R_Syrup.description>Traditional Japanese sweetener.\n\nDepending on the type of rice as raw material and its processing method, it shows golden to red copper color.\n\nBefore the spread of sugar, it was used everywhere in Japan.</R_Syrup.description>
+
+  <R_NaturalSalt.label>Natural salt</R_NaturalSalt.label>
+  <R_NaturalSalt.description>Natural salt made by boiling water containing salt and evaporating moisture.</R_NaturalSalt.description>
+
+  <R_VinegarBarrel.label>米酢樽</R_VinegarBarrel.label>
+  <R_VinegarBarrel.description>発酵させることで米酢ができる。</R_VinegarBarrel.description>
+
+  <R_Vinegar.label>Vinegar</R_Vinegar.label>
+  <R_Vinegar.description>Rice vinegar used for cooking.</R_Vinegar.description>
+
+  <R_SoySauceBarrel.label>醤油樽</R_SoySauceBarrel.label>
+  <R_SoySauceBarrel.description>発酵させることで醤油ができる。</R_SoySauceBarrel.description>
+
+  <R_SoySauce.label>Soy sauce</R_SoySauce.label>
+  <R_SoySauce.description>Soy sauce that can be used for cooking.</R_SoySauce.description>
+
+  <R_MisoBarrel.label>味噌樽</R_MisoBarrel.label>
+  <R_MisoBarrel.description>発酵させることで味噌ができる。</R_MisoBarrel.description>
+
+  <R_Miso.label>Miso</R_Miso.label>
+  <R_Miso.description>Miso that can be used for cooking.</R_Miso.description>
+
+
+</LanguageData>

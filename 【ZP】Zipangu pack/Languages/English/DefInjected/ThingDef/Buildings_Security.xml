@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 大盾　Base 土嚢 -->
+
+  <ZP_KaiShield.label>かい盾</ZP_KaiShield.label>
+  <ZP_KaiShield.description>銃撃を防げる設置型の盾。\nカバー率が高く急造で作れる安価な盾だが、耐久度がかなり低く燃えるので要注意。</ZP_KaiShield.description>
+  <ZP_KaiShield_Blueprint.label>かい盾 (blueprint)</ZP_KaiShield_Blueprint.label>
+  <ZP_KaiShield_Frame.label>かい盾 (building)</ZP_KaiShield_Frame.label>
+  <ZP_KaiShield_Frame.description>銃撃を防げる設置型の盾。\nカバー率が高く急造で作れる安価な盾だが、耐久度がかなり低く燃えるので要注意。</ZP_KaiShield_Frame.description>
+
+
+  <!-- 火計用藁　Base 土嚢 -->
+
+  <ZP_StrawLump.label>藁の塊</ZP_StrawLump.label>
+  <ZP_StrawLump.description>燃えやすい藁の塊。並べてタイミングよく着火する事で火の壁を作り出せる。火を扱うので運用の際は注意が必要。</ZP_StrawLump.description>
+  <ZP_StrawLump_Blueprint.label>藁の塊 (blueprint)</ZP_StrawLump_Blueprint.label>
+  <ZP_StrawLump_Frame.label>藁の塊 (building)</ZP_StrawLump_Frame.label>
+  <ZP_StrawLump_Frame.description>燃えやすい藁の塊。並べてタイミングよく着火する事で火の壁を作り出せる。火を扱うので運用の際は注意が必要。</ZP_StrawLump_Frame.description>
+
+  <ZP_StrawLump_Gunpowder.label>火薬藁</ZP_StrawLump_Gunpowder.label>
+  <ZP_StrawLump_Gunpowder.description>火薬が混じってる藁の塊。着火する事で爆発させることができる。火を扱うので運用の際は注意が必要。</ZP_StrawLump_Gunpowder.description>
+  <ZP_StrawLump_Gunpowder_Blueprint.label>火薬藁 (blueprint)</ZP_StrawLump_Gunpowder_Blueprint.label>
+  <ZP_StrawLump_Gunpowder_Frame.label>火薬藁 (building)</ZP_StrawLump_Gunpowder_Frame.label>
+  <ZP_StrawLump_Gunpowder_Frame.description>火薬が混じってる藁の塊。着火する事で爆発させることができる。火を扱うので運用の際は注意が必要。</ZP_StrawLump_Gunpowder_Frame.description>
+
+
+</LanguageData>

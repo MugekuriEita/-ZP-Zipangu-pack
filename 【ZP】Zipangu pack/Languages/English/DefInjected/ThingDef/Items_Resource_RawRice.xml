@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Inaho.label>Inaho</Inaho.label>
+  <Inaho.description>Five items to eat delicious white rice\n 1.【Threshing】Threshing rice, you divide into Momi and straw.\n 2.【Separating】Separating rice, you divide into brown rice and outer hull\n 3.【Polishing】Polishing brown rice, you divide into white rice and rice bran by Rice milling machine\n 4.【Cooking】Cooking deliciously\n 5.【Eating】I appreciate the grace of the earth for a delicious meal!!</Inaho.description>
+
+  <RiceMomi.label>Momi</RiceMomi.label>
+  <RiceMomi.description>Rice with shells. I can not eat it.\n By threshing, you can get brown rice and by-products straw.</RiceMomi.description>
+
+  <BrownRice.label>Brown rice</BrownRice.label>
+  <BrownRice.description>By threshing and removing rice from rice, you can eat nutritious brown rice.</BrownRice.description>
+
+  <WhiteRice.label>White rice</WhiteRice.label>
+  <WhiteRice.description>Rice that thoroughly threshed and polished.\nYou lose nutrients in the process of polishing, but the taste improves preeminently.</WhiteRice.description>
+
+  <Straw.label>Straw</Straw.label>
+  <Straw.description>By-product thing when threshing.\n It is useful in various scenes such as animal feed, fertilizer, fuel or crafts.</Straw.description>
+
+  <Chaff.label>Outer hull</Chaff.label>
+  <Chaff.description>By-product thing when separating.\n It is useful in various scenes such as animal feed(Low nutritional), fertilizer or fuel.</Chaff.description>
+
+  <RiceBran.label>Rice bran</RiceBran.label>
+  <RiceBran.description>By-product thing when polishing.\n Once processed, it becomes a material for producing fertilizer, animal feed, preserved meal.</RiceBran.description>
+
+  <RiceByproduct.label>副産物袋</RiceByproduct.label>
+  <RiceByproduct.description>米の副産物が詰まってる袋。堆肥や動物の飼料に加工できる。\nまた、農作物加工所で米ぬかや籾殻に仕分けできる。</RiceByproduct.description>
+
+
+</LanguageData>

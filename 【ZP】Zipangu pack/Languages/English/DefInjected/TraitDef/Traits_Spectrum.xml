@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Zipangu.degreeDatas.0.label>頑固な職人</Zipangu.degreeDatas.0.label>
+  <Zipangu.degreeDatas.0.description>NAMEは周囲を気にせず物づくりに命をかけてる。熱中するあまりに人付き合いに疎くなってしまった。</Zipangu.degreeDatas.0.description>
+  <Zipangu.degreeDatas.1.label>からくり師</Zipangu.degreeDatas.1.label>
+  <Zipangu.degreeDatas.1.description>NAMEはからくりを作るのが大好きで新型の機械を見つけては解体して研究する事に情熱をかけている。一方で動物の解体は興味ないため適当になってしまう。</Zipangu.degreeDatas.1.description>
+  <Zipangu.degreeDatas.2.label>祈祷師</Zipangu.degreeDatas.2.label>
+  <Zipangu.degreeDatas.2.description>NAMEは人と自然の調和を目指して日々祈っている。おっとりしていて細かいことを気にしないので芸術的な料理ができる時がある。</Zipangu.degreeDatas.2.description>
+  <Zipangu.degreeDatas.3.label>飛脚</Zipangu.degreeDatas.3.label>
+  <Zipangu.degreeDatas.3.description>NAMEは注文ならばどこでも荷物運ぶ運搬業を生業としている。普段から走ってるいるので体を思いっきり動かせない裁縫や鍛冶は苦手。</Zipangu.degreeDatas.3.description>
+
+  <ZiPangu.degreeDatas.0.label>百姓</ZiPangu.degreeDatas.0.label>
+  <ZiPangu.degreeDatas.0.description>NAMEは農業を生業としている。自然と共存しているので、ある程度の脅威には耐性がある。しかし、普段から武器を持たないため扱いに慣れていない。</ZiPangu.degreeDatas.0.description>
+  <ZiPangu.degreeDatas.1.label>マタギ</ZiPangu.degreeDatas.1.label>
+  <ZiPangu.degreeDatas.1.description>NAMEはクマなどの大型獣の狩猟を生業としている。獲物を運んだり解体する力仕事多くこなしているため、栽培の時は力加減がわからずダメにしてしまうことがある。</ZiPangu.degreeDatas.1.description>
+  <ZiPangu.degreeDatas.2.label>武士道</ZiPangu.degreeDatas.2.label>
+  <ZiPangu.degreeDatas.2.description>NAMEは幼き頃より戦乱の世を生き残るため文武両道の鍛錬を積んできた。しかし、身の回りの世話は小姓にまかせっきりだったので作業全般がすごく苦手。</ZiPangu.degreeDatas.2.description>
+
+
+</LanguageData>

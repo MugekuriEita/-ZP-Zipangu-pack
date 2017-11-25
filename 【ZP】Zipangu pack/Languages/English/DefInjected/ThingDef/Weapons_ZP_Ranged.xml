@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- クナイ投げ -->
+
+  <kunai_ao.label>ThrowingKunai</kunai_ao.label>
+
+  <Kunai_Ranged.label>Kunai</Kunai_Ranged.label>
+  <Kunai_Ranged.description>Kunai liked survival knife. When you equipped it you feel like a ninja and you can run fast.</Kunai_Ranged.description>
+
+
+  <!-- クナイ投げ3 -->
+
+  <kunai_3ao.label>Kunai(three-times)</kunai_3ao.label>
+
+  <Kunai_3Ranged.label>ThrowingKunai(three-times)</Kunai_3Ranged.label>
+  <Kunai_3Ranged.description>Kunai liked survival knife. Throw three at the same time. This Kunai has no effect to speed up your feet.</Kunai_3Ranged.description>
+
+
+  <!-- 種子島 Base 狙撃銃 -->
+
+  <Bullet_Tanegasima.label>TanegasimaBullet</Bullet_Tanegasima.label>
+
+  <Gun_Tanegasima.label>TanegasimaGun</Gun_Tanegasima.label>
+  <Gun_Tanegasima.description>Arquebus gun made by improving Musket gun. The size of the caliber and the weight of the bullet are distinctive, and it has the power to blow off part of the body in the case of short range shooting. However, it is necessary to always carry around the arquebus rope and the fire rock, so the moving speed drops.</Gun_Tanegasima.description>
+  <Gun_Tanegasima.tools.0.label>stock</Gun_Tanegasima.tools.0.label>
+  <Gun_Tanegasima.tools.1.label>barrel</Gun_Tanegasima.tools.1.label>
+
+
+  <!-- 和弓 Base  グレートボウ -->
+
+  <Arrow_JPstyleGreatBow.label>arrow</Arrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat.label>JapaneseLongbow</Bow_JPstyleGreat.label>
+  <Bow_JPstyleGreat.description>A bow that improved the Long Bow and raised its power and range.</Bow_JPstyleGreat.description>
+
+
+  <!-- 和弓 Base  火炎筒投射機 -->
+
+  <FireArrow_JPstyleGreatBow.label>fire arrow</FireArrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat_Fire.label>JapaneseLongbow(fire)</Bow_JPstyleGreat_Fire.label>
+  <Bow_JPstyleGreat_Fire.description>A bow improved to improve long bow and shoot fire arrow.</Bow_JPstyleGreat_Fire.description>
+
+  <PoisonArrow_JPstyleGreatBow.label>poison arrow</PoisonArrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat_Poison.label>SnakeLongbow(poison)</Bow_JPstyleGreat_Poison.label>
+  <Bow_JPstyleGreat_Poison.description>A bow that improved the Long Bow and raised its power and range.</Bow_JPstyleGreat_Poison.description>
+
+
+</LanguageData>
