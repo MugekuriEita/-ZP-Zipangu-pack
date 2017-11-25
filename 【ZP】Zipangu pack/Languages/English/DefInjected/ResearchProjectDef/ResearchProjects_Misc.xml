@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米関係 y=0 -->
+
+  <ReUplandRice.label>Upland rice</ReUplandRice.label>
+  <ReUplandRice.description>To improve the productivity of rice, improve variety and produce upland rice.</ReUplandRice.description>
+
+  <ReWetlandRice.label>Semiaquatic rice</ReWetlandRice.label>
+  <ReWetlandRice.description>Develop Semiaquatic rice and Paddy fields to further increase productivity.</ReWetlandRice.description>
+
+
+  <!-- 栽培関係 y=1 -->
+
+  <ReAquacultureFish.label>養殖魚</ReAquacultureFish.label>
+  <ReAquacultureFish.description>魚を養殖する方法を学ぶ。育成期間は非常に長いが非常に栄養価の高い魚を収穫できる。\n注意：育てるには光と適切な温度管理、餌(魚の餌,ミミズ,虫の肉)が必要です。\n解放⇒養殖魚(要：栽培ｽｷﾙ 10),養殖網(3×3)</ReAquacultureFish.description>
+
+  <ReAquacultureNet.label>大型養殖網</ReAquacultureNet.label>
+  <ReAquacultureNet.description>多くの魚が育てられるように大型の養殖網の作り方を学ぶ。\n解放⇒養殖網(4×5)</ReAquacultureNet.description>
+
+  <ReBeans.label>豆</ReBeans.label>
+  <ReBeans.description>大豆と枝豆の育成方法を学ぶ。\n解放⇒大豆(要：栽培ｽｷﾙ 4),枝豆(要：栽培ｽｷﾙ 4)</ReBeans.description>
+
+
+  <!-- 土壌開発 y=2 -->
+
+  <ReZPSoil.label>土</ReZPSoil.label>
+  <ReZPSoil.description>農業が可能な土壌を開発する。\n砂、氷面、砂利、荒い石材、滑らかな石材の上に土がしけるようになります。\n解放⇒土【肥沃度:100%】</ReZPSoil.description>
+
+  <ReZPSoilRich.label>肥えた土</ReZPSoilRich.label>
+  <ReZPSoilRich.description>農業が可能な土壌を肥えた土壌に改良する。\n解放⇒肥沃な土【肥沃度:140%】</ReZPSoilRich.description>
+
+  <ReZPMud.label>泥</ReZPMud.label>
+  <ReZPMud.description>水田用の土壌を開発する。\n解放⇒泥,泥採取所</ReZPMud.description>
+
+  <ReZPLandfillSoil.label>埋立土壌</ReZPLandfillSoil.label>
+  <ReZPLandfillSoil.description>足場の悪い場所を埋立てる。\n解放⇒埋立土壌</ReZPLandfillSoil.description>
+
+
+  <!-- 食料関係 y=3 -->
+
+  <ReSeasoning.label>調味料</ReSeasoning.label>
+  <ReSeasoning.description>食生活を豊かにしてくれる調味料の作り方を学ぶ。\n解放⇒米飴、米酢、醤油、味噌</ReSeasoning.description>
+
+  <RePreservedFood.label>保存食</RePreservedFood.label>
+  <RePreservedFood.description>食べ物を長期保存できるように保存食の作り方を学ぶ。\n解放⇒ぬか漬け,魚の干物,納豆,ぬか壺</RePreservedFood.description>
+
+
+  <!-- 家具 y=4 -->
+
+  <ReZPFurniture.label>和風家具</ReZPFurniture.label>
+  <ReZPFurniture.description>住環境をよくする和風家具の建て方を学ぶ。\n解放⇒藁編みベッド,うちわ,火鉢</ReZPFurniture.description>
+
+  <ReScarecrow.label>豊穣のかかし</ReScarecrow.label>
+  <ReScarecrow.description>かかしに豊穣の神を宿らせる方法を学ぶ。\nお供え物(燃料)があるかぎり、直径9マス内の土壌の肥沃度を30%upする。\n注意:水田と水耕栽培機は恩恵を受けれません。</ReScarecrow.description>
+
+  <ReFloatingSunLamp.label>浮遊式太陽灯(燃料式)</ReFloatingSunLamp.label>
+  <ReFloatingSunLamp.description>足場の悪い所でも浮かぶ太陽灯(燃料式)の建て方を学ぶ。\n解放⇒浮遊式太陽灯(燃料式)</ReFloatingSunLamp.description>
+
+  <ReDefenseBase.label>防衛システム</ReDefenseBase.label>
+  <ReDefenseBase.description>防衛陣地の築き方を学ぶ。\n解放⇒かい盾,藁の塊,火薬藁</ReDefenseBase.description>
+
+
+  <!-- 装備関係 y=5 -->
+
+  <BlacksmithApprentice.label>Blacksmith Apprentice</BlacksmithApprentice.label>
+  <BlacksmithApprentice.description>You can master the techniques of making NagayariSpears, Sasumata, JapaneseLongbow, MuneateArmor, Ninja clothes, Samurai clothes.</BlacksmithApprentice.description>
+
+  <BlacksmithArtisan.label>Blacksmith Artisan</BlacksmithArtisan.label>
+  <BlacksmithArtisan.description>You can master the techniques of making AsigaruArmor, JingasaHelmet, JumonjiSpear, OdachiBlade, JapaneseLongbow(poison).</BlacksmithArtisan.description>
+
+  <BlacksmithMaster.label>Blacksmith Master</BlacksmithMaster.label>
+  <BlacksmithMaster.description>You can master the techniques of making SyogunArmor, SyogunHelmet, JapaneseLongbow(fire).</BlacksmithMaster.description>
+
+  <BlacksmithTanegasima.label>Blacksmith Tanegasima</BlacksmithTanegasima.label>
+  <BlacksmithTanegasima.description>You can master the techniques of making TanegasimaGun.</BlacksmithTanegasima.description>
+
+
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 藁装備 Base カウボーイハット -->
+
+  <ZP_MugiwaraBosi.label>Straw hat</ZP_MugiwaraBosi.label>
+  <ZP_MugiwaraBosi.description>A hat knitted with straw. It is used as a sunshade during farm work.</ZP_MugiwaraBosi.description>
+
+  <ZP_Sugekasa.label>Sugekasa</ZP_Sugekasa.label>
+  <ZP_Sugekasa.description>Straw woven kasa(hat), was worn by samurais, ninjas, monks , ronins , traders and farmers in old-eastern-world, can be used to shelter from the sunshine, rain falls, even snowy.</ZP_Sugekasa.description>
+
+  <ZP_Tengai.label>Tengai</ZP_Tengai.label>
+  <ZP_Tengai.description>A fully covered helmet, woven by straw. Has religious means. However, when you wearing it, your face is out of sight, so it gives others a creepy feeling. </ZP_Tengai.description>
+
+
+  <!-- 陣笠 Base ヘルメット -->
+
+  <ZP_JingasaHelmet.label>Jingasa Helmet</ZP_JingasaHelmet.label>
+  <ZP_JingasaHelmet.description>A Jingasa(helmet) to protect the head of Ashigaru(soldier).</ZP_JingasaHelmet.description>
+
+
+  <!-- 鉢巻 Base ヘルメット -->
+
+  <ZP_HeadBand.label>鉢金</ZP_HeadBand.label>
+  <ZP_HeadBand.description>視界を遮らないようにしたシンプルな頭装備。額の部分に額金を入れることで額を割られないようにしてある。</ZP_HeadBand.description>
+
+
+  <!-- 将軍兜 Base パワーアーマヘルメット -->
+
+  <ZP_SyougunHelmet.label>Kabuto Helmet</ZP_SyougunHelmet.label>
+  <ZP_SyougunHelmet.description>A Kabuto(helmet) that was only allowed to be worn by the Syogun(general). Have a strong spirit as Syogun(general).</ZP_SyougunHelmet.description>
+
+
+  <!-- 足装備 -->
+
+  <ZP_Warazi.label>Warazi Shoes</ZP_Warazi.label>
+  <ZP_Warazi.description>Japanese traditional footwear made of straw. It fits the feet and makes the movement comfortable.</ZP_Warazi.description>
+
+  <ZP_WoodenClogs.label>下駄</ZP_WoodenClogs.label>
+  <ZP_WoodenClogs.description>Japanese traditional footwear made of woodLog. It fits the feet and makes the movement comfortable.</ZP_WoodenClogs.description>
+
+  <ZP_IronClogs.label>鉄下駄</ZP_IronClogs.label>
+  <ZP_IronClogs.description>古より伝わりし足腰鍛錬用の鉄で出来た下駄。移動速度が50%落ちるが、根性と鍛錬の賜物によって経験値を多く得ることが出来る。</ZP_IronClogs.description>
+
+  <ZP_TravelBag.label>振り分け荷物</ZP_TravelBag.label>
+  <ZP_TravelBag.description>日本の伝統的な旅行用鞄。荷物を多く持つことが出来るので運搬の際に便利。</ZP_TravelBag.description>
+
+  <ZP_Tekko.label>手甲</ZP_Tekko.label>
+  <ZP_Tekko.description>汚れや鍛冶の最中の外傷などを防ぐ作業用の手甲。</ZP_Tekko.description>
+
+
+</LanguageData>

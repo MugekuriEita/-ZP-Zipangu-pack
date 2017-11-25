@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingCategoryDef>
+		<defName>ZP_Rice</defName>
+		<label>米</label>
+		<parent>PlantFoodRaw</parent>
+		<iconPath>Things/tawara_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>Tawara</defName>
+		<label>俵</label>
+		<parent>Manufactured</parent>
+		<iconPath>Things/tawara_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>ZP_Seasoning</defName>
+		<label>調味料</label>
+		<parent>Foods</parent>
+		<iconPath>Things/sio_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>AnimalFeed</defName>
+		<label>動物飼料</label>
+		<parent>Foods</parent>
+		<iconPath>Things/Item/Resource/Kibble</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>ZP_FoodMeals</defName>
+		<label>Japanese food</label>
+		<parent>FoodMeals</parent>
+		<iconPath>Things/onigiri_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>ZipanguWeapon</defName>
+		<label>Japanese weapon</label>
+		<parent>Weapons</parent>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>ZipanguApparel</defName>
+		<label>Japanese armor</label>
+		<parent>Apparel</parent>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>Zipangu</defName>
+		<label>ジパング</label>
+		<parent>Manufactured</parent>
+		<iconPath>Things/inawara_ui</iconPath>
+	</ThingCategoryDef>
+</Defs>

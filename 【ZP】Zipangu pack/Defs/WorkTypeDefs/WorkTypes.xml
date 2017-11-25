@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<WorkTypeDef>
+		<defName>ThreshingHusk</defName>
+		<labelShort>脱穀</labelShort>
+		<pawnLabel>脱穀</pawnLabel>
+		<gerundLabel>脱穀</gerundLabel>
+		<description>脱穀することで稲穂(籾米)を籾米(玄米)にかえる。</description>
+		<verb>脱穀</verb>
+		<naturalPriority>1006</naturalPriority>
+		<relevantSkills>
+			<li>Growing</li>
+		</relevantSkills>
+	</WorkTypeDef>
+	<WorkTypeDef>
+		<defName>RiceProcessing</defName>
+		<labelShort>精米</labelShort>
+		<pawnLabel>精米</pawnLabel>
+		<gerundLabel>精米</gerundLabel>
+		<description>精米することで玄米(籾米)から白米にかえる。</description>
+		<verb>精米</verb>
+		<naturalPriority>1005</naturalPriority>
+		<relevantSkills>
+			<li>Growing</li>
+		</relevantSkills>
+	</WorkTypeDef>
+</Defs>

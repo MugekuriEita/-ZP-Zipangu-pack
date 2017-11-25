@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="BuildingBase">
+		<defName>RoundHandFan</defName>
+		<label>うちわ</label>
+		<description>日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</description>
+		<category>Building</category>
+		<graphicData>
+			<texPath>Things/Buildings/utiwa</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawRotated>false</drawRotated>
+			<allowFlip>false</allowFlip>
+			<damageData>
+				<rect>(0.2,0,0.6,0.1)</rect>
+			</damageData>
+		</graphicData>
+		<minifiedDef>MinifiedFurniture</minifiedDef>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<pathCost>80</pathCost>
+		<constructEffect>ConstructDirt</constructEffect>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<fillPercent>0.40</fillPercent>
+		<statBases>
+			<MaxHitPoints>80</MaxHitPoints>
+			<WorkToBuild>200</WorkToBuild>
+			<Flammability>0</Flammability>
+		</statBases>
+		<selectable>true</selectable>
+		<costList>
+			<WoodLog>20</WoodLog>
+			<Cloth>10</Cloth>
+		</costList>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+		<placeWorkers>
+			<li>PlaceWorker_CoolerSimple</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<comps>
+			<li Class="CompProperties_Flickable"/>
+			<li Class="CompProperties_HeatPusher">
+				<heatPerSecond>-11</heatPerSecond>
+				<heatPushMinTemperature>20</heatPushMinTemperature>
+			</li>
+			<li Class="CompProperties_Lifespan">
+				<lifespanTicks>900000</lifespanTicks>
+			</li>
+		</comps>
+		<designationCategory>Zipangu</designationCategory>
+		<researchPrerequisites><li>ReZPFurniture</li></researchPrerequisites>
+	</ThingDef>
+	<ThingDef ParentName="Rice_BuildingBase">
+		<defName>ZP_Brazier</defName>
+		<label>火鉢</label>
+		<thingClass>Building_WorkTable</thingClass>
+		<description>日本の伝統的な暖房器具。\n火鉢を囲んでみんなで団欒したり、餅を焼いて楽しむことも出来る。</description>
+		<graphicData>
+			<texPath>Things/Buildings/hibati</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawRotated>false</drawRotated>
+			<drawSize>(1,1)</drawSize>
+			<allowFlip>false</allowFlip>
+		</graphicData>
+		<pathCost>50</pathCost>
+		<tickerType>Normal</tickerType>
+		<statBases>
+			<WorkToBuild>500</WorkToBuild>
+			<Beauty>5</Beauty>
+			<WorkTableWorkSpeedFactor>1.2</WorkTableWorkSpeedFactor>
+		</statBases>
+		<size>(1,1)</size>
+		<stuffCategories>
+			<li>Stony</li>
+		</stuffCategories>
+		<costStuffCount>30</costStuffCount>
+		<placeWorkers>
+			<li>PlaceWorker_Heater</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<comps>
+			<li>
+				<compClass>CompGatherSpot</compClass>
+			</li>
+			<li Class="CompProperties_Flickable"/>
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>10.0</fuelConsumptionRate>
+				<fuelCapacity>50.0</fuelCapacity>
+				<fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
+				<fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+						<li>Momigalite</li>
+						<li>FuelStraw</li>
+					</thingDefs>
+				</fuelFilter>
+				<destroyOnNoFuel>false</destroyOnNoFuel>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>10</glowRadius>
+				<glowColor>(217,112,33,0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<heatPerSecond>21</heatPerSecond>
+				<heatPushMaxTemperature>28</heatPushMaxTemperature>
+			</li>
+			<li>
+				<compClass>CompGatherSpot</compClass>
+			</li>
+		</comps>
+		<recipes>
+			<li>CookRoastedMochi5</li>
+			<li>CookThreeColoredDumplings5</li>
+			<li>CookVinegarMochi5</li>
+			<li>CookIsobeMochi5</li>
+			<li>CookGoheiMochi5</li>
+			<li>CookZundaMochi5</li>
+		</recipes>
+		<building>
+			<isMealSource>true</isMealSource>
+		</building>
+		<researchPrerequisites><li>ReZPFurniture</li></researchPrerequisites>
+	</ThingDef>
+</Defs>

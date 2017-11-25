@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 脱穀機　稲穂⇒米(籾) -->
+
+  <MakeThreshingMachineRice10.label>Inaho⇒Momi(10)</MakeThreshingMachineRice10.label>
+  <MakeThreshingMachineRice10.description>Threshing Inaho into Momi and straw.Threshing can be done more efficiently than usual(vanilla).</MakeThreshingMachineRice10.description>
+  <MakeThreshingMachineRice10.jobString>Threshing</MakeThreshingMachineRice10.jobString>
+
+  <MakeThreshingMachineRice50.label>Inaho⇒Momi(50)</MakeThreshingMachineRice50.label>
+  <MakeThreshingMachineRice50.description>Threshing Inaho into Momi and straw.Threshing can be done more efficiently than usual(vanilla).</MakeThreshingMachineRice50.description>
+  <MakeThreshingMachineRice50.jobString>Threshing</MakeThreshingMachineRice50.jobString>
+
+  <MakeThreshingMachineRice100.label>Inaho⇒Momi(100)</MakeThreshingMachineRice100.label>
+  <MakeThreshingMachineRice100.description>Threshing Inaho into Momi and straw.Threshing can be done more efficiently than usual(vanilla).</MakeThreshingMachineRice100.description>
+  <MakeThreshingMachineRice100.jobString>Threshing</MakeThreshingMachineRice100.jobString>
+
+  <MakeThreshingMachineRice200.label>Inaho⇒Momi(200)</MakeThreshingMachineRice200.label>
+  <MakeThreshingMachineRice200.description>Threshing Inaho into Momi and straw.Threshing can be done more efficiently than usual(vanilla).</MakeThreshingMachineRice200.description>
+  <MakeThreshingMachineRice200.jobString>Threshing</MakeThreshingMachineRice200.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 籾摺り臼　籾米⇒玄米 -->
+	<MakeRiceStoneSlurryRice10.label>Momi⇒Brown rice(10)</MakeRiceStoneSlurryRice10.label>
+	<MakeRiceStoneSlurryRice10.description>Momi is divided into  Brown rice and Outher hull.</MakeRiceStoneSlurryRice10.description>
+	<MakeRiceStoneSlurryRice10.jobString>Dividing</MakeRiceStoneSlurryRice10.jobString>
+	<MakeRiceStoneSlurryRice50.label>Momi⇒Brown rice(50)</MakeRiceStoneSlurryRice50.label>
+	<MakeRiceStoneSlurryRice50.description>Momi is divided into  Brown rice and Outher hull.</MakeRiceStoneSlurryRice50.description>
+	<MakeRiceStoneSlurryRice50.jobString>Dividing</MakeRiceStoneSlurryRice50.jobString>
+	<MakeRiceStoneSlurryRice10_1.label>Polite Momi⇒Brown rice(10)</MakeRiceStoneSlurryRice10_1.label>
+	<MakeRiceStoneSlurryRice10_1.description>Momi is divided into  Brown rice and Outher hull.\nBy doing it politely you can earn a small amount of white rice.</MakeRiceStoneSlurryRice10_1.description>
+	<MakeRiceStoneSlurryRice10_1.jobString>Dividing</MakeRiceStoneSlurryRice10_1.jobString>
+	<MakeRiceStoneSlurryRice50_2.label>Polite Momi⇒Brown rice(50)</MakeRiceStoneSlurryRice50_2.label>
+	<MakeRiceStoneSlurryRice50_2.description>Momi is divided into  Brown rice and Outher hull.\nBy doing it politely you can earn a small amount of white rice.</MakeRiceStoneSlurryRice50_2.description>
+	<MakeRiceStoneSlurryRice50_2.jobString>Dividing</MakeRiceStoneSlurryRice50_2.jobString>
+	<!-- 籾摺り臼　米(籾)⇒玄米 -->
+</LanguageData>

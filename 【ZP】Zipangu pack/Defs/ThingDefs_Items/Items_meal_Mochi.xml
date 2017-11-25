@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="ZPMealRottable">
+		<defName>R_RoastedMochi</defName>
+		<label>焼き餅</label>
+		<description>シンプルに焼いただけの餅。</description>
+		<graphicData>
+			<texPath>Things/Item/Food/yakimoti</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>15</MarketValue>
+			<WorkToMake>300</WorkToMake>
+		</statBases>
+		<ingestible>
+			<preferability>MealSimple</preferability>
+			<nutrition>0.50</nutrition>
+		</ingestible>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealRottable">
+		<defName>R_ThreeColoredDumplings</defName>
+		<label>三色団子</label>
+		<description>ほんのり甘い団子。諸説あるが赤は桜の象徴である春を、白は雪の象徴である冬を、緑は新緑の象徴である夏をあらわしてる。\n秋が無いのは飽きないと商いをかけて、いくら食べても飽きないので商売が繁盛するという洒落からきてる。</description>
+		<graphicData>
+			<texPath>Things/Item/Food/sansyoku</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>30</MarketValue>
+			<WorkToMake>300</WorkToMake>
+		</statBases>
+		<ingestible>
+			<preferability>MealFine</preferability>
+			<nutrition>0.50</nutrition>
+			<joy>0.05</joy>
+			<joyKind>Gluttonous</joyKind>
+			<maxNumToIngestAtOnce>2</maxNumToIngestAtOnce>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedMochi2</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealRottable">
+		<defName>R_VinegarMochi</defName>
+		<label>酢餅</label>
+		<description>大根おろしと酢をからませた餅。九州の郷土料理。</description>
+		<graphicData>
+			<texPath>Things/Item/Food/sumoti</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>30</MarketValue>
+			<WorkToMake>300</WorkToMake>
+		</statBases>
+		<ingestible>
+			<preferability>MealSimple</preferability>
+			<nutrition>0.50</nutrition>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedMochi</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealRottable">
+		<defName>R_IsobeMochi</defName>
+		<label>磯辺餅</label>
+		<description>焼いた餅に醤油をたらして海苔で巻いた餅。</description>
+		<graphicData>
+			<texPath>Things/Item/Food/isobemoti</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>30</MarketValue>
+			<WorkToMake>300</WorkToMake>
+		</statBases>
+		<ingestible>
+			<preferability>MealSimple</preferability>
+			<nutrition>0.50</nutrition>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedMochi</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealRottable">
+		<defName>R_GoheiMochi</defName>
+		<label>五平餅</label>
+		<description>餅を板に付け火であぶり、味噌を塗ったもの。</description>
+		<graphicData>
+			<texPath>Things/Item/Food/goheimoti</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>30</MarketValue>
+			<WorkToMake>300</WorkToMake>
+		</statBases>
+		<ingestible>
+			<preferability>MealSimple</preferability>
+			<nutrition>0.50</nutrition>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedMochi</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealRottable">
+		<defName>R_ZundaMochi</defName>
+		<label>ずんだ餅</label>
+		<description>すり潰した枝豆をからませた甘いお餅。東北の郷土料理。\nずん!!ずん!!ずんだ!!とある国の少女はずんだ餅を愛するがゆえに狂人となった逸話がある。</description>
+		<graphicData>
+			<texPath>Things/Item/Food/zundamoti</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>30</MarketValue>
+			<WorkToMake>300</WorkToMake>
+		</statBases>
+		<ingestible>
+			<preferability>MealFine</preferability>
+			<nutrition>0.90</nutrition>
+			<joy>0.1</joy>
+			<joyKind>Gluttonous</joyKind>
+			<maxNumToIngestAtOnce>2</maxNumToIngestAtOnce>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedMochi2</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+	</ThingDef>
+</Defs>

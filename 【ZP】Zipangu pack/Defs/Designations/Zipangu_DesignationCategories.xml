@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<DesignationCategoryDef>
+		<defName>Zipangu</defName>
+		<label>ジパング</label>
+		<description>Zipangu Mod.</description>
+		<order>490</order>
+		<specialDesignatorClasses>
+			<li>Designator_Cancel</li>
+			<li>Designator_Deconstruct</li>
+			<li>Designator_Uninstall</li>
+		</specialDesignatorClasses>
+	</DesignationCategoryDef>
+	<DesignationCategoryDef>
+		<defName>FarmingTool</defName>
+		<label>Farming</label>
+		<description>Building for growing plants .</description>
+		<order>16</order>
+		<specialDesignatorClasses>
+			<li>Designator_Cancel</li>
+			<li>Designator_Deconstruct</li>
+			<li>Designator_Uninstall</li>
+		</specialDesignatorClasses>
+	</DesignationCategoryDef>
+</Defs>

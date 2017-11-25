@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- ======= 簡単+0 イナゴの佃煮+1 ========= -->
+	<ThoughtDef>
+		<defName>R_AteTukudani</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+			<li>
+				<label>イナゴの佃煮を食べた</label>
+				<description>目をつぶって食べれば意外といける・・・？</description>
+				<baseMoodEffect>4</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	<!-- ======= 簡単+0 白米+3 ========= -->
+	<ThoughtDef>
+		<defName>R_AteMealSimple</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+			<li>
+				<label>美味しい白米を食べた!!</label>
+				<description>自家製白米が食べられて幸せだ</description>
+				<baseMoodEffect>3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	<!-- ======= 手の込んだ+5 白米+5 ========= -->
+	<ThoughtDef>
+		<defName>R_AteMealFine</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+			<li>
+				<label>美味しい白米を食べた!!</label>
+				<description>自家製白米を使った手の込んだ料理が食べられて幸せだ</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	<!-- ======= 豪華+10 白米+10 ========= -->
+	<ThoughtDef>
+		<defName>R_MealLavish</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+			<li>
+				<label>美味しい白米を食べた!!</label>
+				<description>最高に美味しい自家製白米を使った豪華な料理が食べられて幸せだ</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	<ThoughtDef>
+		<defName>R_CurryRice</defName>
+		<durationDays>1</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+			<li>
+				<label>カレーライス最高!!</label>
+				<description>具材をかえ食べ方を変えれば、毎日違う味を楽しめる!!</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	<!-- ======= 調味料 ========= -->
+	<ThoughtDef>
+		<defName>R_SeasoningDebuff</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>2</stackLimit>
+		<stages>
+			<li>
+				<label>飯を・・・食わせて・・・</label>
+				<description>食料が調味料だけとか正気の沙汰じゃない・・・</description>
+				<baseMoodEffect>-15</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	R_Syrupbuff
+	<ThoughtDef>
+		<defName>R_Syrupbuff</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>3</stackLimit>
+		<stages>
+			<li>
+				<label>盗み食いは蜜の味</label>
+				<description>みんなに見つからないように舐める米飴はスリル満点な甘さだ!!</description>
+				<baseMoodEffect>2</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+</Defs>

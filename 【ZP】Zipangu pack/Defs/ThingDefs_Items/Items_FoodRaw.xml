@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="ZPMealBase">
+		<defName>R_SeasonedMeat</defName>
+		<label>味付け肉</label>
+		<description>調味料で肉の臭みを消して保存性を少し高めたお肉。\n生でも食べれて、調理にも使える。</description>
+		<stackLimit>200</stackLimit>
+		<graphicData>
+			<texPath>Things/Item/Product/aziniku_sio</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>5</MarketValue>
+		</statBases>
+		<ingestible>
+			<foodType>Processed</foodType>
+			<preferability>RawTasty</preferability>
+			<optimalityOffsetHumanlikes>0</optimalityOffsetHumanlikes>
+			<nutrition>0.1</nutrition>
+		</ingestible>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>10</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+		<thingCategories>
+			<li>MeatRaw</li>
+		</thingCategories>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealBase">
+		<defName>R_FreezeMochi</defName>
+		<label>凍り餅</label>
+		<description>餅を水に浸して凍らせたものを寒風に晒して乾燥させた保存食。\n生でも食べれて、調理にも使える。</description>
+		<stackLimit>200</stackLimit>
+		<graphicData>
+			<texPath>Things/Item/Product/irimoti</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>6</MarketValue>
+		</statBases>
+		<ingestible>
+			<foodType>Processed</foodType>
+			<preferability>RawTasty</preferability>
+			<optimalityOffsetHumanlikes>0</optimalityOffsetHumanlikes>
+			<nutrition>0.2</nutrition>
+		</ingestible>
+		<thingCategories>
+			<li>PlantFoodRaw</li>
+		</thingCategories>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>120</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealBase">
+		<defName>ZP_RiceBranPickled</defName>
+		<label>ぬか漬け</label>
+		<description>野菜をぬかにつけ漬物にした保存食。\n生でも食べれて、調理にも使える。</description>
+		<stackLimit>200</stackLimit>
+		<graphicData>
+			<texPath>Things/Item/Product/nukaduke</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(0.8,0.8)</drawSize>
+		</graphicData>
+		<statBases>
+			<MarketValue>8</MarketValue>
+		</statBases>
+		<ingestible>
+			<foodType>Processed</foodType>
+			<preferability>RawTasty</preferability>
+			<optimalityOffsetHumanlikes>0</optimalityOffsetHumanlikes>
+			<nutrition>0.2</nutrition>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedFermentedFood</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>180</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+		<thingCategories>
+			<li>PlantFoodRaw</li>
+		</thingCategories>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealBase">
+		<defName>ZP_DriedFish</defName>
+		<label>魚の干物</label>
+		<description>生魚を腐らせないよう干した保存食。\n生でも食べれて、調理にも使える。</description>
+		<stackLimit>200</stackLimit>
+		<graphicData>
+			<texPath>Things/Item/Product/himono</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>10</MarketValue>
+		</statBases>
+		<ingestible>
+			<foodType>Processed</foodType>
+			<preferability>RawTasty</preferability>
+			<optimalityOffsetHumanlikes>0</optimalityOffsetHumanlikes>
+			<nutrition>1</nutrition>
+		</ingestible>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>120</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+		<thingCategories>
+			<li>MeatRaw</li>
+		</thingCategories>
+	</ThingDef>
+	<ThingDef ParentName="ZPMealBase">
+		<defName>ZP_FermentedSoybeans</defName>
+		<label>納豆</label>
+		<description>大豆を納豆菌で発酵させた日本の発酵食品。生でも食べれて、調理にも使える。</description>
+		<stackLimit>200</stackLimit>
+		<graphicData>
+			<texPath>Things/Item/Product/nattou</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>8</MarketValue>
+		</statBases>
+		<ingestible>
+			<foodType>Processed</foodType>
+			<preferability>RawTasty</preferability>
+			<optimalityOffsetHumanlikes>0</optimalityOffsetHumanlikes>
+			<nutrition>0.2</nutrition>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedFermentedFood</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>120</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+		<thingCategories>
+			<li>MeatRaw</li>
+		</thingCategories>
+	</ThingDef>
+</Defs>

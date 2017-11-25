@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 簡単な食事 ご飯 -->
+	<CookBRGohan1.label>BR Gohan</CookBRGohan1.label>
+	<CookBRGohan1.description>Cook brown rice.</CookBRGohan1.description>
+	<CookBRGohan1.jobString>Cooking</CookBRGohan1.jobString>
+	<CookBRGohan4.label>BR Gohan(4)</CookBRGohan4.label>
+	<CookBRGohan4.description>Cook brown rice.</CookBRGohan4.description>
+	<CookBRGohan4.jobString>Cooking</CookBRGohan4.jobString>
+	<CookGohan1.label>Gohan</CookGohan1.label>
+	<CookGohan1.description>Cook rice.</CookGohan1.description>
+	<CookGohan1.jobString>Cooking</CookGohan1.jobString>
+	<CookGohan4.label>Gohan(4)</CookGohan4.label>
+	<CookGohan4.description>Cook rice.</CookGohan4.description>
+	<CookGohan4.jobString>Cooking</CookGohan4.jobString>
+	<!-- 簡単な食事 単品 -->
+	<CookTsukudani.label>虫の佃煮(4)</CookTsukudani.label>
+	<CookTsukudani.description>虫の肉を砂糖と醤油で甘辛く煮付ける。</CookTsukudani.description>
+	<CookTsukudani.jobString>Cooking simple meal.</CookTsukudani.jobString>
+</LanguageData>

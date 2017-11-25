@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_CookNaturalSalt.label>Natural salt(10)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.description>To extract salt from water containing the salt.</R_CookNaturalSalt.description>
+  <R_CookNaturalSalt.jobString>Making</R_CookNaturalSalt.jobString>
+
+  <R_CookSyrup10.label>Rice syrup(10)</R_CookSyrup10.label>
+  <R_CookSyrup10.description>Boil rice, extract sugar and make Rice syrup.</R_CookSyrup10.description>
+  <R_CookSyrup10.jobString>Makeing</R_CookSyrup10.jobString>
+
+  <R_CookVinegarBarrel.label>米酢樽</R_CookVinegarBarrel.label>
+  <R_CookVinegarBarrel.description>米酢の原料である米酢樽を作る</R_CookVinegarBarrel.description>
+  <R_CookVinegarBarrel.jobString>醸造アルコール樽を作る</R_CookVinegarBarrel.jobString>
+
+  <R_CookVinegar10.label>米酢(25)</R_CookVinegar10.label>
+  <R_CookVinegar10.description>米酢を作る</R_CookVinegar10.description>
+  <R_CookVinegar10.jobString>米酢を作る</R_CookVinegar10.jobString>
+
+  <R_CookSoySauceBarrel.label>醤油樽</R_CookSoySauceBarrel.label>
+  <R_CookSoySauceBarrel.description>醤油の原料である醤油樽を作る</R_CookSoySauceBarrel.description>
+  <R_CookSoySauceBarrel.jobString>醤油樽を作る</R_CookSoySauceBarrel.jobString>
+
+  <R_CookSoySauce10.label>醤油(25)</R_CookSoySauce10.label>
+  <R_CookSoySauce10.description>醤油を作る</R_CookSoySauce10.description>
+  <R_CookSoySauce10.jobString>醤油を作る</R_CookSoySauce10.jobString>
+
+  <R_CookMisoBarrel.label>味噌樽</R_CookMisoBarrel.label>
+  <R_CookMisoBarrel.description>味噌の原料である味噌樽を作る</R_CookMisoBarrel.description>
+  <R_CookMisoBarrel.jobString>味噌樽を作る</R_CookMisoBarrel.jobString>
+
+  <R_CookMiso10.label>味噌(25)</R_CookMiso10.label>
+  <R_CookMiso10.description>味噌を作る</R_CookMiso10.description>
+  <R_CookMiso10.jobString>味噌を作る</R_CookMiso10.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 手の込んだ食事　卵かけご飯 -->
+	<CookBRTKG1.label>BR TKG</CookBRTKG1.label>
+	<CookBRTKG1.description>Make the egg on Brown Rice.</CookBRTKG1.description>
+	<CookBRTKG1.jobString>Making</CookBRTKG1.jobString>
+	<CookBRTKG4.label>BR TKG(4)</CookBRTKG4.label>
+	<CookBRTKG4.description>Make the egg on Brown Rice.</CookBRTKG4.description>
+	<CookBRTKG4.jobString>Making</CookBRTKG4.jobString>
+	<CookWRTKG1.label>TKG</CookWRTKG1.label>
+	<CookWRTKG1.description>Make the egg on White Rice.</CookWRTKG1.description>
+	<CookWRTKG1.jobString>Making</CookWRTKG1.jobString>
+	<CookWRTKG4.label>TKG(4)</CookWRTKG4.label>
+	<CookWRTKG4.description>Make the egg on White Rice</CookWRTKG4.description>
+	<CookWRTKG4.jobString>Making</CookWRTKG4.jobString>
+	<!-- 手の込んだ食事　肉丼 -->
+	<CookBRGyudon1.label>BR Gyudon</CookBRGyudon1.label>
+	<CookBRGyudon1.description>Cook the Gyudon</CookBRGyudon1.description>
+	<CookBRGyudon1.jobString>Cooking</CookBRGyudon1.jobString>
+	<CookBRGyudon4.label>BR Gyudon(4)</CookBRGyudon4.label>
+	<CookBRGyudon4.description>Cook the Gyudon</CookBRGyudon4.description>
+	<CookBRGyudon4.jobString>Cooking</CookBRGyudon4.jobString>
+	<CookWRGyudon1.label>Gyudon</CookWRGyudon1.label>
+	<CookWRGyudon1.description>Cook the Gyudon</CookWRGyudon1.description>
+	<CookWRGyudon1.jobString>Cooking</CookWRGyudon1.jobString>
+	<CookWRGyudon4.label>Gyudon(4)</CookWRGyudon4.label>
+	<CookWRGyudon4.description>Cook the Gyudon</CookWRGyudon4.description>
+	<CookWRGyudon4.jobString>Cooking</CookWRGyudon4.jobString>
+	<CookSasimi8.label>刺身(8)</CookSasimi8.label>
+	<CookSasimi8.description>刺身を８個作る</CookSasimi8.description>
+	<CookSasimi8.jobString>刺身を作る</CookSasimi8.jobString>
+	<CookSaltGrilledFish8.label>魚の塩焼き(8)</CookSaltGrilledFish8.label>
+	<CookSaltGrilledFish8.description>魚の塩焼きを８個作る</CookSaltGrilledFish8.description>
+	<CookSaltGrilledFish8.jobString>魚の塩焼きを作る</CookSaltGrilledFish8.jobString>
+	<CookSteamedFish8.label>魚の煮付け(8)</CookSteamedFish8.label>
+	<CookSteamedFish8.description>魚の煮付けを８個作る</CookSteamedFish8.description>
+	<CookSteamedFish8.jobString>魚の煮付けを作る</CookSteamedFish8.jobString>
+</LanguageData>

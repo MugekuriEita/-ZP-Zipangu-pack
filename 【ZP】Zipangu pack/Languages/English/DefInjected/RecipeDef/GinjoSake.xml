@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_CookAlcoholBarrel.label>吟醸酒樽</R_CookAlcoholBarrel.label>
+  <R_CookAlcoholBarrel.description>吟醸酒の原料である吟醸酒樽を作る</R_CookAlcoholBarrel.description>
+  <R_CookAlcoholBarrel.jobString>吟醸酒樽を作る</R_CookAlcoholBarrel.jobString>
+
+  <MakeGinjoSake.label>吟醸酒(25)</MakeGinjoSake.label>
+  <MakeGinjoSake.description>吟醸酒を造る</MakeGinjoSake.description>
+  <MakeGinjoSake.jobString>吟醸酒を造る</MakeGinjoSake.jobString>
+
+
+</LanguageData>

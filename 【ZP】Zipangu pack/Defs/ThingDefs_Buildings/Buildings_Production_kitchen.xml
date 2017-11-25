@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="Rice_BuildingBase">
+		<defName>Messtin</defName>
+		<label>飯盒</label>
+		<thingClass>Building_WorkTable_HeatPush</thingClass>
+		<description>ご飯を炊いたり簡単な料理をするのに使われる。\n最低限の設備しかないため調理速度が30%低下する。</description>
+		<graphicData>
+			<texPath>Things/Buildings/Messtin/Messtin</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(1,1)</drawSize>
+			<drawRotated>false</drawRotated>
+		</graphicData>
+		<constructEffect>ConstructMetal</constructEffect>
+		<costList>
+			<Steel>10</Steel>
+			<WoodLog>10</WoodLog>
+		</costList>
+		<statBases>
+			<WorkToBuild>500</WorkToBuild>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkTableWorkSpeedFactor>0.7</WorkTableWorkSpeedFactor>
+		</statBases>
+		<size>(1,1)</size>
+		<pathCost>70</pathCost>
+		<recipes>
+			<!--== バニラ ==-->
+			<li>CookMealSimple</li>
+			<!--== 玄米 ==-->
+			<li>CookBRGohan1</li>
+			<li>CookBRGohan4</li>
+			<li>CookBRTKG1</li>
+			<li>CookBRTKG4</li>
+			<li>CookBRGyudon1</li>
+			<li>CookBROnigiri4</li>
+			<!--== 白米 ==-->
+			<li>CookGohan1</li>
+			<li>CookGohan4</li>
+			<li>CookWRTKG1</li>
+			<li>CookWRTKG4</li>
+			<li>CookWRGyudon1</li>
+			<li>CookWROnigiri4</li>
+			<!--== 単品 ==-->
+			<li>CookTsukudani</li>
+		</recipes>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>160.0</fuelConsumptionRate>
+				<fuelCapacity>50.0</fuelCapacity>
+				<fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
+				<fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+						<li>Momigalite</li>
+						<li>FuelStraw</li>
+					</thingDefs>
+				</fuelFilter>
+				<consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+			</li>
+		</comps>
+		<building>
+			<isMealSource>true</isMealSource>
+			<heatPerTickWhileWorking>0.10</heatPerTickWhileWorking>
+		</building>
+	</ThingDef>
+	<ThingDef ParentName="Rice_BuildingBase">
+		<defName>IronPot</defName>
+		<label>釜</label>
+		<thingClass>Building_WorkTable_HeatPush</thingClass>
+		<description>ご飯を炊いたり汁物を作ったりする時に便利な調理台。</description>
+		<graphicData>
+			<texPath>Things/Buildings/IronPot/IronPot</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.3,1.3)</drawSize>
+		</graphicData>
+		<costList>
+			<Steel>30</Steel>
+			<WoodLog>20</WoodLog>
+		</costList>
+		<stuffCategories>
+			<li>Stony</li>
+		</stuffCategories>
+		<costStuffCount>30</costStuffCount>
+		<statBases>
+			<WorkToBuild>1500</WorkToBuild>
+		</statBases>
+		<size>(2,1)</size>
+		<pathCost>70</pathCost>
+		<recipes>
+			<!--== バニラ ==-->
+			<li>CookMealSimple</li>
+			<li>CookMealFine</li>
+			<li>CookMealLavish</li>
+			<!--== 玄米 ==-->
+			<li>CookBRGohan4</li>
+			<li>CookBRTKG4</li>
+			<li>CookBRGyudon4</li>
+			<li>CookBROnigiri4</li>
+			<li>CookBRBento4</li>
+			<li>CookBRJubako4</li>
+			<!--== 白米 ==-->
+			<li>CookGohan4</li>
+			<li>CookWRTKG4</li>
+			<li>CookWRGyudon4</li>
+			<li>CookWROnigiri4</li>
+			<li>CookWRBento4</li>
+			<li>CookWRJubako4</li>
+			<li>CookWRJPCurryRice8</li>
+			<!--== 魚料理 ==-->
+			<li>CookWRSushi8</li>
+			<li>CookSasimi8</li>
+			<li>CookSaltGrilledFish8</li>
+			<li>CookSteamedFish8</li>
+			<!--== 餅 ==-->
+			<li>CookRoastedMochi5</li>
+			<li>CookThreeColoredDumplings5</li>
+			<li>CookVinegarMochi5</li>
+			<li>CookIsobeMochi5</li>
+			<li>CookGoheiMochi5</li>
+			<li>CookZundaMochi5</li>
+			<!--== 単品 ==-->
+			<li>CookTsukudani</li>
+			<!--== ぽん菓子 ==-->
+			<li>CookPuffedRice5</li>
+		</recipes>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>160.0</fuelConsumptionRate>
+				<fuelCapacity>50.0</fuelCapacity>
+				<fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
+				<fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+						<li>Momigalite</li>
+						<li>FuelStraw</li>
+					</thingDefs>
+				</fuelFilter>
+				<consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+			</li>
+		</comps>
+		<building>
+			<isMealSource>true</isMealSource>
+			<heatPerTickWhileWorking>0.10</heatPerTickWhileWorking>
+		</building>
+	</ThingDef>
+	<ThingDef ParentName="Rice_BuildingBase">
+		<defName>RiceCooker</defName>
+		<label>炊飯器</label>
+		<thingClass>Building_WorkTable_HeatPush</thingClass>
+		<description>ご飯を炊いたり汁物を作ったりする時に便利な調理台。\n最新の調理器具が揃ってるので調理速度が30%上昇する。</description>
+		<graphicData>
+			<texPath>Things/Buildings/RiceCooker/RiceCooker</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.3,1.3)</drawSize>
+		</graphicData>
+		<constructEffect>ConstructMetal</constructEffect>
+		<costList>
+			<Steel>50</Steel>
+			<Plasteel>10</Plasteel>
+			<Component>1</Component>
+		</costList>
+		<statBases>
+			<WorkToBuild>1500</WorkToBuild>
+			<WorkTableWorkSpeedFactor>1.3</WorkTableWorkSpeedFactor>
+		</statBases>
+		<size>(2,1)</size>
+		<pathCost>70</pathCost>
+		<recipes>
+			<!--== バニラ ==-->
+			<li>CookMealSimple</li>
+			<li>CookMealFine</li>
+			<li>CookMealLavish</li>
+			<!--== 玄米 ==-->
+			<li>CookBRGohan4</li>
+			<li>CookBRTKG4</li>
+			<li>CookBRGyudon4</li>
+			<li>CookBROnigiri4</li>
+			<li>CookBRBento4</li>
+			<li>CookBRJubako4</li>
+			<!--== 白米 ==-->
+			<li>CookGohan4</li>
+			<li>CookWRTKG4</li>
+			<li>CookWRGyudon4</li>
+			<li>CookWROnigiri4</li>
+			<li>CookWRBento4</li>
+			<li>CookWRJubako4</li>
+			<li>CookWRJPCurryRice8</li>
+			<!--== 魚料理 ==-->
+			<li>CookWRSushi8</li>
+			<li>CookSasimi8</li>
+			<li>CookSaltGrilledFish8</li>
+			<li>CookSteamedFish8</li>
+			<!--== 餅 ==-->
+			<li>CookRoastedMochi5</li>
+			<li>CookThreeColoredDumplings5</li>
+			<li>CookVinegarMochi5</li>
+			<li>CookIsobeMochi5</li>
+			<li>CookGoheiMochi5</li>
+			<li>CookZundaMochi5</li>
+			<!--== 単品 ==-->
+			<li>CookTsukudani</li>
+			<!--== ぽん菓子 ==-->
+			<li>CookPuffedRice5</li>
+		</recipes>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<startElectricalFires>true</startElectricalFires>
+				<basePowerConsumption>350</basePowerConsumption>
+			</li>
+			<li Class="CompProperties_Flickable"/>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<building>
+			<isMealSource>true</isMealSource>
+			<heatPerTickWhileWorking>0.10</heatPerTickWhileWorking>
+		</building>
+		<researchPrerequisites><li>Electricity</li></researchPrerequisites>
+	</ThingDef>
+	<ThingDef ParentName="Rice_BuildingBase">
+		<defName>CookingTable</defName>
+		<label>仕込み台</label>
+		<thingClass>Building_WorkTable</thingClass>
+		<description>下準備用の調理台。\n調味料作成や食材加工などが専門。</description>
+		<graphicData>
+			<texPath>Things/Buildings/dai/dai</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<stuffCategories>
+			<li>Stony</li>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>60</costStuffCount>
+		<statBases>
+			<WorkToBuild>1500</WorkToBuild>
+		</statBases>
+		<size>(1,1)</size>
+		<pathCost>60</pathCost>
+		<comps>
+			<li Class="CompProperties_AffectedByFacilities">
+				<linkableFacilities>
+					<li>ToolCabinet</li>
+				</linkableFacilities>
+			</li>
+		</comps>
+		<placeWorkers>
+			<li>PlaceWorker_ShowFacilitiesConnections</li>
+		</placeWorkers>
+		<recipes>
+			<!-- ===== 調味料 ===== -->
+			<li>R_CookSyrup10</li>
+			<li>R_CookNaturalSalt</li>
+			<li>R_CookVinegarBarrel</li>
+			<li>R_CookVinegar10</li>
+			<li>R_CookSoySauceBarrel</li>
+			<li>R_CookSoySauce10</li>
+			<li>R_CookMisoBarrel</li>
+			<li>R_CookMiso10</li>
+			<!-- ===== 味付け肉 ===== -->
+			<li>MakeR_SeasonedMeat5</li>
+			<li>MakeR_SeasonedMeat20</li>
+			<li>MakeR_SeasonedMeat50</li>
+			<!-- ===== 納豆 ===== -->
+			<li>CookFermentedSoybeans10</li>
+			<li>CookFermentedSoybeans20</li>
+			<li>CookFermentedSoybeans50</li>
+			<!-- ===== 魚の干物 ===== -->
+			<li>CookDriedFish10</li>
+			<li>CookDriedFish20</li>
+			<li>CookDriedFish50</li>
+			<!-- ===== 動物の餌 ===== -->
+			<li>MakeR_Manger10</li>
+			<li>MakeR_Manger20</li>
+			<li>MakeR_Manger30</li>
+			<li>MakeR_PetFood150</li>
+			<li>MakeR_FishFood150</li>
+		</recipes>
+	</ThingDef>
+	<ThingDef ParentName="Rice_BuildingBase">
+		<defName>PestleAndMortar</defName>
+		<label>杵臼</label>
+		<thingClass>Building_WorkTable</thingClass>
+		<description>餅つき用の杵と臼。餅を大量に作れる。</description>
+		<graphicData>
+			<texPath>Things/Buildings/kinetousu</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(1,1)</drawSize>
+			<drawRotated>false</drawRotated>
+		</graphicData>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>50</costStuffCount>
+		<statBases>
+			<WorkToBuild>1000</WorkToBuild>
+		</statBases>
+		<size>(1,1)</size>
+		<pathCost>60</pathCost>
+		<comps>
+			<li Class="CompProperties_AffectedByFacilities">
+				<linkableFacilities>
+					<li>ToolCabinet</li>
+				</linkableFacilities>
+			</li>
+		</comps>
+		<placeWorkers>
+			<li>PlaceWorker_ShowFacilitiesConnections</li>
+		</placeWorkers>
+		<recipes>
+			<li>CookFreezeMochi10</li>
+			<li>CookFreezeMochi20</li>
+			<li>CookFreezeMochi50</li>
+			<li>CookFreezeMochi100</li>
+		</recipes>
+	</ThingDef>
+	<ThingDef ParentName="Rice_BuildingBase">
+		<defName>Nukadoko</defName>
+		<label>ぬか床</label>
+		<thingClass>Building_WorkTable</thingClass>
+		<description>保存食であるぬか漬けを大量につくれる大きな瓶。</description>
+		<graphicData>
+			<texPath>Things/Buildings/nukaduke</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(1.2,1.2)</drawSize>
+			<drawRotated>false</drawRotated>
+		</graphicData>
+		<stuffCategories>
+			<li>Stony</li>
+		</stuffCategories>
+		<costStuffCount>50</costStuffCount>
+		<statBases>
+			<WorkToBuild>1000</WorkToBuild>
+		</statBases>
+		<size>(1,1)</size>
+		<pathCost>60</pathCost>
+		<recipes>
+			<li>CookRiceBranPickled10</li>
+			<li>CookRiceBranPickled20</li>
+			<li>CookRiceBranPickled50</li>
+		</recipes>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_AffectedByFacilities">
+				<linkableFacilities>
+					<li>ToolCabinet</li>
+				</linkableFacilities>
+			</li>
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>50.0</fuelConsumptionRate>
+				<fuelCapacity>200.0</fuelCapacity>
+				<fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
+				<fuelFilter>
+					<thingDefs>
+						<li>RiceBran</li>
+					</thingDefs>
+				</fuelFilter>
+				<consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+			</li>
+		</comps>
+		<researchPrerequisites><li>RePreservedFood</li></researchPrerequisites>
+	</ThingDef>
+</Defs>

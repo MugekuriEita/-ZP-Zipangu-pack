@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 肥料作成 -->
+
+  <MakeTatamiStraw30.label>建材用藁を作る(30)</MakeTatamiStraw30.label>
+  <MakeTatamiStraw30.description>藁を建材用に加工する</MakeTatamiStraw30.description>
+  <MakeTatamiStraw30.jobString>建材用藁を作る</MakeTatamiStraw30.jobString>
+
+  <MakeTatamiStraw60.label>建材用藁を作る(60)</MakeTatamiStraw60.label>
+  <MakeTatamiStraw60.description>藁を建材用に加工する</MakeTatamiStraw60.description>
+  <MakeTatamiStraw60.jobString>建材用藁を作る</MakeTatamiStraw60.jobString>
+
+  <MakeR_Compost10.label>Compost(10)</MakeR_Compost10.label>
+  <MakeR_Compost10.description>Make fertilizer from straw and rice bran.</MakeR_Compost10.description>
+  <MakeR_Compost10.jobString>Making</MakeR_Compost10.jobString>
+
+  <MakeR_Compost50.label>Compost(50)</MakeR_Compost50.label>
+  <MakeR_Compost50.description>Make fertilizer from straw and rice bran.</MakeR_Compost50.description>
+  <MakeR_Compost50.jobString>Making</MakeR_Compost50.jobString>
+
+  <MakeR_Compost100.label>Compost(100)</MakeR_Compost100.label>
+  <MakeR_Compost100.description>Make fertilizer from straw and rice bran.</MakeR_Compost100.description>
+  <MakeR_Compost100.jobString>Making</MakeR_Compost100.jobString>
+
+
+  <!-- 燃料作成 -->
+
+  <MakeMomigalite10.label>Momigalite(10)</MakeMomigalite10.label>
+  <MakeMomigalite10.description>Process Outer hull into fuel.</MakeMomigalite10.description>
+  <MakeMomigalite10.jobString>Proessing</MakeMomigalite10.jobString>
+
+  <MakeMomigalite50.label>Momigalite(50)</MakeMomigalite50.label>
+  <MakeMomigalite50.description>Process Outer hull into fuel.</MakeMomigalite50.description>
+  <MakeMomigalite50.jobString>Proessing</MakeMomigalite50.jobString>
+
+  <MakeMomigalite100.label>Momigalite(100)</MakeMomigalite100.label>
+  <MakeMomigalite100.description>Process Outer hull into fuel.</MakeMomigalite100.description>
+  <MakeMomigalite100.jobString>Proessing</MakeMomigalite100.jobString>
+
+  <MakeFuelStraw10.label>Fuel straw(10)</MakeFuelStraw10.label>
+  <MakeFuelStraw10.description>Process straw into fuel.</MakeFuelStraw10.description>
+  <MakeFuelStraw10.jobString>Proessing</MakeFuelStraw10.jobString>
+
+  <MakeFuelStraw50.label>Fuel straw(50)</MakeFuelStraw50.label>
+  <MakeFuelStraw50.description>Process straw into fuel.</MakeFuelStraw50.description>
+  <MakeFuelStraw50.jobString>Proessing</MakeFuelStraw50.jobString>
+
+  <MakeFuelStraw100.label>Fuel straw(100)</MakeFuelStraw100.label>
+  <MakeFuelStraw100.description>Process straw into fuel.</MakeFuelStraw100.description>
+  <MakeFuelStraw100.jobString>Proessing</MakeFuelStraw100.jobString>
+
+
+  <!-- 泥収集 -->
+
+  <ZP_CollectMud.label>泥を集める</ZP_CollectMud.label>
+  <ZP_CollectMud.description>土壌改良のために泥を集める。</ZP_CollectMud.description>
+  <ZP_CollectMud.jobString>泥収集中。</ZP_CollectMud.jobString>
+
+
+  <!-- 副産物袋 -->
+
+  <MakeRiceByproduct.label>副産物袋を作る(100)</MakeRiceByproduct.label>
+  <MakeRiceByproduct.description>副産物袋を作る</MakeRiceByproduct.description>
+  <MakeRiceByproduct.jobString>副産物袋を作る</MakeRiceByproduct.jobString>
+
+  <TakeRiceByproduct_RC.label>副産物袋から米ぬかと籾殻を取りだす</TakeRiceByproduct_RC.label>
+  <TakeRiceByproduct_RC.description>副産物袋から米ぬかと籾殻を取りだす。</TakeRiceByproduct_RC.description>
+  <TakeRiceByproduct_RC.jobString>副産物袋から取りだす。</TakeRiceByproduct_RC.jobString>
+
+  <TakeRiceByproduct_R.label>副産物袋から米ぬかを取りだす</TakeRiceByproduct_R.label>
+  <TakeRiceByproduct_R.description>副産物袋から米ぬかだけ取りだす。\n注意：籾殻は捨てます。</TakeRiceByproduct_R.description>
+  <TakeRiceByproduct_R.jobString>副産物袋から取りだす。</TakeRiceByproduct_R.jobString>
+
+  <TakeRiceByproduct_C.label>副産物袋から籾殻を取りだす</TakeRiceByproduct_C.label>
+  <TakeRiceByproduct_C.description>副産物袋から籾殻だけ取りだす。\n注意：米ぬかは捨てます。</TakeRiceByproduct_C.description>
+  <TakeRiceByproduct_C.jobString>副産物袋から取りだす。</TakeRiceByproduct_C.jobString>
+
+  <MakeChemfuelFromRice.label>make chemfuel from rice byproduct and straw.</MakeChemfuelFromRice.label>
+  <MakeChemfuelFromRice.description>Make a batch of chemfuel by gasifying rice byproduct and straw.</MakeChemfuelFromRice.description>
+  <MakeChemfuelFromRice.jobString>Refining chemfuel from wood.</MakeChemfuelFromRice.jobString>
+
+  <WaraApparelDisassembly.label>藁装備のリサイクル</WaraApparelDisassembly.label>
+  <WaraApparelDisassembly.description>藁装備を藁に戻してリサイクルする。</WaraApparelDisassembly.description>
+  <WaraApparelDisassembly.jobString>Smelting metal from slag.</WaraApparelDisassembly.jobString>
+
+
+</LanguageData>

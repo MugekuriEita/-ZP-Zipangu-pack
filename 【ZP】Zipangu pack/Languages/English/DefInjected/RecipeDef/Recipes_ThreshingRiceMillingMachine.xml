@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- マルチ式脱穀精米機　稲穂⇒白米 -->
+
+  <MakeThreshingRiceMillingMachine10.label>Inaho⇒White rice(10)</MakeThreshingRiceMillingMachine10.label>
+  <MakeThreshingRiceMillingMachine10.description>Momi is divided into  White rice, Straw, Outher hull and Rice bran.</MakeThreshingRiceMillingMachine10.description>
+  <MakeThreshingRiceMillingMachine10.jobString>Dividing</MakeThreshingRiceMillingMachine10.jobString>
+
+  <MakeThreshingRiceMillingMachine50.label>Inaho⇒White rice(50)</MakeThreshingRiceMillingMachine50.label>
+  <MakeThreshingRiceMillingMachine50.description>Momi is divided into  White rice, Straw, Outher hull and Rice bran.</MakeThreshingRiceMillingMachine50.description>
+  <MakeThreshingRiceMillingMachine50.jobString>Dividing</MakeThreshingRiceMillingMachine50.jobString>
+
+  <MakeThreshingRiceMillingMachine100.label>Inaho⇒White rice(100)</MakeThreshingRiceMillingMachine100.label>
+  <MakeThreshingRiceMillingMachine100.description>Momi is divided into  White rice, Straw, Outher hull and Rice bran.</MakeThreshingRiceMillingMachine100.description>
+  <MakeThreshingRiceMillingMachine100.jobString>Dividing</MakeThreshingRiceMillingMachine100.jobString>
+
+  <MakeThreshingRiceMillingMachine200.label>Inaho⇒White rice(200)</MakeThreshingRiceMillingMachine200.label>
+  <MakeThreshingRiceMillingMachine200.description>Momi is divided into  White rice, Straw, Outher hull and Rice bran.</MakeThreshingRiceMillingMachine200.description>
+  <MakeThreshingRiceMillingMachine200.jobString>Dividing</MakeThreshingRiceMillingMachine200.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒玄米 -->
+
+  <MakeThreshingRiceMillingMachine10_2.label>Inaho⇒Brown rice(10)</MakeThreshingRiceMillingMachine10_2.label>
+  <MakeThreshingRiceMillingMachine10_2.description>Momi is divided into  Brown rice, Straw and Outher hull.</MakeThreshingRiceMillingMachine10_2.description>
+  <MakeThreshingRiceMillingMachine10_2.jobString>Dividing</MakeThreshingRiceMillingMachine10_2.jobString>
+
+  <MakeThreshingRiceMillingMachine50_2.label>Inaho⇒Brown rice(50)</MakeThreshingRiceMillingMachine50_2.label>
+  <MakeThreshingRiceMillingMachine50_2.description>Momi is divided into  Brown rice, Straw and Outher hull.</MakeThreshingRiceMillingMachine50_2.description>
+  <MakeThreshingRiceMillingMachine50_2.jobString>Dividing</MakeThreshingRiceMillingMachine50_2.jobString>
+
+  <MakeThreshingRiceMillingMachine100_2.label>Inaho⇒Brown rice(100)</MakeThreshingRiceMillingMachine100_2.label>
+  <MakeThreshingRiceMillingMachine100_2.description>Momi is divided into  Brown rice, Straw and Outher hull.</MakeThreshingRiceMillingMachine100_2.description>
+  <MakeThreshingRiceMillingMachine100_2.jobString>Dividing</MakeThreshingRiceMillingMachine100_2.jobString>
+
+  <MakeThreshingRiceMillingMachine200_2.label>Inaho⇒Brown rice(200)</MakeThreshingRiceMillingMachine200_2.label>
+  <MakeThreshingRiceMillingMachine200_2.description>Momi is divided into  Brown rice, Straw and Outher hull.</MakeThreshingRiceMillingMachine200_2.description>
+  <MakeThreshingRiceMillingMachine200_2.jobString>Dividing</MakeThreshingRiceMillingMachine200_2.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒籾米 -->
+
+  <MakeThreshingRiceMillingMachine10_3.label>Inaho⇒Momi(10)</MakeThreshingRiceMillingMachine10_3.label>
+  <MakeThreshingRiceMillingMachine10_3.description>Momi is divided into  Straw and Outher hull.</MakeThreshingRiceMillingMachine10_3.description>
+  <MakeThreshingRiceMillingMachine10_3.jobString>Dividing</MakeThreshingRiceMillingMachine10_3.jobString>
+
+  <MakeThreshingRiceMillingMachine50_3.label>Inaho⇒Momi(50)</MakeThreshingRiceMillingMachine50_3.label>
+  <MakeThreshingRiceMillingMachine50_3.description>Momi is divided into  Straw and Outher hull.</MakeThreshingRiceMillingMachine50_3.description>
+  <MakeThreshingRiceMillingMachine50_3.jobString>Dividing</MakeThreshingRiceMillingMachine50_3.jobString>
+
+  <MakeThreshingRiceMillingMachine100_3.label>Inaho⇒Momi(100)</MakeThreshingRiceMillingMachine100_3.label>
+  <MakeThreshingRiceMillingMachine100_3.description>Momi is divided into  Straw and Outher hull.</MakeThreshingRiceMillingMachine100_3.description>
+  <MakeThreshingRiceMillingMachine100_3.jobString>Dividing</MakeThreshingRiceMillingMachine100_3.jobString>
+
+  <MakeThreshingRiceMillingMachine200_3.label>Inaho⇒Momi(200)</MakeThreshingRiceMillingMachine200_3.label>
+  <MakeThreshingRiceMillingMachine200_3.description>Momi is divided into  Straw and Outher hull.</MakeThreshingRiceMillingMachine200_3.description>
+  <MakeThreshingRiceMillingMachine200_3.jobString>Dividing</MakeThreshingRiceMillingMachine200_3.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒米(籾) -->
+
+</LanguageData>

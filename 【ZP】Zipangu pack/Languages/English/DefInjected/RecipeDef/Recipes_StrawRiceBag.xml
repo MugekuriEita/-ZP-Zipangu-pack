@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米俵をつくる -->
+
+  <MakeStrawRiceBag_RawRice.label>Make Straw rice bag(rice)</MakeStrawRiceBag_RawRice.label>
+  <MakeStrawRiceBag_RawRice.description>300 rice can be stored, and it can be sold as agricultural products./n 【Caution】 Because the airtightness is bad, the contents decrease when opening.</MakeStrawRiceBag_RawRice.description>
+  <MakeStrawRiceBag_RawRice.jobString>Make Straw rice bag.</MakeStrawRiceBag_RawRice.jobString>
+
+  <MakeStrawRiceBag_RiceMomi.label>Make Straw rice bag(Momi)</MakeStrawRiceBag_RiceMomi.label>
+  <MakeStrawRiceBag_RiceMomi.description>300 Momi can be stored, and it can be sold as agricultural products./n 【Caution】 Because the airtightness is bad, the contents decrease when opening.</MakeStrawRiceBag_RiceMomi.description>
+  <MakeStrawRiceBag_RiceMomi.jobString>Make Straw rice bag.</MakeStrawRiceBag_RiceMomi.jobString>
+
+  <MakeStrawRiceBag_BrownRice.label>Make Straw rice bag(Brown rice)</MakeStrawRiceBag_BrownRice.label>
+  <MakeStrawRiceBag_BrownRice.description>300 Brown Rice can be stored, and it can be sold as agricultural products./n 【Caution】 Because the airtightness is bad, the contents decrease when opening.</MakeStrawRiceBag_BrownRice.description>
+  <MakeStrawRiceBag_BrownRice.jobString>Make Straw rice bag.</MakeStrawRiceBag_BrownRice.jobString>
+
+  <MakeStrawRiceBag_WhiteRice.label>Make Straw rice bag(White rice)</MakeStrawRiceBag_WhiteRice.label>
+  <MakeStrawRiceBag_WhiteRice.description>300 White rice can be stored, and it can be sold as agricultural products.【Caution】 Because the airtightness is bad, the contents decrease when opening.</MakeStrawRiceBag_WhiteRice.description>
+  <MakeStrawRiceBag_WhiteRice.jobString>Make Straw rice bag.</MakeStrawRiceBag_WhiteRice.jobString>
+
+
+  <!-- 米俵をほどく -->
+
+  <UnwindStrawRiceBag_RawRice.label>Open Straw rice bag (rice)</UnwindStrawRiceBag_RawRice.label>
+  <UnwindStrawRiceBag_RawRice.description>【Caution】 Because the airtightness is bad, the contents decrease when opening.</UnwindStrawRiceBag_RawRice.description>
+  <UnwindStrawRiceBag_RawRice.jobString>Open Straw rice bag.</UnwindStrawRiceBag_RawRice.jobString>
+
+  <UnwindStrawRiceBag_RiceMomi.label>Open Straw rice bag (Momi)</UnwindStrawRiceBag_RiceMomi.label>
+  <UnwindStrawRiceBag_RiceMomi.description>【Caution】 Because the airtightness is bad, the contents decrease when opening.</UnwindStrawRiceBag_RiceMomi.description>
+  <UnwindStrawRiceBag_RiceMomi.jobString>Unwind a bales.</UnwindStrawRiceBag_RiceMomi.jobString>
+
+  <UnwindStrawRiceBag_BrownRice.label>Open Straw rice bag (Brown rice)</UnwindStrawRiceBag_BrownRice.label>
+  <UnwindStrawRiceBag_BrownRice.description>【Caution】 Because the airtightness is bad, the contents decrease when opening.</UnwindStrawRiceBag_BrownRice.description>
+  <UnwindStrawRiceBag_BrownRice.jobString>Open Straw rice bag.</UnwindStrawRiceBag_BrownRice.jobString>
+
+  <UnwindStrawRiceBag_WhiteRice.label>Open Straw rice bag (White rice)</UnwindStrawRiceBag_WhiteRice.label>
+  <UnwindStrawRiceBag_WhiteRice.description>【Caution】 Because the airtightness is bad, the contents decrease when opening.</UnwindStrawRiceBag_WhiteRice.description>
+  <UnwindStrawRiceBag_WhiteRice.jobString>Unwind a bales.</UnwindStrawRiceBag_WhiteRice.jobString>
+
+
+</LanguageData>

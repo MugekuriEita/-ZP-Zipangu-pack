@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_CookJunmaiSakeBarrel.label>純米酒樽</R_CookJunmaiSakeBarrel.label>
+  <R_CookJunmaiSakeBarrel.description>純米酒の原料である純米酒樽を作る</R_CookJunmaiSakeBarrel.description>
+  <R_CookJunmaiSakeBarrel.jobString>純米酒樽を作る</R_CookJunmaiSakeBarrel.jobString>
+
+  <MakeJunmaiSake.label>純米酒(25)</MakeJunmaiSake.label>
+  <MakeJunmaiSake.description>純米酒を造る</MakeJunmaiSake.description>
+  <MakeJunmaiSake.jobString>純米酒を造る</MakeJunmaiSake.jobString>
+
+
+</LanguageData>

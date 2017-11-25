@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!--=============== 米関係 y=0 ====================-->
+	<ResearchProjectDef>
+		<defName>ReUplandRice</defName>
+		<label>陸稲</label>
+		<description>稲の生産性を上げるために品種改良をする。\n解放⇒陸稲(要：栽培ｽｷﾙ 4)</description>
+		<baseCost>500</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReWetlandRice</defName>
+		<label>水稲</label>
+		<description>更なら稲の生産性を上げるために品種改良をする。\n解放⇒水稲(要：栽培ｽｷﾙ 6),水田,水田(汎用型)</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<prerequisites><li>ReUplandRice</li></prerequisites>
+		<tab>Zipangu</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	<!--=============== 栽培関係 y=1 ====================-->
+	<ResearchProjectDef>
+		<defName>ReAquacultureFish</defName>
+		<label>養殖魚</label>
+		<description>魚を養殖する方法を学ぶ。育成期間は非常に長いが非常に栄養価の高い魚を収穫できる。\n注意：育てるには光と適切な温度管理、餌(魚の餌,ミミズ,虫の肉)が必要です。\n解放⇒養殖魚(要：栽培ｽｷﾙ 10),養殖網(3×3)</description>
+		<baseCost>500</baseCost>
+		<techLevel>Medieval</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReAquacultureNet</defName>
+		<label>大型養殖網</label>
+		<description>多くの魚が育てられるように大型の養殖網の作り方を学ぶ。\n解放⇒養殖網(4×5)</description>
+		<baseCost>300</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites><li>ReAquacultureFish</li></prerequisites>
+		<tab>Zipangu</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReBeans</defName>
+		<label>豆</label>
+		<description>大豆と枝豆の育成方法を学ぶ。\n解放⇒大豆(要：栽培ｽｷﾙ 4),枝豆(要：栽培ｽｷﾙ 4)</description>
+		<baseCost>300</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+	<!--=============== 土壌開発 y=2 ====================-->
+	<ResearchProjectDef>
+		<defName>ReZPSoil</defName>
+		<label>土</label>
+		<description>農業が可能な土壌を開発する。\n砂、氷面、砂利、荒い石材、滑らかな石材の上に土がしけるようになります。\n解放⇒土【肥沃度:100%】</description>
+		<baseCost>800</baseCost>
+		<techLevel>Medieval</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReZPSoilRich</defName>
+		<label>肥えた土</label>
+		<description>農業が可能な土壌を肥えた土壌に改良する。\n解放⇒肥沃な土【肥沃度:140%】</description>
+		<baseCost>500</baseCost>
+		<techLevel>Medieval</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReZPMud</defName>
+		<label>泥</label>
+		<description>水田用の土壌を開発する。\n解放⇒泥,泥採取所</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Medieval</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReZPLandfillSoil</defName>
+		<label>埋立土壌</label>
+		<description>足場の悪い場所を埋立てる。\n解放⇒埋立土壌</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Medieval</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+	<!--=============== 食料関係 y=3 ====================-->
+	<ResearchProjectDef>
+		<defName>ReSeasoning</defName>
+		<label>調味料</label>
+		<description>食生活を豊かにしてくれる調味料の作り方を学ぶ。\n解放⇒米飴、米酢、醤油、味噌</description>
+		<baseCost>300</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>RePreservedFood</defName>
+		<label>保存食</label>
+		<description>食べ物を長期保存できるように保存食の作り方を学ぶ。\n解放⇒ぬか漬け,魚の干物,納豆,ぬか壺</description>
+		<baseCost>500</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<prerequisites><li>ReSeasoning</li></prerequisites>
+		<tab>Zipangu</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+	<!--=============== 家具 y=4 ====================-->
+	<ResearchProjectDef>
+		<defName>ReZPFurniture</defName>
+		<label>和風家具</label>
+		<description>住環境をよくする和風家具の建て方を学ぶ。\n解放⇒藁編みベッド,うちわ,火鉢</description>
+		<baseCost>500</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>4</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReScarecrow</defName>
+		<label>豊穣のかかし</label>
+		<description>かかしに豊穣の神を宿らせる方法を学ぶ。\nお供え物(燃料)があるかぎり、直径9マス内の土壌の肥沃度を30%upする。\n注意:水田と水耕栽培機は恩恵を受けれません。</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>4</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReFloatingSunLamp</defName>
+		<label>浮遊式太陽灯(燃料式)</label>
+		<description>足場の悪い所でも浮かぶ太陽灯(燃料式)の建て方を学ぶ。\n解放⇒浮遊式太陽灯(燃料式)</description>
+		<baseCost>500</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>4</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>ReDefenseBase</defName>
+		<label>防衛システム</label>
+		<description>防衛陣地の築き方を学ぶ。\n解放⇒かい盾,藁の塊,火薬藁</description>
+		<baseCost>300</baseCost>
+		<techLevel>Medieval</techLevel>
+		<tab>Zipangu</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>4</researchViewY>
+	</ResearchProjectDef>
+	<!--=============== 装備関係 y=5 ====================-->
+	<ResearchProjectDef>
+		<defName>BlacksmithApprentice</defName>
+		<label>Blacksmith Apprentice</label>
+		<description>You can master the techniques of making NagayariSpears, Sasumata, JapaneseLongbow, MuneateArmor, Ninja clothes, Samurai clothes.</description>
+		<baseCost>600</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites><li>Smithing</li></prerequisites>
+		<tab>Zipangu</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>BlacksmithArtisan</defName>
+		<label>Blacksmith Artisan</label>
+		<description>You can master the techniques of making AsigaruArmor, JingasaHelmet, JumonjiSpear, OdachiBlade, JapaneseLongbow(poison).</description>
+		<baseCost>600</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites><li>BlacksmithApprentice</li></prerequisites>
+		<tab>Zipangu</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>BlacksmithMaster</defName>
+		<label>Blacksmith Master</label>
+		<description>You can master the techniques of making SyogunArmor, SyogunHelmet, JapaneseLongbow(fire).</description>
+		<baseCost>600</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites><li>BlacksmithArtisan</li></prerequisites>
+		<tab>Zipangu</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+	<ResearchProjectDef>
+		<defName>BlacksmithTanegasima</defName>
+		<label>Blacksmith Tanegasima</label>
+		<description>You can master the techniques of making TanegasimaGun.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites><li>BlacksmithMaster</li></prerequisites>
+		<tab>Zipangu</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+</Defs>

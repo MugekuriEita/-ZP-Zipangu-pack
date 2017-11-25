@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="ZPMealRottable">
+		<defName>ZPAmazake</defName>
+		<label>甘酒</label>
+		<description>日本の伝統的な甘味飲料で正月や祭りの時に振舞われる。\n見た目は白く混濁していて甘粥と呼ばれる。\n栄養豊富で夏は冷たくして夏ばて対策に冬は温めて風邪予防として活躍する健康飲料でもある。</description>
+		<graphicData>
+			<texPath>Things/Item/Drug/amazake</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<DeteriorationRate>0.5</DeteriorationRate>
+			<MarketValue>12</MarketValue>
+			<Mass>0.1</Mass>
+		</statBases>
+		<ingestible>
+			<preferability>DesperateOnly</preferability>
+			<foodType>Fluid, Processed</foodType>
+			<nutrition>0.12</nutrition>
+			<joy>0.17</joy>
+			<nurseable>true</nurseable>
+			<joyKind>Gluttonous</joyKind>
+			<drugCategory>Social</drugCategory>
+			<maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
+			<ingestSound>Ingest_Beer</ingestSound>
+			<ingestHoldOffsetStanding>
+				<northDefault>
+					<offset>(0.18,0,0)</offset>
+				</northDefault>
+			</ingestHoldOffsetStanding>
+			<ingestCommandString>Drink {0}</ingestCommandString>
+			<ingestReportString>Drinking {0}.</ingestReportString>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>HedAmazake</hediffDef>
+					<severity>0.25</severity>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+		<comps>
+			<li Class="CompProperties_Drug">
+				<addictiveness>0</addictiveness>
+				<listOrder>700</listOrder>
+			</li>
+		</comps>
+	</ThingDef>
+	<RecipeDef>
+		<defName>MakeAmazake</defName>
+		<label>甘酒(10)</label>
+		<description>米を原料にして甘酒を造る。</description>
+		<jobString>Making amazake.</jobString>
+		<workSpeedStat>BrewingSpeed</workSpeedStat>
+		<workSkill>Cooking</workSkill>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_Brewing</soundWorking>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<workAmount>5000</workAmount>
+		<targetCountAdjustment>1</targetCountAdjustment>
+		<recipeUsers>
+			<li>Brewery</li>
+		</recipeUsers>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>WhiteRice</li>
+					</thingDefs>
+				</filter>
+				<count>100</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>WhiteRice</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<ZPAmazake>10</ZPAmazake>
+		</products>
+	</RecipeDef>
+	<HediffDef>
+		<defName>HedAmazake</defName>
+		<label>甘い・甘い・あ～ま～ざ～け～</label>
+		<defaultLabelColor>(1,0,0.5)</defaultLabelColor>
+		<initialSeverity>1</initialSeverity>
+		<hediffClass>HediffWithComps</hediffClass>
+		<scenarioCanAdd>true</scenarioCanAdd>
+		<isBad>true</isBad>
+		<comps>
+			<li Class="HediffCompProperties_SeverityPerDay">
+				<severityPerDay>-1.0</severityPerDay>
+			</li>
+		</comps>
+		<stages>
+			<li>
+				<minSeverity>0</minSeverity>
+				<label>甘酒を飲んだ</label>
+				<capMods>
+					<li>
+						<capacity>Metabolism</capacity>
+						<offset>0.05</offset>
+					</li>
+					<li>
+						<capacity>BloodFiltration</capacity>
+						<offset>0.05</offset>
+					</li>
+					<li>
+						<capacity>BloodPumping</capacity>
+						<offset>0.05</offset>
+					</li>
+				</capMods>
+			</li>
+		</stages>
+	</HediffDef>
+</Defs>

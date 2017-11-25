@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tatami_Green.label>Tatami(Green)</Tatami_Green.label>
+  <Tatami_Green.description>It’s made of a straw called "Igusa". Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_Green.description>
+
+  <Tatami_Yellow.label>Tatami(Yellow)</Tatami_Yellow.label>
+  <Tatami_Yellow.description>It’s made of a straw called "Igusa". Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_Yellow.description>
+
+
+  <!-- 土壌 -->
+
+  <ZP_Soil.label>土</ZP_Soil.label>
+  <ZP_Soil.description>【肥沃度：100%】\n農業が可能な土壌にする。\n砂、氷面、砂利、荒い石材、滑らかな石材の上に土がしけます。</ZP_Soil.description>
+
+  <ZP_SoilRich.label>肥えた土</ZP_SoilRich.label>
+  <ZP_SoilRich.description>【肥沃度：140%】\n農業が可能な土壌を肥沃度の高い肥えた土にする。</ZP_SoilRich.description>
+
+  <ZP_Mud.label>泥</ZP_Mud.label>
+  <ZP_Mud.description>水田のために土壌を泥にする。</ZP_Mud.description>
+
+  <ZP_LandfillSoil.label>埋立土壌</ZP_LandfillSoil.label>
+  <ZP_LandfillSoil.description>【肥沃度：50%】\n足場の悪い場所を埋立てる。\n泥、沼、浅瀬、沿岸流を埋め立てます。</ZP_LandfillSoil.description>
+
+
+</LanguageData>

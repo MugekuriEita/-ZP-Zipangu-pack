@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<SoundDef>
+		<defName>Finish_PuffedRice_StopSound</defName>
+		<context>MapOnly</context>
+		<eventNames/>
+		<maxVoices>2</maxVoices>
+		<priorityMode>PrioritizeNearest</priorityMode>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>Weapon/Artillery/Mortar_Explode_Dry</clipFolderPath>
+					</li>
+				</grains>
+				<volumeRange>
+					<min>20</min>
+					<max>18</max>
+				</volumeRange>
+				<distRange>
+					<min>0</min>
+					<max>80</max>
+				</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+</Defs>
