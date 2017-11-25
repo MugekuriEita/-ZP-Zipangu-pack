@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<!-- ================ 燃料 Patch =============== -->
+	<!-- 火力発電 -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName = "WoodFiredGenerator"]/comps/li[@Class = "CompProperties_Refuelable"]/fuelFilter/thingDefs</xpath>
+		<value>
+			<li>FuelStraw</li>
+			<li>Momigalite</li>
+		</value>
+	</Operation>
+	<!--　カマド　-->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName = "FueledStove"]/comps/li[@Class = "CompProperties_Refuelable"]/fuelFilter/thingDefs</xpath>
+		<value>
+			<li>FuelStraw</li>
+			<li>Momigalite</li>
+		</value>
+	</Operation>
+	<!-- 工作台 -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName = "FueledSmithy"]/comps/li[@Class = "CompProperties_Refuelable"]/fuelFilter/thingDefs</xpath>
+		<value>
+			<li>FuelStraw</li>
+			<li>Momigalite</li>
+		</value>
+	</Operation>
+	<!-- トーチ -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName = "TorchLamp"]/comps/li[@Class = "CompProperties_Refuelable"]/fuelFilter/thingDefs</xpath>
+		<value>
+			<li>FuelStraw</li>
+			<li>Momigalite</li>
+		</value>
+	</Operation>
+	<!-- ================ Iteam Patch =============== -->
+	<!--　米(生)　Patch -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "RawRice"]</xpath>
+		<value>
+			<thingCategories>
+				<li>ZP_Rice</li>
+			</thingCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName = "RawRice"]</xpath>
+		<value>
+			<stackLimit>300</stackLimit>
+		</value>
+	</Operation>
+	<!-- ペットフード Patch -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Kibble"]/thingCategories</xpath>
+		<value>
+			<thingCategories>
+				<li>AnimalFeed</li>
+			</thingCategories>
+		</value>
+	</Operation>
+	<!-- ================ Work Patch =============== -->
+	<!--　農作物加工所　Patch -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/WorkGiverDef[defName = "DoBillsUseCraftingSpot"]/fixedBillGiverDefs</xpath>
+		<value>
+			<li>
+				<fixedBillGiverDefs>
+					<li>RiceCraftingSpot</li>
+				</fixedBillGiverDefs>
+			</li>
+		</value>
+	</Operation>
+	<!--  鍛冶場　Patch -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/WorkGiverDef[defName = "DoBillsMakeWeapons"]/fixedBillGiverDefs</xpath>
+		<value>
+			<li>
+				<fixedBillGiverDefs>
+					<li>JPstyleBlacksmith</li>
+				</fixedBillGiverDefs>
+			</li>
+		</value>
+	</Operation>
+</Patch>

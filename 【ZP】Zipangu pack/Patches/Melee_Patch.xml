@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/StatDef[defName = "MeleeDodgeChance"]/postProcessCurve/points/li[1]</xpath>
+		<value>
+			<li>(5, 0)</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/StatDef[defName = "MeleeDodgeChance"]/postProcessCurve/points/li[2]</xpath>
+		<value>
+			<li>(20, 0.40)</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/StatDef[defName = "MeleeDodgeChance"]/postProcessCurve/points/li[3]</xpath>
+		<value>
+			<li>(60, 0.80)</li>
+		</value>
+	</Operation>
+</Patch>
