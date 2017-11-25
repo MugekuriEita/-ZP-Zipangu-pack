@@ -1,0 +1,3 @@
+D:\Program Files (x86)\SteamLibrary\steamapps\common\RimWorld\Mods\ZPMOD_Kakashi\Assemblies\ZPMOD_Kakashi.dll
+D:\Program Files (x86)\SteamLibrary\steamapps\common\RimWorld\Mods\ZPMOD_Kakashi\Source\ZPMOD_Kakashi\obj\Debug\ZPMOD_Kakashi.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\SteamLibrary\steamapps\common\RimWorld\Mods\ZPMOD_Kakashi\Source\ZPMOD_Kakashi\obj\Debug\ZPMOD_Kakashi.dll
