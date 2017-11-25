@@ -1,64 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Apparel 分類 下着 -->
-
-  <ZP_Dogi.label>Dogi</ZP_Dogi.label>
-  <ZP_Dogi.description>The clothes worn by the martial Taoists of japan. The lightweight design makes this outfit very convenient and flexible for close combat. </ZP_Dogi.description>
-
-  <ZP_Underwear.label>Underwear</ZP_Underwear.label>
-  <ZP_Underwear.description>Underwear, it's fascinating to wear. </ZP_Underwear.description>
-
-  <ZP_NinjaApparel.label>Ninja Clothes</ZP_NinjaApparel.label>
-  <ZP_NinjaApparel.description>Clothes used for spying and scouting. Moving quickly, you can raid them.</ZP_NinjaApparel.description>
-
-  <ZP_MikoApparel.label>Miko Cloths</ZP_MikoApparel.label>
-  <ZP_MikoApparel.description>Shinto is a traditional Japanese animism.  This clothes worn by Shinto Miko. YaoyorozuGods that are said to stay in all things will protect them from evil thoughts.</ZP_MikoApparel.description>
-
-  <ZP_GujiApparel.label>Kan-nusi Clothes</ZP_GujiApparel.label>
-  <ZP_GujiApparel.description>Shinto is a traditional Japanese animism.  This clothes worn by Shinto Kan-nusi. YaoyorozuGods that are said to stay in all things will protect them from evil thoughts.</ZP_GujiApparel.description>
-
-  <ZP_SamuraiApparel.label>Samuerai Clothes</ZP_SamuraiApparel.label>
-  <ZP_SamuraiApparel.description>Clothing worn by the Samurai. Because Samurai spirit resides, you can get protection during the melee battle.</ZP_SamuraiApparel.description>
-
-  <ZP_Longjohns.label>股引</ZP_Longjohns.label>
-  <ZP_Longjohns.description>日本の伝統的なズボンであり下着としても使われる。</ZP_Longjohns.description>
-
-  <ZP_Loincloth.label>ふんどし</ZP_Loincloth.label>
-  <ZP_Loincloth.description>日本の伝統的な下着。</ZP_Loincloth.description>
-
-
-  <!-- 足軽具足 Base 防弾チョッキ -->
-
-  <ZP_AsigaruArmor.label>Asigaru Armor</ZP_AsigaruArmor.label>
-  <ZP_AsigaruArmor.description>Armor that Ashigaru(soldier) wears. Easy-to-move ingenuity has been given so that any situation can be dealt with.</ZP_AsigaruArmor.description>
-
-
-  <!-- 胸当て Base 防弾チョッキ -->
-
-  <ZP_ArcherArmor.label>MuneateArmor</ZP_ArcherArmor.label>
-  <ZP_ArcherArmor.description>Protective gear worn by archers. Stable shooting can be done.</ZP_ArcherArmor.description>
-
-
-  <!-- 羽織 Base パーカー -->
-
-  <ZP_HaoriApparel.label>Haori Coat</ZP_HaoriApparel.label>
-  <ZP_HaoriApparel.description>A coat suitable for cold winter. Because it can be used as a formal dress, it is useful for important hospitality as well.</ZP_HaoriApparel.description>
-
-
-  <!-- 蓑 Base ダスターコート -->
-
-  <ZP_Mino.label>Straw rain cape</ZP_Mino.label>
-  <ZP_Mino.description>Japanese name Mino. A raincoat made from straw, it can also be used as armor while hunting. \nThey were quite common in olden China, Japan, Vietnam and Korea.</ZP_Mino.description>
-
-
-  <!-- 将軍鎧 Base パワーアーマー -->
-
-  <ZP_SyogunArmor.label>Syogun Armor</ZP_SyogunArmor.label>
-  <ZP_SyogunArmor.description>Armor for which only the Syogun(general) can be attached. You can be a champion of the battle because it is protected by thick armor.</ZP_SyogunArmor.description>
-
-  <ZP_TetateShield.label>手盾</ZP_TetateShield.label>
-  <ZP_TetateShield.description>Protective gear worn by archers. Stable shooting can be done.</ZP_TetateShield.description>
-
-
+	<!-- Apparel 分類 下着 -->
+	<ZP_Dogi.label>Dogi</ZP_Dogi.label>
+	<ZP_Dogi.description>The clothes worn by the martial Taoists of japan. The lightweight design makes this outfit very convenient and flexible for close combat. </ZP_Dogi.description>
+	<ZP_Underwear.label>Underwear</ZP_Underwear.label>
+	<ZP_Underwear.description>Underwear, it's fascinating to wear. </ZP_Underwear.description>
+	<ZP_NinjaApparel.label>Ninja Clothes</ZP_NinjaApparel.label>
+	<ZP_NinjaApparel.description>Clothes used for spying and scouting. Moving quickly, you can raid them.</ZP_NinjaApparel.description>
+	<ZP_MikoApparel.label>Miko Cloths</ZP_MikoApparel.label>
+	<ZP_MikoApparel.description>Shinto is a traditional Japanese animism.  This clothes worn by Shinto Miko. YaoyorozuGods that are said to stay in all things will protect them from evil thoughts.</ZP_MikoApparel.description>
+	<ZP_GujiApparel.label>Kan-nusi Clothes</ZP_GujiApparel.label>
+	<ZP_GujiApparel.description>Shinto is a traditional Japanese animism.  This clothes worn by Shinto Kan-nusi. YaoyorozuGods that are said to stay in all things will protect them from evil thoughts.</ZP_GujiApparel.description>
+	<ZP_SamuraiApparel.label>Samuerai Clothes</ZP_SamuraiApparel.label>
+	<ZP_SamuraiApparel.description>Clothing worn by the Samurai. Because Samurai spirit resides, you can get protection during the melee battle.</ZP_SamuraiApparel.description>
+	<ZP_Longjohns.label>股引</ZP_Longjohns.label>
+	<ZP_Longjohns.description>日本の伝統的なズボンであり下着としても使われる。</ZP_Longjohns.description>
+	<ZP_Loincloth.label>ふんどし</ZP_Loincloth.label>
+	<ZP_Loincloth.description>日本の伝統的な下着。</ZP_Loincloth.description>
+	<!-- 足軽具足 Base 防弾チョッキ -->
+	<ZP_AsigaruArmor.label>Asigaru Armor</ZP_AsigaruArmor.label>
+	<ZP_AsigaruArmor.description>Armor that Ashigaru(soldier) wears. Easy-to-move ingenuity has been given so that any situation can be dealt with.</ZP_AsigaruArmor.description>
+	<!-- 胸当て Base 防弾チョッキ -->
+	<ZP_ArcherArmor.label>MuneateArmor</ZP_ArcherArmor.label>
+	<ZP_ArcherArmor.description>Protective gear worn by archers. Stable shooting can be done.</ZP_ArcherArmor.description>
+	<!-- 羽織 Base パーカー -->
+	<ZP_HaoriApparel.label>Haori Coat</ZP_HaoriApparel.label>
+	<ZP_HaoriApparel.description>A coat suitable for cold winter. Because it can be used as a formal dress, it is useful for important hospitality as well.</ZP_HaoriApparel.description>
+	<!-- 蓑 Base ダスターコート -->
+	<ZP_Mino.label>Straw rain cape</ZP_Mino.label>
+	<ZP_Mino.description>Japanese name Mino. A raincoat made from straw, it can also be used as armor while hunting. \nThey were quite common in olden China, Japan, Vietnam and Korea.</ZP_Mino.description>
+	<!-- 将軍鎧 Base パワーアーマー -->
+	<ZP_SyogunArmor.label>Syogun Armor</ZP_SyogunArmor.label>
+	<ZP_SyogunArmor.description>Armor for which only the Syogun(general) can be attached. You can be a champion of the battle because it is protected by thick armor.</ZP_SyogunArmor.description>
+	<ZP_TetateShield.label>手盾</ZP_TetateShield.label>
+	<ZP_TetateShield.description>矢や弾丸から身を守り、近接攻撃を防ぐことが出来る盾。</ZP_TetateShield.description>
 </LanguageData>
