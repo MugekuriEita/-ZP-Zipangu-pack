@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rise_Prant.label>稲(米)</Rise_Prant.label>
+  <Rise_Prant.description>畑で育成できる米。\n白米を食べるまでの手間隙は大変だが愛情をもって育てたお米は衣食住様々な事に活用できる。研究が進めば品種改良もできる優れた穀物。
+        </Rise_Prant.description>
+
+  <UplandRice.label>陸稲(米)</UplandRice.label>
+  <UplandRice.description>畑で育成できる米。\n収穫の早さを重視しかつ収穫量微増できた品種。</UplandRice.description>
+
+  <WetlandRice.label>水稲(米)</WetlandRice.label>
+  <WetlandRice.description>水田で育成できる米。\n稲穂に大量の米を実らすために改良したが、成長速度が犠牲になった品種。
+        </WetlandRice.description>
+
+
+</LanguageData>

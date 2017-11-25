@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_RoastedMochi.label>焼き餅</R_RoastedMochi.label>
+  <R_RoastedMochi.description>シンプルに焼いただけの餅。</R_RoastedMochi.description>
+
+  <R_ThreeColoredDumplings.label>三色団子</R_ThreeColoredDumplings.label>
+  <R_ThreeColoredDumplings.description>ほんのり甘い団子。諸説あるが赤は桜の象徴である春を、白は雪の象徴である冬を、緑は新緑の象徴である夏をあらわしてる。\n秋が無いのは飽きないと商いをかけて、いくら食べても飽きないので商売が繁盛するという洒落からきてる。</R_ThreeColoredDumplings.description>
+
+  <R_VinegarMochi.label>酢餅</R_VinegarMochi.label>
+  <R_VinegarMochi.description>大根おろしと酢をからませた餅。九州の郷土料理。</R_VinegarMochi.description>
+
+  <R_IsobeMochi.label>磯辺餅</R_IsobeMochi.label>
+  <R_IsobeMochi.description>焼いた餅に醤油をたらして海苔で巻いた餅。</R_IsobeMochi.description>
+
+  <R_GoheiMochi.label>五平餅</R_GoheiMochi.label>
+  <R_GoheiMochi.description>餅を板に付け火であぶり、味噌を塗ったもの。</R_GoheiMochi.description>
+
+  <R_ZundaMochi.label>ずんだ餅</R_ZundaMochi.label>
+  <R_ZundaMochi.description>すり潰した枝豆をからませた甘いお餅。東北の郷土料理。\nずん!!ずん!!ずんだ!!とある国の少女はずんだ餅を愛するがゆえに狂人となった逸話がある。</R_ZundaMochi.description>
+
+
+</LanguageData>

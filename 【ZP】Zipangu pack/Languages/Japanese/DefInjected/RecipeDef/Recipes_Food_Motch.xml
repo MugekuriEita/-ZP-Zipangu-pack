@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookRoastedMochi5.label>焼き餅(5)</CookRoastedMochi5.label>
+  <CookRoastedMochi5.description>凍り餅を焼いて焼き餅を5個作る</CookRoastedMochi5.description>
+  <CookRoastedMochi5.jobString>焼き餅を作る</CookRoastedMochi5.jobString>
+
+  <CookThreeColoredDumplings5.label>三色団子(5)</CookThreeColoredDumplings5.label>
+  <CookThreeColoredDumplings5.description>凍り餅に砂糖を練りこんで色づけし三色団子を5個作る</CookThreeColoredDumplings5.description>
+  <CookThreeColoredDumplings5.jobString>三色団子を作る</CookThreeColoredDumplings5.jobString>
+
+  <CookVinegarMochi5.label>酢餅(5)</CookVinegarMochi5.label>
+  <CookVinegarMochi5.description>凍り餅を焼いてから酢と大根おろしをあえて酢餅を5個作る</CookVinegarMochi5.description>
+  <CookVinegarMochi5.jobString>酢餅を作る</CookVinegarMochi5.jobString>
+
+  <CookIsobeMochi5.label>磯辺餅(5)</CookIsobeMochi5.label>
+  <CookIsobeMochi5.description>凍り餅を焼いてから醤油をたらして海苔で巻いた磯辺餅を5個作る</CookIsobeMochi5.description>
+  <CookIsobeMochi5.jobString>磯辺餅を作る</CookIsobeMochi5.jobString>
+
+  <CookGoheiMochi5.label>五平餅(5)</CookGoheiMochi5.label>
+  <CookGoheiMochi5.description>凍り餅を板に付け火であぶり味噌を塗り五平餅を5個作る</CookGoheiMochi5.description>
+  <CookGoheiMochi5.jobString>五平餅を作る</CookGoheiMochi5.jobString>
+
+  <CookZundaMochi5.label>ずんだ餅(5)</CookZundaMochi5.label>
+  <CookZundaMochi5.description>凍り餅を焼いてからペーストした枝豆のせたずんだ餅を5個作る</CookZundaMochi5.description>
+  <CookZundaMochi5.jobString>ずんだを作る</CookZundaMochi5.jobString>
+
+
+</LanguageData>

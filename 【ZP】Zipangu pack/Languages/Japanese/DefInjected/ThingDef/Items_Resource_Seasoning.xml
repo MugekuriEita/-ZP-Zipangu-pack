@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_Syrup.label>米飴</R_Syrup.label>
+  <R_Syrup.description>伝統的な甘味料。\n\n原料となる米の種類や加工方法により、黄金色から赤銅色を呈する。\n\n砂糖が普及する前は日本全国どこでも利用されていた。</R_Syrup.description>
+
+  <R_NaturalSalt.label>天然塩</R_NaturalSalt.label>
+  <R_NaturalSalt.description>塩分を含んだ水を煮詰めて作った塩。</R_NaturalSalt.description>
+
+  <R_VinegarBarrel.label>米酢樽</R_VinegarBarrel.label>
+  <R_VinegarBarrel.description>発酵させることで米酢ができる。</R_VinegarBarrel.description>
+
+  <R_Vinegar.label>米酢</R_Vinegar.label>
+  <R_Vinegar.description>料理に使える酢。</R_Vinegar.description>
+
+  <R_SoySauceBarrel.label>醤油樽</R_SoySauceBarrel.label>
+  <R_SoySauceBarrel.description>発酵させることで醤油ができる。</R_SoySauceBarrel.description>
+
+  <R_SoySauce.label>醤油</R_SoySauce.label>
+  <R_SoySauce.description>料理に使える醤油</R_SoySauce.description>
+
+  <R_MisoBarrel.label>味噌樽</R_MisoBarrel.label>
+  <R_MisoBarrel.description>発酵させることで味噌ができる。</R_MisoBarrel.description>
+
+  <R_Miso.label>味噌</R_Miso.label>
+  <R_Miso.description>料理に使える味噌</R_Miso.description>
+
+
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RiceCraftingSpot.label>農作物加工所</RiceCraftingSpot.label>
+  <RiceCraftingSpot.description>農作物や副産物を加工する専用作業所</RiceCraftingSpot.description>
+  <RiceCraftingSpot_Blueprint.label>農作物加工所 (blueprint)</RiceCraftingSpot_Blueprint.label>
+  <RiceCraftingSpot_Frame.label>農作物加工所 (building)</RiceCraftingSpot_Frame.label>
+  <RiceCraftingSpot_Frame.description>農作物や副産物を加工する専用作業所</RiceCraftingSpot_Frame.description>
+
+  <JPstyleBlacksmith.label>鍛冶場</JPstyleBlacksmith.label>
+  <JPstyleBlacksmith.description>昔ながらの日本武器と防具を生産できる鍛冶場。</JPstyleBlacksmith.description>
+  <JPstyleBlacksmith_Blueprint.label>鍛冶場 (blueprint)</JPstyleBlacksmith_Blueprint.label>
+  <JPstyleBlacksmith_Frame.label>鍛冶場 (building)</JPstyleBlacksmith_Frame.label>
+  <JPstyleBlacksmith_Frame.description>昔ながらの日本武器と防具を生産できる鍛冶場。</JPstyleBlacksmith_Frame.description>
+
+  <ZP_MudCollectingPlace.label>泥収集所</ZP_MudCollectingPlace.label>
+  <ZP_MudCollectingPlace.description>\n【設置場所：泥、沼、浅瀬、沿岸流】土壌作りのための泥を集める場所。</ZP_MudCollectingPlace.description>
+  <ZP_MudCollectingPlace_Blueprint.label>泥収集所 (blueprint)</ZP_MudCollectingPlace_Blueprint.label>
+  <ZP_MudCollectingPlace_Frame.label>泥収集所 (building)</ZP_MudCollectingPlace_Frame.label>
+  <ZP_MudCollectingPlace_Frame.description>\n【設置場所：泥、沼、浅瀬、沿岸流】土壌作りのための泥を集める場所。</ZP_MudCollectingPlace_Frame.description>
+
+  <PaddyField.label>水田</PaddyField.label>
+  <PaddyField.description>水稲を育てることが出来る水田。肥沃度200%\n泥,沼,浅瀬にしか設置できないが豊富な水分と栄養素があるため、汎用型に比べると高性能です</PaddyField.description>
+  <PaddyField_Blueprint.label>水田 (blueprint)</PaddyField_Blueprint.label>
+  <PaddyField_Frame.label>水田 (building)</PaddyField_Frame.label>
+  <PaddyField_Frame.description>水稲を育てることが出来る水田。肥沃度200%\n泥,沼,浅瀬にしか設置できないが豊富な水分と栄養素があるため、汎用型に比べると高性能です</PaddyField_Frame.description>
+
+  <PaddyField_GP.label>水田(汎用型)</PaddyField_GP.label>
+  <PaddyField_GP.description>水稲を育てることが出来る水田。肥沃度140%。\n水辺以外設置可能。</PaddyField_GP.description>
+  <PaddyField_GP_Blueprint.label>水田(汎用型) (blueprint)</PaddyField_GP_Blueprint.label>
+  <PaddyField_GP_Frame.label>水田(汎用型) (building)</PaddyField_GP_Frame.label>
+  <PaddyField_GP_Frame.description>水稲を育てることが出来る水田。肥沃度140%。\n水辺以外設置可能。</PaddyField_GP_Frame.description>
+
+  <ZP_EarthwormCollectionPlace.label>ミミズ収集場</ZP_EarthwormCollectionPlace.label>
+  <ZP_EarthwormCollectionPlace.description>\n魚の餌や土壌開発用のミミズを捕まえる。</ZP_EarthwormCollectionPlace.description>
+  <ZP_EarthwormCollectionPlace_Blueprint.label>ミミズ収集場 (blueprint)</ZP_EarthwormCollectionPlace_Blueprint.label>
+  <ZP_EarthwormCollectionPlace_Frame.label>ミミズ収集場 (building)</ZP_EarthwormCollectionPlace_Frame.label>
+  <ZP_EarthwormCollectionPlace_Frame.description>\n魚の餌や土壌開発用のミミズを捕まえる。</ZP_EarthwormCollectionPlace_Frame.description>
+
+  <ZP_AquacultureNet.label>養殖網(3×3)</ZP_AquacultureNet.label>
+  <ZP_AquacultureNet.description>【設置場所⇒浅瀬,沿岸流,沼,泥】\n【餌⇒ミミズ,魚の餌,虫肉】\n魚を育てることができる。\n餌がなくなると生け簀を壊して脱走するので注意。</ZP_AquacultureNet.description>
+  <ZP_AquacultureNet_Blueprint.label>養殖網(3×3) (blueprint)</ZP_AquacultureNet_Blueprint.label>
+  <ZP_AquacultureNet_Frame.label>養殖網(3×3) (building)</ZP_AquacultureNet_Frame.label>
+  <ZP_AquacultureNet_Frame.description>【設置場所⇒浅瀬,沿岸流,沼,泥】\n【餌⇒ミミズ,魚の餌,虫肉】\n魚を育てることができる。\n餌がなくなると生け簀を壊して脱走するので注意。</ZP_AquacultureNet_Frame.description>
+
+  <ZP_AquacultureNet_Large.label>養殖網(4×5)</ZP_AquacultureNet_Large.label>
+  <ZP_AquacultureNet_Large.description>【設置場所⇒浅瀬,沿岸流,沼,泥】\n【餌⇒ミミズ,魚の餌,虫肉】\n魚を育てることができる。\n餌がなくなると生け簀を壊して脱走するので注意。</ZP_AquacultureNet_Large.description>
+  <ZP_AquacultureNet_Large_Blueprint.label>養殖網(4×5) (blueprint)</ZP_AquacultureNet_Large_Blueprint.label>
+  <ZP_AquacultureNet_Large_Frame.label>養殖網(4×5) (building)</ZP_AquacultureNet_Large_Frame.label>
+  <ZP_AquacultureNet_Large_Frame.description>【設置場所⇒浅瀬,沿岸流,沼,泥】\n【餌⇒ミミズ,魚の餌,虫肉】\n魚を育てることができる。\n餌がなくなると生け簀を壊して脱走するので注意。</ZP_AquacultureNet_Large_Frame.description>
+
+  <ZP_FloatingSunLamp_Fuel.label>浮遊式太陽灯(燃料)</ZP_FloatingSunLamp_Fuel.label>
+  <ZP_FloatingSunLamp_Fuel.description>【直径3マス,熱量5】\n水田や養殖網に使える燃料式発熱太陽灯。\n燃料式なので範囲は狭く燃費効率は悪い。</ZP_FloatingSunLamp_Fuel.description>
+  <ZP_FloatingSunLamp_Fuel_Blueprint.label>浮遊式太陽灯(燃料) (blueprint)</ZP_FloatingSunLamp_Fuel_Blueprint.label>
+  <ZP_FloatingSunLamp_Fuel_Blueprint_Install.label>浮遊式太陽灯(燃料) (blueprint)</ZP_FloatingSunLamp_Fuel_Blueprint_Install.label>
+  <ZP_FloatingSunLamp_Fuel_Frame.label>浮遊式太陽灯(燃料) (building)</ZP_FloatingSunLamp_Fuel_Frame.label>
+  <ZP_FloatingSunLamp_Fuel_Frame.description>【直径3マス,熱量5】\n水田や養殖網に使える燃料式発熱太陽灯。\n燃料式なので範囲は狭く燃費効率は悪い。</ZP_FloatingSunLamp_Fuel_Frame.description>
+
+  <ZP_FloatingSunLamp.label>浮遊式太陽灯</ZP_FloatingSunLamp.label>
+  <ZP_FloatingSunLamp.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</ZP_FloatingSunLamp.description>
+  <ZP_FloatingSunLamp.comps.3.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.3.offMessage>
+  <ZP_FloatingSunLamp_Blueprint.label>浮遊式太陽灯 (blueprint)</ZP_FloatingSunLamp_Blueprint.label>
+  <ZP_FloatingSunLamp_Blueprint_Install.label>浮遊式太陽灯 (blueprint)</ZP_FloatingSunLamp_Blueprint_Install.label>
+  <ZP_FloatingSunLamp_Frame.label>浮遊式太陽灯 (building)</ZP_FloatingSunLamp_Frame.label>
+  <ZP_FloatingSunLamp_Frame.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</ZP_FloatingSunLamp_Frame.description>
+
+
+  <!--<ZP_FloatingSunLamp.comps.4.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.4.offMessage>-->
+
+</LanguageData>

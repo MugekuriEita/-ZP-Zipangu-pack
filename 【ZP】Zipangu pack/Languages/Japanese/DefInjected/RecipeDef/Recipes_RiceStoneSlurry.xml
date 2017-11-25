@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 籾摺り臼　籾米⇒玄米 -->
+
+  <MakeRiceStoneSlurryRice10.label>籾米を玄米にする(10)</MakeRiceStoneSlurryRice10.label>
+  <MakeRiceStoneSlurryRice10.description>臼で籾を外して玄米と籾殻にわける。</MakeRiceStoneSlurryRice10.description>
+  <MakeRiceStoneSlurryRice10.jobString>籾摺りをする</MakeRiceStoneSlurryRice10.jobString>
+
+  <MakeRiceStoneSlurryRice50.label>籾米を玄米にする(50)</MakeRiceStoneSlurryRice50.label>
+  <MakeRiceStoneSlurryRice50.description>臼で籾を外して玄米と籾殻にわける。</MakeRiceStoneSlurryRice50.description>
+  <MakeRiceStoneSlurryRice50.jobString>籾摺りをする</MakeRiceStoneSlurryRice50.jobString>
+
+  <MakeRiceStoneSlurryRice10_1.label>丁寧に籾米を玄米にする(10)</MakeRiceStoneSlurryRice10_1.label>
+  <MakeRiceStoneSlurryRice10_1.description>臼で籾を外して玄米と籾殻にわける。\n丁寧にやる事で白米が少量獲得できる。</MakeRiceStoneSlurryRice10_1.description>
+  <MakeRiceStoneSlurryRice10_1.jobString>籾摺りをする</MakeRiceStoneSlurryRice10_1.jobString>
+
+  <MakeRiceStoneSlurryRice50_2.label>丁寧に籾米を玄米にする(50)</MakeRiceStoneSlurryRice50_2.label>
+  <MakeRiceStoneSlurryRice50_2.description>臼で籾を外して玄米と籾殻にわける。\n丁寧にやる事で白米が少量獲得できる。</MakeRiceStoneSlurryRice50_2.description>
+  <MakeRiceStoneSlurryRice50_2.jobString>籾摺りをする</MakeRiceStoneSlurryRice50_2.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZPAmazake.label>甘酒</ZPAmazake.label>
+  <ZPAmazake.description>日本の伝統的な甘味飲料で正月や祭りの時に振舞われる。\n見た目は白く混濁していて甘粥と呼ばれる。\n栄養豊富で夏は冷たくして夏ばて対策に冬は温めて風邪予防として活躍する健康飲料でもある。</ZPAmazake.description>
+  <ZPAmazake.ingestible.ingestCommandString>Drink {0}</ZPAmazake.ingestible.ingestCommandString>
+  <ZPAmazake.ingestible.ingestReportString>Drinking {0}.</ZPAmazake.ingestible.ingestReportString>
+
+
+</LanguageData>

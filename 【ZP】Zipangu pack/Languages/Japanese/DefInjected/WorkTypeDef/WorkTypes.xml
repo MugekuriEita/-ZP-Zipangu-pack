@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThreshingHusk.label>脱穀</ThreshingHusk.label>
+  <ThreshingHusk.description>脱穀することで稲穂(籾米)を籾米(玄米)にかえる。</ThreshingHusk.description>
+  <ThreshingHusk.labelShort>脱穀</ThreshingHusk.labelShort>
+  <ThreshingHusk.pawnLabel>脱穀</ThreshingHusk.pawnLabel>
+  <ThreshingHusk.gerundLabel>脱穀</ThreshingHusk.gerundLabel>
+  <ThreshingHusk.verb>脱穀</ThreshingHusk.verb>
+
+  <RiceProcessing.label>精米</RiceProcessing.label>
+  <RiceProcessing.description>精米することで玄米(籾米)から白米にかえる。</RiceProcessing.description>
+  <RiceProcessing.labelShort>精米</RiceProcessing.labelShort>
+  <RiceProcessing.pawnLabel>精米</RiceProcessing.pawnLabel>
+  <RiceProcessing.gerundLabel>精米</RiceProcessing.gerundLabel>
+  <RiceProcessing.verb>精米</RiceProcessing.verb>
+
+
+</LanguageData>

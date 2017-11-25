@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米俵をつくる -->
+
+  <MakeStrawRiceBag_RawRice.label>米俵(米)を作る</MakeStrawRiceBag_RawRice.label>
+  <MakeStrawRiceBag_RawRice.description>米(生)を300個保管できて、特産品として売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_RawRice.description>
+  <MakeStrawRiceBag_RawRice.jobString>俵に米をつめる</MakeStrawRiceBag_RawRice.jobString>
+
+  <MakeStrawRiceBag_RiceMomi.label>米俵(籾米)を作る</MakeStrawRiceBag_RiceMomi.label>
+  <MakeStrawRiceBag_RiceMomi.description>籾米を300個保管できて、特産品として売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_RiceMomi.description>
+  <MakeStrawRiceBag_RiceMomi.jobString>俵に米をつめる</MakeStrawRiceBag_RiceMomi.jobString>
+
+  <MakeStrawRiceBag_BrownRice.label>米俵(玄米)を作る</MakeStrawRiceBag_BrownRice.label>
+  <MakeStrawRiceBag_BrownRice.description>玄米を300個保管できて、特産品として高く売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_BrownRice.description>
+  <MakeStrawRiceBag_BrownRice.jobString>俵に米をつめる</MakeStrawRiceBag_BrownRice.jobString>
+
+  <MakeStrawRiceBag_WhiteRice.label>米俵(白米)を作る</MakeStrawRiceBag_WhiteRice.label>
+  <MakeStrawRiceBag_WhiteRice.description>白米を300個保管できて、特産品として非常に高く売れる。\n\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_WhiteRice.description>
+  <MakeStrawRiceBag_WhiteRice.jobString>俵に米をつめる</MakeStrawRiceBag_WhiteRice.jobString>
+
+
+  <!-- 米俵をほどく -->
+
+  <UnwindStrawRiceBag_RawRice.label>米俵(米)をほどく</UnwindStrawRiceBag_RawRice.label>
+  <UnwindStrawRiceBag_RawRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_RawRice.description>
+  <UnwindStrawRiceBag_RawRice.jobString>Unwind a bales.</UnwindStrawRiceBag_RawRice.jobString>
+
+  <UnwindStrawRiceBag_RiceMomi.label>米俵(籾米)をほどく</UnwindStrawRiceBag_RiceMomi.label>
+  <UnwindStrawRiceBag_RiceMomi.description>米俵から中身をとりだす。\n\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_RiceMomi.description>
+  <UnwindStrawRiceBag_RiceMomi.jobString>Unwind a bales.</UnwindStrawRiceBag_RiceMomi.jobString>
+
+  <UnwindStrawRiceBag_BrownRice.label>米俵(玄米)をほどく</UnwindStrawRiceBag_BrownRice.label>
+  <UnwindStrawRiceBag_BrownRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_BrownRice.description>
+  <UnwindStrawRiceBag_BrownRice.jobString>Unwind a bales.</UnwindStrawRiceBag_BrownRice.jobString>
+
+  <UnwindStrawRiceBag_WhiteRice.label>米俵(白米)をほどく</UnwindStrawRiceBag_WhiteRice.label>
+  <UnwindStrawRiceBag_WhiteRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_WhiteRice.description>
+  <UnwindStrawRiceBag_WhiteRice.jobString>Unwind a bales.</UnwindStrawRiceBag_WhiteRice.jobString>
+
+
+</LanguageData>

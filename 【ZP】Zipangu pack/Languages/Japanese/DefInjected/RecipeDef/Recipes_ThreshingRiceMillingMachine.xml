@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- マルチ式脱穀精米機　稲穂⇒白米 -->
+
+  <MakeThreshingRiceMillingMachine10.label>稲穂を白米にする(10)</MakeThreshingRiceMillingMachine10.label>
+  <MakeThreshingRiceMillingMachine10.description>稲穂を脱穀精米して白米、藁、籾殻、米ぬかにわける</MakeThreshingRiceMillingMachine10.description>
+  <MakeThreshingRiceMillingMachine10.jobString>脱穀精米中</MakeThreshingRiceMillingMachine10.jobString>
+
+  <MakeThreshingRiceMillingMachine50.label>稲穂を白米にする(50)</MakeThreshingRiceMillingMachine50.label>
+  <MakeThreshingRiceMillingMachine50.description>稲穂を脱穀精米して白米、藁、籾殻、米ぬかにわける</MakeThreshingRiceMillingMachine50.description>
+  <MakeThreshingRiceMillingMachine50.jobString>脱穀精米中</MakeThreshingRiceMillingMachine50.jobString>
+
+  <MakeThreshingRiceMillingMachine100.label>稲穂を白米にする(100)</MakeThreshingRiceMillingMachine100.label>
+  <MakeThreshingRiceMillingMachine100.description>稲穂を脱穀精米して白米、藁、籾殻、米ぬかにわける</MakeThreshingRiceMillingMachine100.description>
+  <MakeThreshingRiceMillingMachine100.jobString>脱穀精米中</MakeThreshingRiceMillingMachine100.jobString>
+
+  <MakeThreshingRiceMillingMachine200.label>稲穂を白米にする(200)</MakeThreshingRiceMillingMachine200.label>
+  <MakeThreshingRiceMillingMachine200.description>稲穂を脱穀精米して白米、藁、籾殻、米ぬかにわける</MakeThreshingRiceMillingMachine200.description>
+  <MakeThreshingRiceMillingMachine200.jobString>脱穀精米中</MakeThreshingRiceMillingMachine200.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒玄米 -->
+
+  <MakeThreshingRiceMillingMachine10_2.label>稲穂を玄米にする(10)</MakeThreshingRiceMillingMachine10_2.label>
+  <MakeThreshingRiceMillingMachine10_2.description>稲穂を脱穀して玄米、藁、籾殻にわける</MakeThreshingRiceMillingMachine10_2.description>
+  <MakeThreshingRiceMillingMachine10_2.jobString>脱穀中</MakeThreshingRiceMillingMachine10_2.jobString>
+
+  <MakeThreshingRiceMillingMachine50_2.label>稲穂を玄米にする(50)</MakeThreshingRiceMillingMachine50_2.label>
+  <MakeThreshingRiceMillingMachine50_2.description>稲穂を脱穀して玄米、藁、籾殻にわける</MakeThreshingRiceMillingMachine50_2.description>
+  <MakeThreshingRiceMillingMachine50_2.jobString>脱穀中</MakeThreshingRiceMillingMachine50_2.jobString>
+
+  <MakeThreshingRiceMillingMachine100_2.label>稲穂を玄米にする(100)</MakeThreshingRiceMillingMachine100_2.label>
+  <MakeThreshingRiceMillingMachine100_2.description>稲穂を脱穀して玄米、藁、籾殻にわける</MakeThreshingRiceMillingMachine100_2.description>
+  <MakeThreshingRiceMillingMachine100_2.jobString>脱穀中</MakeThreshingRiceMillingMachine100_2.jobString>
+
+  <MakeThreshingRiceMillingMachine200_2.label>稲穂を玄米にする(200)</MakeThreshingRiceMillingMachine200_2.label>
+  <MakeThreshingRiceMillingMachine200_2.description>稲穂を脱穀して玄米、藁、籾殻にわける</MakeThreshingRiceMillingMachine200_2.description>
+  <MakeThreshingRiceMillingMachine200_2.jobString>脱穀中</MakeThreshingRiceMillingMachine200_2.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒籾米 -->
+
+  <MakeThreshingRiceMillingMachine10_3.label>稲穂を籾米にする(10)</MakeThreshingRiceMillingMachine10_3.label>
+  <MakeThreshingRiceMillingMachine10_3.description>稲穂を脱穀して籾米と藁にわける</MakeThreshingRiceMillingMachine10_3.description>
+  <MakeThreshingRiceMillingMachine10_3.jobString>脱穀中</MakeThreshingRiceMillingMachine10_3.jobString>
+
+  <MakeThreshingRiceMillingMachine50_3.label>稲穂を籾米にする(50)</MakeThreshingRiceMillingMachine50_3.label>
+  <MakeThreshingRiceMillingMachine50_3.description>稲穂を脱穀して籾米と藁にわける</MakeThreshingRiceMillingMachine50_3.description>
+  <MakeThreshingRiceMillingMachine50_3.jobString>脱穀中</MakeThreshingRiceMillingMachine50_3.jobString>
+
+  <MakeThreshingRiceMillingMachine100_3.label>稲穂を籾米にする(100)</MakeThreshingRiceMillingMachine100_3.label>
+  <MakeThreshingRiceMillingMachine100_3.description>稲穂を脱穀して籾米と藁にわける</MakeThreshingRiceMillingMachine100_3.description>
+  <MakeThreshingRiceMillingMachine100_3.jobString>脱穀中</MakeThreshingRiceMillingMachine100_3.jobString>
+
+  <MakeThreshingRiceMillingMachine200_3.label>稲穂を籾米にする(200)</MakeThreshingRiceMillingMachine200_3.label>
+  <MakeThreshingRiceMillingMachine200_3.description>稲穂を脱穀して籾米と藁にわける</MakeThreshingRiceMillingMachine200_3.description>
+  <MakeThreshingRiceMillingMachine200_3.jobString>脱穀中</MakeThreshingRiceMillingMachine200_3.jobString>
+
+
+</LanguageData>

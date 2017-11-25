@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BR_Gohan.label>ご飯(玄米)</BR_Gohan.label>
+  <BR_Gohan.description>オカズが欲しいなんて言わずにお米そのままの味を楽しもう!!</BR_Gohan.description>
+
+  <WR_Gohan.label>ご飯</WR_Gohan.label>
+  <WR_Gohan.description>白米をじっくりと楽しむためにお椀によそられた最高の1杯</WR_Gohan.description>
+
+  <BR_TKG.label>玄米 卵かけご飯</BR_TKG.label>
+  <BR_TKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</BR_TKG.description>
+
+  <WR_TKG.label>卵かけご飯</WR_TKG.label>
+  <WR_TKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</WR_TKG.description>
+
+  <BR_Onigiri.label>おにぎり(玄米)</BR_Onigiri.label>
+  <BR_Onigiri.description>どこでも食べれる塩味のきいたおにぎり</BR_Onigiri.description>
+
+  <WR_Onigiri.label>おにぎり</WR_Onigiri.label>
+  <WR_Onigiri.description>どこでも食べれる塩味のきいた白米のおにぎり</WR_Onigiri.description>
+
+  <BR_Bento.label>日の丸弁当(玄米)</BR_Bento.label>
+  <BR_Bento.description>どこでも食べれるお弁当。</BR_Bento.description>
+
+  <WR_Bento.label>日の丸弁当</WR_Bento.label>
+  <WR_Bento.description>どこでも食べれる白米のお弁当。</WR_Bento.description>
+
+  <BR_Jubako.label>重箱(玄米)</BR_Jubako.label>
+  <BR_Jubako.description>どこでも食べれる豪華なお弁当。</BR_Jubako.description>
+
+  <WR_Jubako.label>重箱</WR_Jubako.label>
+  <WR_Jubako.description>どこでも食べれる豪華で白米のお弁当。</WR_Jubako.description>
+
+  <BR_Gyudon.label>肉丼(玄米)</BR_Gyudon.label>
+  <BR_Gyudon.description>ご飯の上にがっつり肉を盛り付けたどんぶり。</BR_Gyudon.description>
+
+  <WR_Gyudon.label>肉丼</WR_Gyudon.label>
+  <WR_Gyudon.description>ご飯の上にがっつり肉を盛り付けた白米のどんぶり。</WR_Gyudon.description>
+
+  <WR_JPCurryRice.label>カレーライス</WR_JPCurryRice.label>
+  <WR_JPCurryRice.description>とある国では食べ方や食材を何にするかで戦争が起きるほど、皆が愛してやまない魅惑のカレーライス。</WR_JPCurryRice.description>
+
+  <Tukudani.label>イナゴの佃煮</Tukudani.label>
+  <Tukudani.description>普段は捨てられるはずの虫の肉を砂糖と醤油で甘辛く煮付けた食べ物。</Tukudani.description>
+
+  <ZP_WRSushi.label>握り寿司</ZP_WRSushi.label>
+  <ZP_WRSushi.description>酢飯の上に新鮮な魚の切り身をのせ握った伝統的な日本料理。</ZP_WRSushi.description>
+
+  <ZP_Sasimi.label>赤身の刺身</ZP_Sasimi.label>
+  <ZP_Sasimi.description>新鮮な生魚を食べやすい大きさに切りお皿に盛り合わせたもの。</ZP_Sasimi.description>
+
+  <ZP_SaltGrilledFish.label>魚の塩焼き</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>塩をまぶした魚を串にさし直火で焼いたもの。焼いた魚の旨味を堪能できる一品。</ZP_SaltGrilledFish.description>
+
+  <ZP_SteamedFish.label>魚の煮付け</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>魚を軽く茹でた後に調味料で味をつけ煮付けた食べ物。</ZP_SteamedFish.description>
+
+
+</LanguageData>

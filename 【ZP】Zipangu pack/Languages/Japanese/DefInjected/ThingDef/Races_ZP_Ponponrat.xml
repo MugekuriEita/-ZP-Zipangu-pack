@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ポン菓子ロープ -->
+
+  <ZP_Ponponrat.label>ポンポンねずみ</ZP_Ponponrat.label>
+  <ZP_Ponponrat.description>ボムネズミの亜種。通常の個体よりも足が速く、解体するとポン菓子がとれるらしい。\n\nとあるコロニーでポン菓子を餌付けされまくった結果、ついうっかりで突然変異してしまった。\nポン菓子を生成する際の爆発力を体内で生み出せるようになり移動速度、爆発力が強化されている。\n害はないが極度の興奮状態になると爆撃特攻野郎になるので注意。\n一部の愛好家達の間で人気が高く、訓練もしていたので知能は高い。</ZP_Ponponrat.description>
+  <ZP_Ponponrat.tools.0.label>left claw</ZP_Ponponrat.tools.0.label>
+  <ZP_Ponponrat.tools.1.label>right claw</ZP_Ponponrat.tools.1.label>
+  <ZP_Ponponrat.tools.3.label>head</ZP_Ponponrat.tools.3.label>
+  <!-- Use Leather From: Boomrat -->
+  <!-- Use Meat From: Boomrat -->
+  <ZP_Ponponrat_Corpse.label>ポンポンねずみ corpse</ZP_Ponponrat_Corpse.label>
+  <ZP_Ponponrat_Corpse.description>ポンポンねずみ corpse</ZP_Ponponrat_Corpse.description>
+
+
+</LanguageData>

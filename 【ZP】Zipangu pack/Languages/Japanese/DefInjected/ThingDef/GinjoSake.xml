@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZPGinjoSake.label>吟醸酒</ZPGinjoSake.label>
+  <ZPGinjoSake.description>白米と穀物で作った醸造アルコールを吟醸造りによって製造した清酒。\n華やかな香りですっきりした味わいが特徴のお酒。</ZPGinjoSake.description>
+  <ZPGinjoSake.ingestible.ingestCommandString>Drink {0}</ZPGinjoSake.ingestible.ingestCommandString>
+  <ZPGinjoSake.ingestible.ingestReportString>Drinking {0}.</ZPGinjoSake.ingestible.ingestReportString>
+  <ZPGinjoSake.tools.1.label>neck</ZPGinjoSake.tools.1.label>
+
+  <R_GinjoSakeBarrel.label>吟醸酒樽</R_GinjoSakeBarrel.label>
+  <R_GinjoSakeBarrel.description>吟醸酒の原料になる。</R_GinjoSakeBarrel.description>
+
+
+</LanguageData>

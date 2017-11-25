@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RoundHandFan.label>うちわ</RoundHandFan.label>
+  <RoundHandFan.description>日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</RoundHandFan.description>
+  <RoundHandFan_Blueprint.label>うちわ (blueprint)</RoundHandFan_Blueprint.label>
+  <RoundHandFan_Blueprint_Install.label>うちわ (blueprint)</RoundHandFan_Blueprint_Install.label>
+  <RoundHandFan_Frame.label>うちわ (building)</RoundHandFan_Frame.label>
+  <RoundHandFan_Frame.description>日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</RoundHandFan_Frame.description>
+
+  <ZP_Brazier.label>火鉢</ZP_Brazier.label>
+  <ZP_Brazier.description>日本の伝統的な暖房器具。\n火鉢を囲んでみんなで団欒したり、餅を焼いて楽しむことも出来る。</ZP_Brazier.description>
+  <ZP_Brazier_Blueprint.label>火鉢 (blueprint)</ZP_Brazier_Blueprint.label>
+  <ZP_Brazier_Blueprint_Install.label>火鉢 (blueprint)</ZP_Brazier_Blueprint_Install.label>
+  <ZP_Brazier_Frame.label>火鉢 (building)</ZP_Brazier_Frame.label>
+  <ZP_Brazier_Frame.description>日本の伝統的な暖房器具。\n火鉢を囲んでみんなで団欒したり、餅を焼いて楽しむことも出来る。</ZP_Brazier_Frame.description>
+
+
+</LanguageData>

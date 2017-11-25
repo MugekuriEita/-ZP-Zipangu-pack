@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Fish.label>魚</ZP_Fish.label>
+  <ZP_Fish.description>生簀で育てた魚。調理方法によって赤身にも白身にもなる。</ZP_Fish.description>
+
+  <ZP_SoyBeen.label>大豆</ZP_SoyBeen.label>
+  <ZP_SoyBeen.description>保存性が高く調理する時は肉として扱える。味噌や醤油の原材料。</ZP_SoyBeen.description>
+
+  <ZP_Edamame.label>枝豆</ZP_Edamame.label>
+  <ZP_Edamame.description>保存性と栄養価は低いが育ちは早いので肉の代替品として便利。</ZP_Edamame.description>
+
+
+</LanguageData>

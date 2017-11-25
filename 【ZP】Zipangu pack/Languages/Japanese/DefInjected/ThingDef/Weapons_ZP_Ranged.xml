@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- クナイ投げ -->
+
+  <kunai_ao.label>飛苦無</kunai_ao.label>
+
+  <Kunai_Ranged.label>飛苦無</Kunai_Ranged.label>
+  <Kunai_Ranged.description>装備すると忍者のような気分になって、速く走れます。</Kunai_Ranged.description>
+
+
+  <!-- クナイ投げ3 -->
+
+  <kunai_3ao.label>飛苦無【三連】</kunai_3ao.label>
+
+  <Kunai_3Ranged.label>飛苦無【三連】</Kunai_3Ranged.label>
+  <Kunai_3Ranged.description>三本同時に投げます。この苦無には足が速くなる効果はありません。</Kunai_3Ranged.description>
+
+
+  <!-- 種子島 Base 狙撃銃 -->
+
+  <Bullet_Tanegasima.label>種子島弾</Bullet_Tanegasima.label>
+
+  <Gun_Tanegasima.label>種子島</Gun_Tanegasima.label>
+  <Gun_Tanegasima.description>マスケット銃を改良して作られた火縄銃。口径の大きさと弾丸の重さが特徴的で近距離射撃の際は体の一部を吹っ飛ばせる威力を持っている。しかし、火種や火縄を常に持ち歩かないといけないため移動速度が落ちる。</Gun_Tanegasima.description>
+  <Gun_Tanegasima.tools.0.label>銃床</Gun_Tanegasima.tools.0.label>
+  <Gun_Tanegasima.tools.1.label>銃身</Gun_Tanegasima.tools.1.label>
+
+
+  <!-- 和弓 Base  グレートボウ -->
+
+  <Arrow_JPstyleGreatBow.label>矢</Arrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat.label>和弓</Bow_JPstyleGreat.label>
+  <Bow_JPstyleGreat.description>グレートボウを改良して威力と射程を上げた弓。</Bow_JPstyleGreat.description>
+
+
+  <!-- 和弓 Base  火炎筒投射機 -->
+
+  <FireArrow_JPstyleGreatBow.label>火矢</FireArrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat_Fire.label>火弓</Bow_JPstyleGreat_Fire.label>
+  <Bow_JPstyleGreat_Fire.description>グレートボウを改良して火矢を撃てるようにした弓。</Bow_JPstyleGreat_Fire.description>
+
+  <PoisonArrow_JPstyleGreatBow.label>毒矢</PoisonArrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat_Poison.label>蛇弓</Bow_JPstyleGreat_Poison.label>
+  <Bow_JPstyleGreat_Poison.description>グレートボウを改造して速射と毒矢を撃てるようにした弓。</Bow_JPstyleGreat_Poison.description>
+
+
+</LanguageData>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 味付け肉 -->
+
+  <MakeR_SeasonedMeat5.label>味付け肉(5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description>調味料で臭みを消し栄養素と保存性を少し高めた味付け肉を作る。</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>味付け肉を作る</MakeR_SeasonedMeat5.jobString>
+
+  <MakeR_SeasonedMeat20.label>味付け肉(20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description>調味料で臭みを消し栄養素と保存性を少し高めた味付け肉を作る。</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>味付け肉を作る</MakeR_SeasonedMeat20.jobString>
+
+  <MakeR_SeasonedMeat50.label>味付け肉(50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description>調味料で臭みを消し栄養素と保存性を少し高めた味付け肉を作る。</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>味付け肉を作る</MakeR_SeasonedMeat50.jobString>
+
+  <CookFreezeMochi10.label>凍り餅(10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>凍り餅を作る</CookFreezeMochi10.jobString>
+
+
+  <!-- 凍り餅 -->
+
+  <CookFreezeMochi20.label>凍り餅(20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>凍り餅を作る</CookFreezeMochi20.jobString>
+
+  <CookFreezeMochi50.label>凍り餅(50)</CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>凍り餅を作る</CookFreezeMochi50.jobString>
+
+  <CookFreezeMochi100.label>凍り餅(100)</CookFreezeMochi100.label>
+  <CookFreezeMochi100.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookFreezeMochi100.description>
+  <CookFreezeMochi100.jobString>凍り餅を作る</CookFreezeMochi100.jobString>
+
+
+  <!-- ぬか漬け -->
+
+  <CookRiceBranPickled10.label>ぬか漬け(10)</CookRiceBranPickled10.label>
+  <CookRiceBranPickled10.description>米ぬかと塩でぬか床を作り野菜を漬け込む。</CookRiceBranPickled10.description>
+  <CookRiceBranPickled10.jobString>ぬか漬けを作る</CookRiceBranPickled10.jobString>
+
+  <CookRiceBranPickled20.label>ぬか漬け(20)</CookRiceBranPickled20.label>
+  <CookRiceBranPickled20.description>米ぬかと塩でぬか床を作り野菜を漬け込む。</CookRiceBranPickled20.description>
+  <CookRiceBranPickled20.jobString>ぬか漬けを作る</CookRiceBranPickled20.jobString>
+
+  <CookRiceBranPickled50.label>ぬか漬け(50)</CookRiceBranPickled50.label>
+  <CookRiceBranPickled50.description>米ぬかと塩でぬか床を作り野菜を漬け込む。</CookRiceBranPickled50.description>
+  <CookRiceBranPickled50.jobString>ぬか漬けを作る</CookRiceBranPickled50.jobString>
+
+
+  <!-- 納豆 -->
+
+  <CookFermentedSoybeans10.label>納豆(10)</CookFermentedSoybeans10.label>
+  <CookFermentedSoybeans10.description>大豆を藁に包んで納豆を作る。</CookFermentedSoybeans10.description>
+  <CookFermentedSoybeans10.jobString>納豆を作る</CookFermentedSoybeans10.jobString>
+
+  <CookFermentedSoybeans20.label>納豆(20)</CookFermentedSoybeans20.label>
+  <CookFermentedSoybeans20.description>大豆を藁に包んで納豆を作る。</CookFermentedSoybeans20.description>
+  <CookFermentedSoybeans20.jobString>納豆を作る</CookFermentedSoybeans20.jobString>
+
+  <CookFermentedSoybeans50.label>納豆(50)</CookFermentedSoybeans50.label>
+  <CookFermentedSoybeans50.description>大豆を藁に包んで納豆を作る。</CookFermentedSoybeans50.description>
+  <CookFermentedSoybeans50.jobString>納豆を作る</CookFermentedSoybeans50.jobString>
+
+  <CookDriedFish10.label>魚の干物(10)</CookDriedFish10.label>
+  <CookDriedFish10.description>生魚を干して干物にする</CookDriedFish10.description>
+  <CookDriedFish10.jobString>魚の干物を作る</CookDriedFish10.jobString>
+
+  <CookDriedFish20.label>魚の干物(20)</CookDriedFish20.label>
+  <CookDriedFish20.description>生魚を干して干物にする</CookDriedFish20.description>
+  <CookDriedFish20.jobString>魚の干物を作る</CookDriedFish20.jobString>
+
+  <CookDriedFish50.label>魚の干物(50)</CookDriedFish50.label>
+  <CookDriedFish50.description>生魚を干して干物にする</CookDriedFish50.description>
+  <CookDriedFish50.jobString>魚の干物を作る</CookDriedFish50.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　重箱 -->
+
+  <CookBRJubako4.label>玄米 重箱(4)</CookBRJubako4.label>
+  <CookBRJubako4.description>重箱を４個作る</CookBRJubako4.description>
+  <CookBRJubako4.jobString>重箱を作る</CookBRJubako4.jobString>
+
+  <CookWRJubako4.label>重箱(4)</CookWRJubako4.label>
+  <CookWRJubako4.description>重箱を４個作る</CookWRJubako4.description>
+  <CookWRJubako4.jobString>重箱を作る</CookWRJubako4.jobString>
+
+
+</LanguageData>

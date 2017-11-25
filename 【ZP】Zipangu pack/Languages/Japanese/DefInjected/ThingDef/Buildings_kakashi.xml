@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZPMOD_Kakashi.label>豊穣のカカシ</ZPMOD_Kakashi.label>
+  <ZPMOD_Kakashi.description>【効果:肥沃度30%up,直径9マス】\n豊穣の神が宿っているかかし。周囲の作物の生長を促してくれる。\nお供え物がある間は効果が続くがなくなると役目を果たして自壊する。\nお供え物(燃料)はおにぎり,三色団子,酢餅,磯部餅,五平餅,ずんだ餅</ZPMOD_Kakashi.description>
+  <ZPMOD_Kakashi_Blueprint.label>豊穣のカカシ (blueprint)</ZPMOD_Kakashi_Blueprint.label>
+  <ZPMOD_Kakashi_Blueprint_Install.label>豊穣のカカシ (blueprint)</ZPMOD_Kakashi_Blueprint_Install.label>
+  <ZPMOD_Kakashi_Frame.label>豊穣のカカシ (building)</ZPMOD_Kakashi_Frame.label>
+  <ZPMOD_Kakashi_Frame.description>【効果:肥沃度30%up,直径9マス】\n豊穣の神が宿っているかかし。周囲の作物の生長を促してくれる。\nお供え物がある間は効果が続くがなくなると役目を果たして自壊する。\nお供え物(燃料)はおにぎり,三色団子,酢餅,磯部餅,五平餅,ずんだ餅</ZPMOD_Kakashi_Frame.description>
+
+
+</LanguageData>

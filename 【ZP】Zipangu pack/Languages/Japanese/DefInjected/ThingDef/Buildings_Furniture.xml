@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StrawBed.label>藁ベッド</StrawBed.label>
+  <StrawBed.description>寝心地は最悪だが無いよりマシな寝床。【売却不可】</StrawBed.description>
+  <StrawBed_Blueprint.label>藁ベッド (blueprint)</StrawBed_Blueprint.label>
+  <StrawBed_Blueprint_Install.label>藁ベッド (blueprint)</StrawBed_Blueprint_Install.label>
+  <StrawBed_Frame.label>藁ベッド (building)</StrawBed_Frame.label>
+  <StrawBed_Frame.description>寝心地は最悪だが無いよりマシな寝床。【売却不可】</StrawBed_Frame.description>
+
+  <DoubleStrawBed.label>ダブル藁ベッド</DoubleStrawBed.label>
+  <DoubleStrawBed.description>寝心地は最悪だが無いよりマシな寝床。【売却不可】</DoubleStrawBed.description>
+  <DoubleStrawBed_Blueprint.label>ダブル藁ベッド (blueprint)</DoubleStrawBed_Blueprint.label>
+  <DoubleStrawBed_Blueprint_Install.label>ダブル藁ベッド (blueprint)</DoubleStrawBed_Blueprint_Install.label>
+  <DoubleStrawBed_Frame.label>ダブル藁ベッド (building)</DoubleStrawBed_Frame.label>
+  <DoubleStrawBed_Frame.description>寝心地は最悪だが無いよりマシな寝床。【売却不可】</DoubleStrawBed_Frame.description>
+
+  <SuperiorStrawBed.label>藁編みベッド</SuperiorStrawBed.label>
+  <SuperiorStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。/nそれでも通常のベッドより質は少し落ちる。</SuperiorStrawBed.description>
+  <SuperiorStrawBed_Blueprint.label>藁編みベッド (blueprint)</SuperiorStrawBed_Blueprint.label>
+  <SuperiorStrawBed_Blueprint_Install.label>藁編みベッド (blueprint)</SuperiorStrawBed_Blueprint_Install.label>
+  <SuperiorStrawBed_Frame.label>藁編みベッド (building)</SuperiorStrawBed_Frame.label>
+  <SuperiorStrawBed_Frame.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。/nそれでも通常のベッドより質は少し落ちる。</SuperiorStrawBed_Frame.description>
+
+  <SuperiorDoubleStrawBed.label>ダブル藁編みベッド</SuperiorDoubleStrawBed.label>
+  <SuperiorDoubleStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。/nそれでも通常のベッドより質は少し落ちる。</SuperiorDoubleStrawBed.description>
+  <SuperiorDoubleStrawBed_Blueprint.label>ダブル藁編みベッド (blueprint)</SuperiorDoubleStrawBed_Blueprint.label>
+  <SuperiorDoubleStrawBed_Blueprint_Install.label>ダブル藁編みベッド (blueprint)</SuperiorDoubleStrawBed_Blueprint_Install.label>
+  <SuperiorDoubleStrawBed_Frame.label>ダブル藁編みベッド (building)</SuperiorDoubleStrawBed_Frame.label>
+  <SuperiorDoubleStrawBed_Frame.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。/nそれでも通常のベッドより質は少し落ちる。</SuperiorDoubleStrawBed_Frame.description>
+
+  <AnimalStrawBedSmall.label>動物用藁ベッド(小)</AnimalStrawBedSmall.label>
+  <AnimalStrawBedSmall.description>動物用の藁ベッド。\n【売却不可】\n鶏やウサギなどの小型動物に最適です。</AnimalStrawBedSmall.description>
+  <AnimalStrawBedSmall_Blueprint.label>動物用藁ベッド(小) (blueprint)</AnimalStrawBedSmall_Blueprint.label>
+  <AnimalStrawBedSmall_Blueprint_Install.label>動物用藁ベッド(小) (blueprint)</AnimalStrawBedSmall_Blueprint_Install.label>
+  <AnimalStrawBedSmall_Frame.label>動物用藁ベッド(小) (building)</AnimalStrawBedSmall_Frame.label>
+  <AnimalStrawBedSmall_Frame.description>動物用の藁ベッド。\n【売却不可】\n鶏やウサギなどの小型動物に最適です。</AnimalStrawBedSmall_Frame.description>
+
+  <AnimalStrawBed.label>動物用藁ベッド</AnimalStrawBed.label>
+  <AnimalStrawBed.description>動物用の藁ベッド。\n【売却不可】\n犬からマッファローまでの中型動物に最適です。</AnimalStrawBed.description>
+  <AnimalStrawBed_Blueprint.label>動物用藁ベッド (blueprint)</AnimalStrawBed_Blueprint.label>
+  <AnimalStrawBed_Blueprint_Install.label>動物用藁ベッド (blueprint)</AnimalStrawBed_Blueprint_Install.label>
+  <AnimalStrawBed_Frame.label>動物用藁ベッド (building)</AnimalStrawBed_Frame.label>
+  <AnimalStrawBed_Frame.description>動物用の藁ベッド。\n【売却不可】\n犬からマッファローまでの中型動物に最適です。</AnimalStrawBed_Frame.description>
+
+  <AnimalStrawBedBig.label>動物用藁ベッド(大)</AnimalStrawBedBig.label>
+  <AnimalStrawBedBig.description>動物用の藁ベッド。\n【売却不可】\nスランボや象などの大型動物に最適です。</AnimalStrawBedBig.description>
+  <AnimalStrawBedBig_Blueprint.label>動物用藁ベッド(大) (blueprint)</AnimalStrawBedBig_Blueprint.label>
+  <AnimalStrawBedBig_Blueprint_Install.label>動物用藁ベッド(大) (blueprint)</AnimalStrawBedBig_Blueprint_Install.label>
+  <AnimalStrawBedBig_Frame.label>動物用藁ベッド(大) (building)</AnimalStrawBedBig_Frame.label>
+  <AnimalStrawBedBig_Frame.description>動物用の藁ベッド。\n【売却不可】\nスランボや象などの大型動物に最適です。</AnimalStrawBedBig_Frame.description>
+
+  <GroundSit.label>地べたに座る</GroundSit.label>
+  <GroundSit.description>地べたに座ることができるのでレジャーシートと一緒に使おう</GroundSit.description>
+  <GroundSit_Blueprint.label>地べたに座る (blueprint)</GroundSit_Blueprint.label>
+  <GroundSit_Frame.label>地べたに座る (building)</GroundSit_Frame.label>
+  <GroundSit_Frame.description>地べたに座ることができるのでレジャーシートと一緒に使おう</GroundSit_Frame.description>
+
+
+  <!-- 茣蓙(ござ) -->
+
+  <R_Goza_large.label>茣蓙(大)</R_Goza_large.label>
+  <R_Goza_large.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</R_Goza_large.description>
+  <R_Goza_large_Blueprint.label>茣蓙(大) (blueprint)</R_Goza_large_Blueprint.label>
+  <R_Goza_large_Frame.label>茣蓙(大) (building)</R_Goza_large_Frame.label>
+  <R_Goza_large_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</R_Goza_large_Frame.description>
+
+  <R_Goza.label>茣蓙</R_Goza.label>
+  <R_Goza.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</R_Goza.description>
+  <R_Goza_Blueprint.label>茣蓙 (blueprint)</R_Goza_Blueprint.label>
+  <R_Goza_Frame.label>茣蓙 (building)</R_Goza_Frame.label>
+  <R_Goza_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</R_Goza_Frame.description>
+
+
+  <!-- レジャーシート -->
+
+  <PicnicSheet_large.label>レジャーシート(大)</PicnicSheet_large.label>
+  <PicnicSheet_large.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</PicnicSheet_large.description>
+  <PicnicSheet_large_Blueprint.label>レジャーシート(大) (blueprint)</PicnicSheet_large_Blueprint.label>
+  <PicnicSheet_large_Frame.label>レジャーシート(大) (building)</PicnicSheet_large_Frame.label>
+  <PicnicSheet_large_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</PicnicSheet_large_Frame.description>
+
+  <PicnicSheet.label>レジャーシート</PicnicSheet.label>
+  <PicnicSheet.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</PicnicSheet.description>
+  <PicnicSheet_Blueprint.label>レジャーシート (blueprint)</PicnicSheet_Blueprint.label>
+  <PicnicSheet_Frame.label>レジャーシート (building)</PicnicSheet_Frame.label>
+  <PicnicSheet_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</PicnicSheet_Frame.description>
+
+
+</LanguageData>

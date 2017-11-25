@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単+0 イナゴの佃煮+1 -->
+
+  <R_AteTukudani.stages.0.label>イナゴの佃煮を食べた</R_AteTukudani.stages.0.label>
+  <R_AteTukudani.stages.0.description>目をつぶって食べれば意外といける・・・？</R_AteTukudani.stages.0.description>
+
+
+  <!-- 簡単+0 白米+3 -->
+
+  <R_AteMealSimple.stages.0.label>美味しい白米を食べた!!</R_AteMealSimple.stages.0.label>
+  <R_AteMealSimple.stages.0.description>自家製白米が食べられて幸せだ</R_AteMealSimple.stages.0.description>
+
+
+  <!-- 手の込んだ+5 白米+5 -->
+
+  <R_AteMealFine.stages.0.label>美味しい白米を食べた!!</R_AteMealFine.stages.0.label>
+  <R_AteMealFine.stages.0.description>自家製白米を使った手の込んだ料理が食べられて幸せだ</R_AteMealFine.stages.0.description>
+
+
+  <!-- 豪華+10 白米+10 -->
+
+  <R_MealLavish.stages.0.label>美味しい白米を食べた!!</R_MealLavish.stages.0.label>
+  <R_MealLavish.stages.0.description>最高に美味しい自家製白米を使った豪華な料理が食べられて幸せだ</R_MealLavish.stages.0.description>
+
+  <R_CurryRice.stages.0.label>カレーライス最高!!</R_CurryRice.stages.0.label>
+  <R_CurryRice.stages.0.description>具材をかえ食べ方を変えれば、毎日違う味を楽しめる!!</R_CurryRice.stages.0.description>
+
+
+  <!-- 調味料 -->
+
+  <R_SeasoningDebuff.stages.0.label>飯を・・・食わせて・・・</R_SeasoningDebuff.stages.0.label>
+  <R_SeasoningDebuff.stages.0.description>食料が調味料だけとか正気の沙汰じゃない・・・</R_SeasoningDebuff.stages.0.description>
+
+  <R_Syrupbuff.stages.0.label>盗み食いは蜜の味</R_Syrupbuff.stages.0.label>
+  <R_Syrupbuff.stages.0.description>みんなに見つからないように舐める米飴はスリル満点な甘さだ!!</R_Syrupbuff.stages.0.description>
+
+
+</LanguageData>

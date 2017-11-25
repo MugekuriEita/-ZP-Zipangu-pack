@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 精米機　籾米⇒白米 -->
+
+  <MakeRiceMillingMachineRice10.label>籾米を白米にする(10)</MakeRiceMillingMachineRice10.label>
+  <MakeRiceMillingMachineRice10.description>籾米を精米して白米、籾殻、米ぬかにわける。</MakeRiceMillingMachineRice10.description>
+  <MakeRiceMillingMachineRice10.jobString>精米中</MakeRiceMillingMachineRice10.jobString>
+
+  <MakeRiceMillingMachineRice50.label>籾米を白米にする(50)</MakeRiceMillingMachineRice50.label>
+  <MakeRiceMillingMachineRice50.description>籾米を精米して白米、籾殻、米ぬかにわける。</MakeRiceMillingMachineRice50.description>
+  <MakeRiceMillingMachineRice50.jobString>精米中</MakeRiceMillingMachineRice50.jobString>
+
+  <MakeRiceMillingMachineRice100.label>籾米を白米にする(100)</MakeRiceMillingMachineRice100.label>
+  <MakeRiceMillingMachineRice100.description>籾米を精米して白米、籾殻、米ぬかにわける。</MakeRiceMillingMachineRice100.description>
+  <MakeRiceMillingMachineRice100.jobString>精米中</MakeRiceMillingMachineRice100.jobString>
+
+  <MakeRiceMillingMachineRice200.label>籾米を白米にする(200)</MakeRiceMillingMachineRice200.label>
+  <MakeRiceMillingMachineRice200.description>籾米を白米、籾殻、米ぬかにわける。</MakeRiceMillingMachineRice200.description>
+  <MakeRiceMillingMachineRice200.jobString>精米中</MakeRiceMillingMachineRice200.jobString>
+
+
+  <!-- 精米機　米(籾)⇒玄米 -->
+
+  <MakeRiceMillingMachineRice10_2.label>籾米を玄米にする(10)</MakeRiceMillingMachineRice10_2.label>
+  <MakeRiceMillingMachineRice10_2.description>籾を外して玄米と籾殻にわける。</MakeRiceMillingMachineRice10_2.description>
+  <MakeRiceMillingMachineRice10_2.jobString>籾摺り中</MakeRiceMillingMachineRice10_2.jobString>
+
+  <MakeRiceMillingMachineRice50_2.label>籾米を玄米にする(50)</MakeRiceMillingMachineRice50_2.label>
+  <MakeRiceMillingMachineRice50_2.description>籾を外して玄米と籾殻にわける。</MakeRiceMillingMachineRice50_2.description>
+  <MakeRiceMillingMachineRice50_2.jobString>籾摺り中</MakeRiceMillingMachineRice50_2.jobString>
+
+  <MakeRiceMillingMachineRice100_2.label>籾米を玄米にする(100)</MakeRiceMillingMachineRice100_2.label>
+  <MakeRiceMillingMachineRice100_2.description>籾を外して玄米と籾殻にわける。</MakeRiceMillingMachineRice100_2.description>
+  <MakeRiceMillingMachineRice100_2.jobString>籾摺り中</MakeRiceMillingMachineRice100_2.jobString>
+
+  <MakeRiceMillingMachineRice200_2.label>籾米を玄米にする(200)</MakeRiceMillingMachineRice200_2.label>
+  <MakeRiceMillingMachineRice200_2.description>籾を外して玄米と籾殻にわける。</MakeRiceMillingMachineRice200_2.description>
+  <MakeRiceMillingMachineRice200_2.jobString>籾摺り中</MakeRiceMillingMachineRice200_2.jobString>
+
+
+  <!-- 精米機　玄米⇒白米 -->
+
+  <MakeRiceMillingMachineRice10_3.label>玄米を白米にする(10)</MakeRiceMillingMachineRice10_3.label>
+  <MakeRiceMillingMachineRice10_3.description>精米することで白米と米ぬかにわける。</MakeRiceMillingMachineRice10_3.description>
+  <MakeRiceMillingMachineRice10_3.jobString>精米中</MakeRiceMillingMachineRice10_3.jobString>
+
+  <MakeRiceMillingMachineRice50_3.label>玄米を白米にする(50)</MakeRiceMillingMachineRice50_3.label>
+  <MakeRiceMillingMachineRice50_3.description>精米することで白米と米ぬかにわける。</MakeRiceMillingMachineRice50_3.description>
+  <MakeRiceMillingMachineRice50_3.jobString>精米中</MakeRiceMillingMachineRice50_3.jobString>
+
+  <MakeRiceMillingMachineRice100_3.label>玄米を白米にする(100)</MakeRiceMillingMachineRice100_3.label>
+  <MakeRiceMillingMachineRice100_3.description>精米することで白米と米ぬかにわける。</MakeRiceMillingMachineRice100_3.description>
+  <MakeRiceMillingMachineRice100_3.jobString>精米中</MakeRiceMillingMachineRice100_3.jobString>
+
+  <MakeRiceMillingMachineRice200_3.label>玄米を白米にする(200)</MakeRiceMillingMachineRice200_3.label>
+  <MakeRiceMillingMachineRice200_3.description>精米することで白米と米ぬかにわける。</MakeRiceMillingMachineRice200_3.description>
+  <MakeRiceMillingMachineRice200_3.jobString>精米中</MakeRiceMillingMachineRice200_3.jobString>
+
+
+</LanguageData>

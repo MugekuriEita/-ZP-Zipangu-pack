@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ポン菓子ロープ -->
+
+  <ZP_Ponponrat.label>ポンポンねずみ</ZP_Ponponrat.label>
+  <ZP_Ponponrat.labelPlural>ポンポンねずみs</ZP_Ponponrat.labelPlural>
+  <ZP_Ponponrat.lifeStages.0.label>Ponponrat calf</ZP_Ponponrat.lifeStages.0.label>
+  <ZP_Ponponrat.lifeStages.0.labelPlural>boomalope calves</ZP_Ponponrat.lifeStages.0.labelPlural>
+  <ZP_Ponponrat.lifeStages.0.labelMale>male Ponponrat calf</ZP_Ponponrat.lifeStages.0.labelMale>
+  <ZP_Ponponrat.lifeStages.0.labelMalePlural>male boomalope calves</ZP_Ponponrat.lifeStages.0.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.0.labelFemale>female Ponponrat calf</ZP_Ponponrat.lifeStages.0.labelFemale>
+  <ZP_Ponponrat.lifeStages.0.labelFemalePlural>female boomalope calves</ZP_Ponponrat.lifeStages.0.labelFemalePlural>
+  <ZP_Ponponrat.lifeStages.1.label>ポンポンねずみ</ZP_Ponponrat.lifeStages.1.label>
+  <ZP_Ponponrat.lifeStages.1.labelPlural>ポンポンねずみ</ZP_Ponponrat.lifeStages.1.labelPlural>
+  <ZP_Ponponrat.lifeStages.1.labelMale>male ポンポンねずみ</ZP_Ponponrat.lifeStages.1.labelMale>
+  <ZP_Ponponrat.lifeStages.1.labelMalePlural>male ポンポンねずみs</ZP_Ponponrat.lifeStages.1.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.1.labelFemale>female ポンポンねずみ</ZP_Ponponrat.lifeStages.1.labelFemale>
+  <ZP_Ponponrat.lifeStages.1.labelFemalePlural>female ポンポンねずみs</ZP_Ponponrat.lifeStages.1.labelFemalePlural>
+  <ZP_Ponponrat.lifeStages.2.label>ポンポンねずみ</ZP_Ponponrat.lifeStages.2.label>
+  <ZP_Ponponrat.lifeStages.2.labelPlural>ポンポンねずみ</ZP_Ponponrat.lifeStages.2.labelPlural>
+  <ZP_Ponponrat.lifeStages.2.labelMale>male ポンポンねずみ</ZP_Ponponrat.lifeStages.2.labelMale>
+  <ZP_Ponponrat.lifeStages.2.labelMalePlural>male ポンポンねずみs</ZP_Ponponrat.lifeStages.2.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.2.labelFemale>female ポンポンねずみ</ZP_Ponponrat.lifeStages.2.labelFemale>
+  <ZP_Ponponrat.lifeStages.2.labelFemalePlural>female ポンポンねずみs</ZP_Ponponrat.lifeStages.2.labelFemalePlural>
+  <ZP_Ponponrat.labelMale>male ポンポンねずみ</ZP_Ponponrat.labelMale>
+  <ZP_Ponponrat.labelMalePlural>male ポンポンねずみs</ZP_Ponponrat.labelMalePlural>
+  <ZP_Ponponrat.labelFemale>female ポンポンねずみ</ZP_Ponponrat.labelFemale>
+  <ZP_Ponponrat.labelFemalePlural>female ポンポンねずみs</ZP_Ponponrat.labelFemalePlural>
+
+
+</LanguageData>

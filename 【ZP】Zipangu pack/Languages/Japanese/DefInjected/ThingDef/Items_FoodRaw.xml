@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_SeasonedMeat.label>味付け肉</R_SeasonedMeat.label>
+  <R_SeasonedMeat.description>調味料で肉の臭みを消して保存性を少し高めたお肉。\n生でも食べれて、調理にも使える。</R_SeasonedMeat.description>
+
+  <R_FreezeMochi.label>凍り餅</R_FreezeMochi.label>
+  <R_FreezeMochi.description>餅を水に浸して凍らせたものを寒風に晒して乾燥させた保存食。\n生でも食べれて、調理にも使える。</R_FreezeMochi.description>
+
+  <ZP_RiceBranPickled.label>ぬか漬け</ZP_RiceBranPickled.label>
+  <ZP_RiceBranPickled.description>野菜をぬかにつけ漬物にした保存食。\n生でも食べれて、調理にも使える。</ZP_RiceBranPickled.description>
+
+  <ZP_DriedFish.label>魚の干物</ZP_DriedFish.label>
+  <ZP_DriedFish.description>生魚を腐らせないよう干した保存食。\n生でも食べれて、調理にも使える。</ZP_DriedFish.description>
+
+  <ZP_FermentedSoybeans.label>納豆</ZP_FermentedSoybeans.label>
+  <ZP_FermentedSoybeans.description>大豆を納豆菌で発酵させた日本の発酵食品。生でも食べれて、調理にも使える。</ZP_FermentedSoybeans.description>
+
+
+</LanguageData>

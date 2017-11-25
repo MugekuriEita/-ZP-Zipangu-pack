@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料 -->
+
+  <Momigalite.label>モミガライト</Momigalite.label>
+  <Momigalite.description>籾殻を燃料用に加工したもの。</Momigalite.description>
+
+  <FuelStraw.label>燃料用藁</FuelStraw.label>
+  <FuelStraw.description>藁を燃料用に加工したもの。</FuelStraw.description>
+
+
+  <!-- 米俵 -->
+
+  <StrawRiceBag_RawRice.label>米俵(米)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>米(生)を大量に保管できる。また、特産品として売れる。</StrawRiceBag_RawRice.description>
+
+  <StrawRiceBag_RiceMomi.label>米俵(籾)</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>米(籾)を保管できる。また、特産品として売れる。</StrawRiceBag_RiceMomi.description>
+
+  <StrawRiceBag_BrownRice.label>米俵(玄米)</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>玄米を保管できる。また、特産品として高く売れる。</StrawRiceBag_BrownRice.description>
+
+  <StrawRiceBag_WhiteRice.label>米俵(白米)</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>白米を保管できる。また、特産品として非常に高く売れる。</StrawRiceBag_WhiteRice.description>
+
+
+  <!-- 肥料 -->
+
+  <R_Compost.label>堆肥</R_Compost.label>
+  <R_Compost.description>副産物袋を発酵させ肥料にしたもの。水田や土壌改良の際に必要。</R_Compost.description>
+
+  <ZP_Earthworm.label>ミミズ</ZP_Earthworm.label>
+  <ZP_Earthworm.description>魚の餌や土壌改良の際に必要。</ZP_Earthworm.description>
+
+  <ZP_Mud.label>泥</ZP_Mud.label>
+  <ZP_Mud.description>土壌改良の際に必要。</ZP_Mud.description>
+
+
+  <!-- 飼料 -->
+
+  <Manger.label>飼い葉</Manger.label>
+  <Manger.description>家畜用飼料(高栄養素)</Manger.description>
+
+  <PetFood.label>増量ペットフード</PetFood.label>
+  <PetFood.description>かさ増しされたペットフード。</PetFood.description>
+
+  <ZP_FishFood.label>魚の餌</ZP_FishFood.label>
+  <ZP_FishFood.description>米ぬかとジャガイモを水で練り合わせて作った魚の練り餌。\n 動物も食べることが出来る。</ZP_FishFood.description>
+
+  <TatamiStraw.label>建材用藁</TatamiStraw.label>
+  <TatamiStraw.description>藁を建材用に加工したもの。</TatamiStraw.description>
+
+
+</LanguageData>

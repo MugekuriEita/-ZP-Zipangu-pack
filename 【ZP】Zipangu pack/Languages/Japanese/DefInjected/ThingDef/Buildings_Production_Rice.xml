@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThreshingMachine.label>脱穀機</ThreshingMachine.label>
+  <ThreshingMachine.description>【役割：脱穀】\n稲穂を脱穀して米(籾)を生産する農具。人力でやるため効率は悪い。</ThreshingMachine.description>
+  <ThreshingMachine_Blueprint.label>脱穀機 (blueprint)</ThreshingMachine_Blueprint.label>
+  <ThreshingMachine_Blueprint_Install.label>脱穀機 (blueprint)</ThreshingMachine_Blueprint_Install.label>
+  <ThreshingMachine_Frame.label>脱穀機 (building)</ThreshingMachine_Frame.label>
+  <ThreshingMachine_Frame.description>【役割：脱穀】\n稲穂を脱穀して米(籾)を生産する農具。人力でやるため効率は悪い。</ThreshingMachine_Frame.description>
+
+  <RiceStoneSlurry.label>籾摺り臼</RiceStoneSlurry.label>
+  <RiceStoneSlurry.description>【役割：籾摺り】\n脱穀するための臼。人力でやるため効率は悪い。</RiceStoneSlurry.description>
+  <RiceStoneSlurry_Blueprint.label>籾摺り臼 (blueprint)</RiceStoneSlurry_Blueprint.label>
+  <RiceStoneSlurry_Blueprint_Install.label>籾摺り臼 (blueprint)</RiceStoneSlurry_Blueprint_Install.label>
+  <RiceStoneSlurry_Frame.label>籾摺り臼 (building)</RiceStoneSlurry_Frame.label>
+  <RiceStoneSlurry_Frame.description>【役割：籾摺り】\n脱穀するための臼。人力でやるため効率は悪い。</RiceStoneSlurry_Frame.description>
+
+  <RiceMillingMachine.label>精米機</RiceMillingMachine.label>
+  <RiceMillingMachine.description>【役割：籾摺り,精米】\n米(籾)や玄米を加工する際に使用する。美味しい白米を食べたい欲求のためだけに産み出された機械。</RiceMillingMachine.description>
+  <RiceMillingMachine_Blueprint.label>精米機 (blueprint)</RiceMillingMachine_Blueprint.label>
+  <RiceMillingMachine_Blueprint_Install.label>精米機 (blueprint)</RiceMillingMachine_Blueprint_Install.label>
+  <RiceMillingMachine_Frame.label>精米機 (building)</RiceMillingMachine_Frame.label>
+  <RiceMillingMachine_Frame.description>【役割：籾摺り,精米】\n米(籾)や玄米を加工する際に使用する。美味しい白米を食べたい欲求のためだけに産み出された機械。</RiceMillingMachine_Frame.description>
+
+  <ThreshingRiceMillingMachine.label>マルチ式脱穀精米機</ThreshingRiceMillingMachine.label>
+  <ThreshingRiceMillingMachine.description>【役割：脱穀,籾摺り,精米】\n脱穀から精米まで一気にやってくれる最新型のマルチ式脱穀精米機。</ThreshingRiceMillingMachine.description>
+  <ThreshingRiceMillingMachine_Blueprint.label>マルチ式脱穀精米機 (blueprint)</ThreshingRiceMillingMachine_Blueprint.label>
+  <ThreshingRiceMillingMachine_Blueprint_Install.label>マルチ式脱穀精米機 (blueprint)</ThreshingRiceMillingMachine_Blueprint_Install.label>
+  <ThreshingRiceMillingMachine_Frame.label>マルチ式脱穀精米機 (building)</ThreshingRiceMillingMachine_Frame.label>
+  <ThreshingRiceMillingMachine_Frame.description>【役割：脱穀,籾摺り,精米】\n脱穀から精米まで一気にやってくれる最新型のマルチ式脱穀精米機。</ThreshingRiceMillingMachine_Frame.description>
+
+
+</LanguageData>

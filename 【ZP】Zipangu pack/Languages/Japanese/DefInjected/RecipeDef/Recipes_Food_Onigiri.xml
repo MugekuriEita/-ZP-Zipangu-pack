@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単な食事 おにぎり -->
+
+  <CookBROnigiri4.label>玄米 おにぎり(4)</CookBROnigiri4.label>
+  <CookBROnigiri4.description>おにぎりを４個作る</CookBROnigiri4.description>
+  <CookBROnigiri4.jobString>おにぎりを作る</CookBROnigiri4.jobString>
+
+  <CookWROnigiri4.label>おにぎり(4)</CookWROnigiri4.label>
+  <CookWROnigiri4.description>おにぎりを４個作る</CookWROnigiri4.description>
+  <CookWROnigiri4.jobString>おにぎりを作る</CookWROnigiri4.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedMochi.label>【速】モチパワー</HedMochi.label>
+  <HedMochi.stages.0.label>餅を食べた</HedMochi.stages.0.label>
+
+  <HedMochi2.label>【技】モチパワー</HedMochi2.label>
+  <HedMochi2.stages.0.label>餅を食べた</HedMochi2.stages.0.label>
+
+  <HedPuffedRice.label>私の体に爆発力が宿る！！</HedPuffedRice.label>
+  <HedPuffedRice.stages.0.label>ポン菓子を食べた</HedPuffedRice.stages.0.label>
+
+  <HedFermentedFood.label>匂いたつ発酵食品</HedFermentedFood.label>
+  <HedFermentedFood.stages.0.label>発酵食品を食べた</HedFermentedFood.stages.0.label>
+
+  <HedFishFood.label>お魚天国!!</HedFishFood.label>
+  <HedFishFood.stages.0.label>魚料理を食べた</HedFishFood.stages.0.label>
+
+  <HedFreshFishFood.label>海鮮天国!!</HedFreshFishFood.label>
+  <HedFreshFishFood.stages.0.label>海鮮料理を食べた</HedFreshFishFood.stages.0.label>
+
+
+</LanguageData>
